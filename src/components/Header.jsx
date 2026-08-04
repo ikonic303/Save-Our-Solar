@@ -26,7 +26,7 @@ export default function Header() {
       <div className="utility-bar">
         <div className="container utility-bar-inner">
           <span className="utility-bar-badge">
-            <Clock3 size={14} style={{ marginRight: 6, verticalAlign: -2 }} />
+            <Clock3 size={14} />
             {HOURS} Emergency Dispatch
           </span>
           <div className="utility-bar-links">

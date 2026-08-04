@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom";
-import { Clock3, MapPin, ShieldCheck } from "lucide-react";
+import { Clock3, MapPin, ShieldCheck, Image as ImageIcon } from "lucide-react";
 
 const DEFAULT_BADGES = [
   { icon: Clock3, label: "24/7 Dispatch" },
@@ -15,6 +15,7 @@ export default function Hero({
   secondaryCta,
   compact = false,
   badges = null,
+  showImage = false,
 }) {
   const showBadges = badges !== false && !compact;
   const badgeItems = badges || DEFAULT_BADGES;
@@ -24,34 +25,47 @@ export default function Hero({
       <div className="hero-bg" aria-hidden="true">
         <div className="hero-grid" />
       </div>
-      <div className="container hero-inner">
-        {eyebrow && <span className="eyebrow">{eyebrow}</span>}
-        <h1>{title}</h1>
-        {subtitle && <p className="hero-subtitle">{subtitle}</p>}
+      <div className={`container hero-layout ${showImage ? "has-image" : ""}`}>
+        <div className="hero-inner">
+          {eyebrow && <span className="eyebrow">{eyebrow}</span>}
+          <h1>{title}</h1>
+          {subtitle && <p className="hero-subtitle">{subtitle}</p>}
 
-        {(primaryCta || secondaryCta) && (
-          <div className="hero-ctas">
-            {primaryCta && (
-              <Link className="btn btn-primary btn-lg" to={primaryCta.to}>
-                {primaryCta.label}
-              </Link>
-            )}
-            {secondaryCta && (
-              <Link className="btn btn-secondary btn-lg" to={secondaryCta.to}>
-                {secondaryCta.label}
-              </Link>
-            )}
-          </div>
-        )}
+          {(primaryCta || secondaryCta) && (
+            <div className="hero-ctas">
+              {primaryCta && (
+                <Link className="btn btn-primary btn-lg" to={primaryCta.to}>
+                  {primaryCta.label}
+                </Link>
+              )}
+              {secondaryCta && (
+                <Link className="btn btn-secondary btn-lg" to={secondaryCta.to}>
+                  {secondaryCta.label}
+                </Link>
+              )}
+            </div>
+          )}
 
-        {showBadges && (
-          <div className="hero-badges">
-            {badgeItems.map(({ icon: Icon, label }) => (
-              <span className="hero-badge" key={label}>
-                <Icon size={15} strokeWidth={2.2} />
-                {label}
-              </span>
-            ))}
+          {showBadges && (
+            <div className="hero-badges">
+              {badgeItems.map(({ icon: Icon, label }) => (
+                <span className="hero-badge" key={label}>
+                  <Icon size={15} strokeWidth={2.2} />
+                  {label}
+                </span>
+              ))}
+            </div>
+          )}
+        </div>
+
+        {showImage && (
+          <div className="hero-image">
+            <div className="hero-image-frame">
+              {/* PLACEHOLDER: hero photo (technician on a roof / solar panel close-up) —
+                  client will provide via Google Drive. Swap this block for a real <img>. */}
+              <ImageIcon size={36} strokeWidth={1.5} />
+              <span>Solar technician photo coming soon</span>
+            </div>
           </div>
         )}
       </div>
@@ -83,9 +97,17 @@ export default function Hero({
           background-size: 48px 48px;
           mask-image: radial-gradient(ellipse 80% 60% at 30% 20%, black, transparent 70%);
         }
-        .hero-inner {
+        .hero-layout {
           position: relative;
+          display: grid;
+          gap: 40px;
+          align-items: center;
+        }
+        .hero-inner {
           max-width: 800px;
+        }
+        .hero-layout.has-image .hero-inner {
+          max-width: none;
         }
         .hero-subtitle {
           font-size: 1.15rem;
@@ -98,9 +120,32 @@ export default function Hero({
           flex-direction: column;
           gap: 14px;
         }
+        .hero-image-frame {
+          display: flex;
+          flex-direction: column;
+          align-items: center;
+          justify-content: center;
+          gap: 12px;
+          aspect-ratio: 16 / 9;
+          border-radius: var(--radius-lg);
+          border: 1.5px dashed rgba(255, 255, 255, 0.25);
+          background: rgba(255, 255, 255, 0.04);
+          color: var(--text-on-dark-muted);
+          font-size: 0.88rem;
+          text-align: center;
+          padding: 24px;
+        }
         @media (min-width: 560px) {
           .hero-ctas {
             flex-direction: row;
+          }
+        }
+        @media (min-width: 860px) {
+          .hero-layout.has-image {
+            grid-template-columns: 1.15fr 0.85fr;
+          }
+          .hero-image-frame {
+            aspect-ratio: 4 / 5;
           }
         }
         @media (min-width: 768px) {

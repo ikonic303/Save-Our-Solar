@@ -27,6 +27,7 @@ export default function Home() {
         subtitle="Panels don't fix themselves. When something goes wrong, Save Our Solar Club dispatches real technicians to your door — fast. Enroll in a membership and never face a solar problem alone."
         primaryCta={{ to: "/contact", label: "Request Inspection" }}
         secondaryCta={{ to: "/membership", label: "Enroll Now" }}
+        showImage
       />
 
       <div className="section-divider" />
