@@ -10,6 +10,8 @@ import Services from "./pages/Services";
 import About from "./pages/About";
 import Insurance from "./pages/Insurance";
 import Contact from "./pages/Contact";
+import PrivacyPolicy from "./pages/PrivacyPolicy";
+import TermsConditions from "./pages/TermsConditions";
 import NotFound from "./pages/NotFound";
 
 export default function App() {
@@ -32,6 +34,8 @@ export default function App() {
           <Route path="/about" element={<About />} />
           <Route path="/insurance" element={<Insurance />} />
           <Route path="/contact" element={<Contact />} />
+          <Route path="/privacy-policy" element={<PrivacyPolicy />} />
+          <Route path="/terms-conditions" element={<TermsConditions />} />
           <Route path="*" element={<NotFound />} />
         </Routes>
       </main>

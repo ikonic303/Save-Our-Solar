@@ -742,6 +742,67 @@ button {
   min-height: 700px;
 }
 
+/* Legal pages (Privacy Policy, Terms & Conditions) */
+.legal-content {
+  max-width: var(--container-narrow);
+}
+
+.legal-content h2 {
+  font-size: 1.4rem;
+  margin-top: 44px;
+  margin-bottom: 12px;
+  padding-top: 20px;
+  border-top: 1px solid var(--border);
+}
+
+.legal-content h2:first-child {
+  margin-top: 0;
+  padding-top: 0;
+  border-top: none;
+}
+
+.legal-content h3 {
+  font-size: 1.05rem;
+  margin-top: 24px;
+  margin-bottom: 8px;
+}
+
+.legal-content p {
+  color: var(--text-muted);
+  margin-bottom: 14px;
+}
+
+.legal-content ul {
+  color: var(--text-muted);
+  margin: 0 0 14px;
+  padding-left: 22px;
+}
+
+.legal-content li {
+  margin-bottom: 6px;
+}
+
+.legal-content strong {
+  color: var(--ink);
+}
+
+.legal-content a {
+  color: var(--electric-pink-deep);
+  text-decoration: underline;
+}
+
+.legal-content .legal-updated {
+  color: var(--text-muted);
+  font-size: 0.9rem;
+  margin-bottom: 32px;
+}
+
+.legal-content address {
+  font-style: normal;
+  color: var(--text-muted);
+  line-height: 1.7;
+}
+
 /* Utility bar (top strip above main nav) */
 .utility-bar {
   display: none;

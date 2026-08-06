@@ -84,9 +84,9 @@ export default function Footer() {
           &copy; {year} {COMPANY_NAME}. All rights reserved.
           {" "}License &amp; insurance details — [PLACEHOLDER].
         </p>
-        <div className="footer-legal-links text-muted">
-          <span>Privacy Policy — [PLACEHOLDER]</span>
-          <span>Terms of Service — [PLACEHOLDER]</span>
+        <div className="footer-legal-links">
+          <Link to="/privacy-policy">Privacy Policy</Link>
+          <Link to="/terms-conditions">Terms &amp; Conditions</Link>
         </div>
       </div>
 
@@ -176,6 +176,14 @@ export default function Footer() {
           flex-wrap: wrap;
           gap: 16px;
           font-size: 0.82rem;
+        }
+        .footer-legal-links a {
+          color: var(--text-on-dark-muted);
+          text-decoration: underline;
+          text-underline-offset: 2px;
+        }
+        .footer-legal-links a:hover {
+          color: var(--energy-yellow);
         }
         @media (min-width: 720px) {
           .footer-grid {

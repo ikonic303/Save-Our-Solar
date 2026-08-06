@@ -6,7 +6,7 @@ export const EMAIL = "Sos@saveoursolarclub.com";
 
 export const ADDRESS = {
   line1: "7535 East Hampden Avenue",
-  line2: "Hampden, Ste 400",
+  line2: "Suite 400",
   city: "Denver",
   state: "CO",
   zip: "80231",
