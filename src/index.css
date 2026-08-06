@@ -638,6 +638,42 @@ button {
   margin-bottom: 8px;
 }
 
+/* Subcategory subheadings inside a combined accordion panel (e.g. "Additional
+   Solar & Homeowner Services") */
+.service-subcategories {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.service-subcategory + .service-subcategory {
+  padding-top: 16px;
+  border-top: 1px solid var(--border);
+}
+
+.service-subcategory-heading {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  font-size: 0.95rem;
+  margin: 0 0 8px;
+  color: var(--ink);
+}
+
+.service-subcategory-heading svg {
+  color: var(--electric-pink-deep);
+  flex-shrink: 0;
+}
+
+.service-subcategory ul {
+  margin: 0;
+  padding-left: 20px;
+}
+
+.service-subcategory li {
+  margin-bottom: 8px;
+}
+
 /* Lead form */
 .lead-form {
   padding: 28px 24px;
@@ -689,6 +725,21 @@ button {
 .lead-form-success {
   padding: 32px 24px;
   text-align: center;
+}
+
+/* Embedded (external CRM) lead form — see components/EmbeddedInspectionForm.jsx */
+.embedded-form {
+  padding: 12px;
+  min-height: 720px;
+}
+
+.embedded-form:hover {
+  transform: none;
+  box-shadow: var(--shadow-card);
+}
+
+.embedded-form iframe {
+  min-height: 700px;
 }
 
 /* Utility bar (top strip above main nav) */
@@ -757,57 +808,12 @@ button {
   background: linear-gradient(90deg, var(--energy-yellow), var(--electric-pink));
 }
 
-/* Credibility strip / stat tiles */
-.credibility-strip {
-  display: grid;
-  gap: var(--space-5);
-  grid-template-columns: 1fr;
-}
-
-@media (min-width: 720px) {
-  .credibility-strip {
-    grid-template-columns: repeat(4, 1fr);
-  }
-}
-
 .stat-tile {
   background: var(--surface);
   border: 1px solid var(--border);
   border-radius: var(--radius-md);
   padding: var(--space-5);
   text-align: center;
-}
-
-.stat-tile-value {
-  font-family: var(--heading);
-  font-size: 1.9rem;
-  font-weight: 800;
-  color: var(--ink);
-  margin-bottom: 4px;
-}
-
-.stat-tile-label {
-  font-size: 0.88rem;
-  color: var(--text-muted);
-}
-
-.badge-row {
-  display: flex;
-  flex-wrap: wrap;
-  gap: var(--space-3);
-  justify-content: center;
-}
-
-.badge-placeholder {
-  display: inline-flex;
-  align-items: center;
-  gap: 8px;
-  border: 1.5px dashed var(--border-strong);
-  border-radius: 999px;
-  padding: 9px 16px;
-  font-size: 0.82rem;
-  color: var(--text-muted);
-  background: var(--surface-alt);
 }
 
 .icon-badge {

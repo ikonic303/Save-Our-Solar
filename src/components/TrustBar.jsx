@@ -1,8 +1,9 @@
-import { Clock, MapPin, Award } from "lucide-react";
+import { Clock, Globe2, Users, Award } from "lucide-react";
 
 const ITEMS = [
   { icon: Clock, label: "24/7 Emergency Dispatch", detail: "Technicians on call around the clock" },
-  { icon: MapPin, label: "Denver Metro Service Area", detail: "Based in Denver, CO" },
+  { icon: Globe2, label: "Coast-to-Coast Service", detail: "A national solar protection platform" },
+  { icon: Users, label: "Hundreds of Years Combined", detail: "Backed by a nationwide network of solar pros" },
   { icon: Award, label: "8 Years in Solar", detail: "Founder-led team with hands-on field experience" },
 ];
 
@@ -47,10 +48,15 @@ export default function TrustBar() {
         .trust-tile span.text-muted {
           font-size: 0.85rem;
         }
-        @media (min-width: 720px) {
+        @media (min-width: 560px) {
           .trust-bar-inner {
-            grid-template-columns: repeat(3, 1fr);
+            grid-template-columns: repeat(2, 1fr);
             gap: 20px;
+          }
+        }
+        @media (min-width: 860px) {
+          .trust-bar-inner {
+            grid-template-columns: repeat(4, 1fr);
           }
         }
       `}</style>

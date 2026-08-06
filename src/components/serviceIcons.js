@@ -1,6 +1,5 @@
 import {
   Wrench,
-  Hammer,
   Home,
   RefreshCw,
   Gauge,
@@ -9,11 +8,11 @@ import {
   Flame,
   Package,
   ClipboardList,
+  LayoutGrid,
 } from "lucide-react";
 
 export const SERVICE_ICON_MAP = {
   Wrench,
-  Hammer,
   Home,
   RefreshCw,
   Gauge,
@@ -22,4 +21,5 @@ export const SERVICE_ICON_MAP = {
   Flame,
   Package,
   ClipboardList,
+  LayoutGrid,
 };

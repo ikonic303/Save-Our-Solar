@@ -1,11 +1,12 @@
 import { CheckCircle2 } from "lucide-react";
 import Seo from "../components/Seo";
 import Hero from "../components/Hero";
-import LeadForm from "../components/LeadForm";
+import EmbeddedInspectionForm from "../components/EmbeddedInspectionForm";
 import CtaBand from "../components/CtaBand";
 import { SERVICE_CATEGORIES } from "../data/services";
 
-const insuranceCategory = SERVICE_CATEGORIES.find((c) => c.id === "insurance");
+const additionalServices = SERVICE_CATEGORIES.find((c) => c.id === "additional-services");
+const insuranceCategory = additionalServices?.subcategories.find((s) => s.id === "insurance");
 
 export default function Insurance() {
   return (
@@ -47,7 +48,7 @@ export default function Insurance() {
             </p>
           </div>
 
-          <LeadForm heading="Request a Damage Inspection" />
+          <EmbeddedInspectionForm />
         </div>
       </section>
 
@@ -55,7 +56,7 @@ export default function Insurance() {
         title="Not a member yet?"
         subtitle="Enroll now to get priority insurance support built into your plan."
         primaryCta={{ to: "/membership", label: "Enroll Now" }}
-        secondaryCta={{ to: "/services", label: "Browse All Services" }}
+        secondaryCta={{ to: "/services#insurance", label: "Browse All Services" }}
       />
 
       <style>{`

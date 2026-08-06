@@ -10,7 +10,9 @@ import { SERVICE_ICON_MAP } from "../components/serviceIcons";
 export default function Services() {
   const { hash } = useLocation();
   const hashId = hash.replace("#", "");
-  const matchedCategory = SERVICE_CATEGORIES.find((cat) => cat.id === hashId);
+  const matchedCategory =
+    SERVICE_CATEGORIES.find((cat) => cat.id === hashId) ??
+    SERVICE_CATEGORIES.find((cat) => cat.subcategories?.some((sub) => sub.id === hashId));
 
   useEffect(() => {
     if (!matchedCategory) return;
@@ -25,7 +27,7 @@ export default function Services() {
     <>
       <Seo
         title="Services"
-        description="Solar maintenance, repairs, roofing, monitoring, upgrades, insurance support, and more — every service Save Our Solar Club offers, in one place."
+        description="Solar maintenance, repairs, roofing, monitoring, upgrades, insurance support, and more — every service Save Our Solar Club offers, delivered coast to coast through our nationwide network."
         path="/services"
       />
 
@@ -60,11 +62,32 @@ export default function Services() {
             renderContent={(cat) => (
               <>
                 <p className="text-muted">{cat.summary}</p>
-                <ul>
-                  {cat.items.map((item) => (
-                    <li key={item}>{item}</li>
-                  ))}
-                </ul>
+                {cat.subcategories ? (
+                  <div className="service-subcategories">
+                    {cat.subcategories.map((sub) => {
+                      const SubIcon = SERVICE_ICON_MAP[sub.icon];
+                      return (
+                        <div className="service-subcategory" key={sub.id}>
+                          <h4 className="service-subcategory-heading">
+                            {SubIcon && <SubIcon size={16} strokeWidth={2} />}
+                            {sub.name}
+                          </h4>
+                          <ul>
+                            {sub.items.map((item) => (
+                              <li key={item}>{item}</li>
+                            ))}
+                          </ul>
+                        </div>
+                      );
+                    })}
+                  </div>
+                ) : (
+                  <ul>
+                    {cat.items.map((item) => (
+                      <li key={item}>{item}</li>
+                    ))}
+                  </ul>
+                )}
               </>
             )}
           />

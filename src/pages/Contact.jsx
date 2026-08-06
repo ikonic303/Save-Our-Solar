@@ -1,7 +1,7 @@
 import { Phone, Mail, MapPin, Clock3 } from "lucide-react";
 import Seo from "../components/Seo";
 import Hero from "../components/Hero";
-import LeadForm from "../components/LeadForm";
+import EmbeddedInspectionForm from "../components/EmbeddedInspectionForm";
 import { PHONE_DISPLAY, PHONE_TEL, EMAIL, ADDRESS_FULL, HOURS } from "../data/contact";
 
 export default function Contact() {
@@ -9,7 +9,7 @@ export default function Contact() {
     <>
       <Seo
         title="Contact / Request Inspection"
-        description="Request a solar system inspection or get in touch with Save Our Solar Club. Available 24/7 to protect your solar investment."
+        description="Request a solar system inspection or get in touch with Save Our Solar Club. Available 24/7, coast to coast, to protect your solar investment."
         path="/contact"
       />
 
@@ -24,7 +24,7 @@ export default function Contact() {
 
       <section className="section">
         <div className="container contact-grid">
-          <LeadForm />
+          <EmbeddedInspectionForm />
 
           <div className="contact-info card">
             <h3>Reach us directly</h3>
@@ -46,8 +46,11 @@ export default function Contact() {
               <li>
                 <span className="icon-badge"><MapPin size={16} /></span>
                 <div>
-                  <strong>Address</strong>
+                  <strong>Headquarters</strong>
                   <span>{ADDRESS_FULL}</span>
+                  <span className="text-muted" style={{ fontSize: "0.78rem" }}>
+                    Service available coast to coast through our nationwide network
+                  </span>
                 </div>
               </li>
               <li>
@@ -60,8 +63,8 @@ export default function Contact() {
             </ul>
 
             <div className="placeholder-block" style={{ marginTop: 24 }}>
-              {/* PLACEHOLDER: embed a service-area map once available */}
-              Service area map coming soon
+              {/* PLACEHOLDER: embed a nationwide coverage map once available */}
+              Nationwide coverage map coming soon
             </div>
           </div>
         </div>

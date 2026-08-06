@@ -6,15 +6,17 @@ import { useLocation } from "react-router-dom";
 // no need to hand-wrap each section in a dedicated component.
 const REVEAL_SELECTORS = [
   ".hero-inner",
+  ".hero-image",
   ".section-head",
   ".card",
   ".stat-tile",
   ".cta-band-inner",
-  ".badge-row",
+  ".impact-stat",
+  ".gallery-item",
 ];
 
 // Parents whose children should reveal with a staggered delay instead of all at once.
-const STAGGER_PARENT_SELECTOR = ".grid, .badge-row, .credibility-strip";
+const STAGGER_PARENT_SELECTOR = ".grid, .impact-stats-grid, .gallery-grid";
 
 export default function useScrollReveal() {
   const { pathname } = useLocation();

@@ -4,7 +4,8 @@ import TrustBar from "../components/TrustBar";
 import ServiceCategoryCard from "../components/ServiceCategoryCard";
 import PricingTier from "../components/PricingTier";
 import AboutSection from "../components/AboutSection";
-import Credentials from "../components/Credentials";
+import ImpactStats from "../components/ImpactStats";
+import Gallery from "../components/Gallery";
 import CtaBand from "../components/CtaBand";
 import { SERVICE_CATEGORIES } from "../data/services";
 import { TIERS, ENROLLMENT_FEE } from "../data/pricing";
@@ -17,7 +18,7 @@ export default function Home() {
     <>
       <Seo
         title="Protect Your Solar Investment"
-        description="24/7 solar maintenance, repair, and dispatch membership for homeowners. Request an inspection or enroll in a Save Our Solar Club membership today."
+        description="24/7 solar maintenance, repair, and dispatch membership backed by a nationwide network of solar professionals. Request an inspection or enroll in a Save Our Solar Club membership today."
         path="/"
       />
 
@@ -28,6 +29,8 @@ export default function Home() {
         primaryCta={{ to: "/contact", label: "Request Inspection" }}
         secondaryCta={{ to: "/membership", label: "Enroll Now" }}
         showImage
+        imageSrc="/Images/best3.jpg"
+        imageAlt="Rooftop solar panel installation"
       />
 
       <div className="section-divider" />
@@ -62,6 +65,12 @@ export default function Home() {
         </div>
       </section>
 
+      <div className="section-divider" />
+      <ImpactStats />
+      <div className="section-divider" />
+
+      <Gallery />
+
       <section className="section section-alt">
         <div className="container">
           <div className="section-head center">
@@ -84,8 +93,6 @@ export default function Home() {
           </div>
         </div>
       </section>
-
-      <Credentials />
 
       <AboutSection />
 
