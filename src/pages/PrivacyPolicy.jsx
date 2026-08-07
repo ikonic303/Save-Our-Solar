@@ -1,5 +1,5 @@
 import LegalPage from "../components/LegalPage";
-import { EMAIL, COMPANY_NAME } from "../data/contact";
+import { EMAIL, COMPANY_NAME, LEGAL_ENTITY_NAME } from "../data/contact";
 
 export default function PrivacyPolicy() {
   return (
@@ -10,11 +10,12 @@ export default function PrivacyPolicy() {
       effectiveDate="August 7, 2026"
     >
       <p>
-        {COMPANY_NAME} ("Save Our Solar Club," "we," "us," or "our") respects
-        your privacy and is committed to protecting the personal information
-        you provide when visiting our website, requesting an inspection,
-        enrolling in a membership, purchasing services, communicating with
-        us, or otherwise interacting with our business.
+        {LEGAL_ENTITY_NAME}, operating as {COMPANY_NAME} ("Save Our Solar
+        Club," "we," "us," or "our") respects your privacy and is committed
+        to protecting the personal information you provide when visiting our
+        website, requesting an inspection, enrolling in a membership,
+        purchasing services, communicating with us, or otherwise interacting
+        with our business.
       </p>
       <p>
         This Privacy Policy explains what information we collect, how we use

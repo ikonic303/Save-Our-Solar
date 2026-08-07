@@ -19,3 +19,6 @@ export const HOURS = "Open 24/7";
 export const FACEBOOK_URL = "https://www.facebook.com/share/1F4MdSp3mc/?mibextid=wwXIfr";
 
 export const COMPANY_NAME = "Save Our Solar Club";
+
+// Registered legal entity operating the Save Our Solar Club brand.
+export const LEGAL_ENTITY_NAME = "SaveOurSolar LTD";

@@ -1,5 +1,5 @@
 import LegalPage from "../components/LegalPage";
-import { EMAIL, COMPANY_NAME } from "../data/contact";
+import { EMAIL, COMPANY_NAME, LEGAL_ENTITY_NAME } from "../data/contact";
 
 export default function TermsConditions() {
   return (
@@ -10,10 +10,11 @@ export default function TermsConditions() {
       effectiveDate="August 7, 2026"
     >
       <p>
-        These Terms and Conditions ("Terms") govern your use of the Save Our
-        Solar Club website, membership offerings, communications, products,
-        consultations, inspections, maintenance services, and related
-        services.
+        {LEGAL_ENTITY_NAME}, operating as {COMPANY_NAME} ("Save Our Solar
+        Club," "we," "us," or "our"). These Terms and Conditions ("Terms")
+        govern your use of the Save Our Solar Club website, membership
+        offerings, communications, products, consultations, inspections,
+        maintenance services, and related services.
       </p>
       <p>
         By accessing our website, submitting a request, enrolling in a
@@ -24,11 +25,12 @@ export default function TermsConditions() {
 
       <h2>1. About Save Our Solar Club</h2>
       <p>
-        Save Our Solar Club provides solar maintenance memberships,
-        inspections, panel cleaning, production monitoring, diagnostics,
-        repairs, roofing coordination, detach-and-reset services, monitoring
-        technology, solar and electrical upgrades, insurance documentation
-        support, energy consultations, and related services.
+        Save Our Solar Club is operated by {LEGAL_ENTITY_NAME} and provides
+        solar maintenance memberships, inspections, panel cleaning,
+        production monitoring, diagnostics, repairs, roofing coordination,
+        detach-and-reset services, monitoring technology, solar and
+        electrical upgrades, insurance documentation support, energy
+        consultations, and related services.
       </p>
       <p>Our contact information is:</p>
       <address>
