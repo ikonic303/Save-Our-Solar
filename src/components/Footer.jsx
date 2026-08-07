@@ -81,16 +81,10 @@ export default function Footer() {
       </div>
 
       <div className="container footer-bottom">
-        <p className="footer-legal-entity">
-          {COMPANY_NAME} is operated by {LEGAL_ENTITY_NAME}.
-          <br />
-          {ADDRESS_FULL}
-          <br />
-          <a href={PHONE_TEL}>{PHONE_DISPLAY}</a> | <a href={`mailto:${EMAIL}`}>{EMAIL}</a>
-        </p>
         <div className="footer-bottom-row">
           <p className="text-muted footer-legal">
-            &copy; {year} {COMPANY_NAME}. All rights reserved.
+            &copy; {year} {COMPANY_NAME}. All rights reserved. Operated by{" "}
+            {LEGAL_ENTITY_NAME}.
           </p>
           <div className="footer-legal-links">
             <Link to="/privacy-policy">Privacy Policy</Link>
@@ -176,21 +170,6 @@ export default function Footer() {
           margin-top: 48px;
           padding-top: 22px;
           font-size: 0.82rem;
-        }
-        .footer-legal-entity {
-          color: var(--text-on-dark-muted);
-          line-height: 1.7;
-          margin: 0 0 20px;
-          padding-bottom: 20px;
-          border-bottom: 1px solid rgba(255,255,255,0.08);
-        }
-        .footer-legal-entity a {
-          color: var(--text-on-dark-muted);
-          text-decoration: underline;
-          text-underline-offset: 2px;
-        }
-        .footer-legal-entity a:hover {
-          color: var(--energy-yellow);
         }
         .footer-bottom-row {
           display: flex;
