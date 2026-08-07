@@ -129,7 +129,7 @@ export default function Header() {
           flex-direction: column;
           gap: 4px;
         }
-        .site-nav a {
+        .site-nav ul a {
           display: block;
           padding: 14px 8px;
           text-decoration: none;
@@ -137,7 +137,7 @@ export default function Header() {
           color: var(--ink);
           border-bottom: 1px solid var(--border);
         }
-        .site-nav a.active {
+        .site-nav ul a.active {
           color: var(--electric-pink-deep);
         }
         .site-nav-cta {
@@ -168,7 +168,7 @@ export default function Header() {
             margin: 0;
             gap: 24px;
           }
-          .site-nav a {
+          .site-nav ul a {
             padding: 8px 0;
             border-bottom: none;
             font-weight: 600;

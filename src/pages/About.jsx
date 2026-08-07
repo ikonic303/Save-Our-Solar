@@ -2,24 +2,12 @@ import Seo from "../components/Seo";
 import Hero from "../components/Hero";
 import CtaBand from "../components/CtaBand";
 
-/*
-  PLACEHOLDER CONTENT NOTICE:
-  The brief asked for "the founder story copy from the source doc" (mission, founder's
-  background, vision to serve 1M systems by 2030) but that source doc text was not actually
-  provided in this conversation — only these facts were confirmed:
-    - Founder name: Donavin Kisner
-    - Founder has 8 years of experience in solar
-    - Vision to serve 1 million solar systems by 2030
-  Everything else in this section (specific bio details, mission wording) is DRAFT copy and
-  marked with [PLACEHOLDER] — replace with the real source doc text before launch.
-*/
-
 export default function About() {
   return (
     <>
       <Seo
         title="About Us"
-        description="Meet the team behind Save Our Solar Club — a national solar protection platform backed by a nationwide network of experienced solar professionals, with a mission to protect 1 million solar systems by 2030."
+        description="Save Our Solar Club is a national technology platform connecting homeowners with a nationwide network of experienced solar professionals, with a mission to protect 1 million solar systems by 2030."
         path="/about"
       />
 
@@ -27,7 +15,7 @@ export default function About() {
         compact
         eyebrow="About us"
         title="We started Save Our Solar Club because solar owners deserve a safety net."
-        subtitle="[PLACEHOLDER — replace with real founder story copy from source doc]"
+        subtitle="A national technology platform connecting homeowners with a nationwide network of experienced solar professionals — so no one is ever left without support."
       />
 
       <div className="section-divider" />
@@ -35,18 +23,8 @@ export default function About() {
       <section className="section">
         <div className="container" style={{ maxWidth: 760 }}>
           <div className="section-head">
-            <span className="eyebrow">Our mission</span>
-            <h2>Protect every homeowner's solar investment like it's our own</h2>
-            <p className="text-muted">
-              [PLACEHOLDER — mission statement copy pending from source doc.] Solar
-              systems are a major investment, but most homeowners have nowhere to
-              turn when something goes wrong. Save Our Solar Club exists to be
-              that safety net — fast, honest, and available 24/7.
-            </p>
-          </div>
-
-          <div className="section-head">
             <span className="eyebrow">Founder's story</span>
+            <h2>Built to solve the solar industry's service gap</h2>
           </div>
 
           <div className="founder-card card">
@@ -57,28 +35,73 @@ export default function About() {
               <h2>Donavin Kisner</h2>
               <p className="founder-card-role">Founder, Save Our Solar Club</p>
               <p className="text-muted">
-                Our founder brings 8 years of hands-on experience in the solar
-                industry, working directly with homeowners to install, maintain,
-                and repair residential solar systems. That field experience is
-                what shaped Save Our Solar Club's approach: real technicians,
-                honest inspections, and no runaround.
+                Save Our Solar Club was created after seeing firsthand how
+                many homeowners were left without reliable support after
+                their original solar installer went out of business, stopped
+                servicing their area, or simply could not provide long-term
+                maintenance.
               </p>
-              <p className="founder-card-draft-note">
-                Draft bio — full founder story pending final copy from client.
+              <p className="text-muted">
+                That industry-wide problem inspired the creation of a
+                technology-driven platform that connects homeowners with
+                qualified solar professionals across the country.
+              </p>
+              <p className="text-muted">
+                Rather than relying on one company, one installer, or one
+                local market, Save Our Solar Club brings together a growing
+                national network of experienced industry professionals with
+                hundreds of years of combined solar experience.
+              </p>
+              <p className="text-muted">
+                The goal is to create a dependable support system homeowners
+                can rely on throughout the entire life of their solar
+                investment.
               </p>
             </div>
+          </div>
+
+          <div className="section-head">
+            <span className="eyebrow">Our mission</span>
+            <h2>Protect every homeowner's solar investment like it's our own</h2>
+            <p className="text-muted">
+              Save Our Solar Club is a technology platform built to solve one
+              of the biggest challenges in the solar industry: long-term
+              homeowner support.
+            </p>
+            <p className="text-muted">
+              We connect homeowners with a nationwide network of experienced
+              solar professionals who provide maintenance, monitoring,
+              diagnostics, repairs, inspections, roofing support, system
+              upgrades, and other essential services throughout the life of
+              a solar system.
+            </p>
+            <p className="text-muted">
+              Our mission is simple: make dependable solar support accessible
+              coast to coast, so homeowners are never left without help when
+              their system needs attention.
+            </p>
           </div>
 
           <div className="section-head">
             <span className="eyebrow">Our network</span>
             <h2>A nationwide network, coast to coast</h2>
             <p className="text-muted">
-              Save Our Solar Club is a national solar technology platform. We're
-              supported by a nationwide network of experienced solar installers
-              and service professionals with hundreds of years of combined
-              industry experience — so wherever your system is, a qualified
-              technician is never far away. Our team is based in Denver,
-              Colorado, but our coverage runs coast to coast.
+              Save Our Solar Club is powered by a national network of solar
+              installers, technicians, electricians, roofing professionals,
+              and service providers with hundreds of years of combined
+              industry experience.
+            </p>
+            <p className="text-muted">
+              Our technology platform helps connect homeowners with qualified
+              professionals in their area while coordinating inspections,
+              maintenance, monitoring, repairs, roofing services, detach and
+              resets, system upgrades, and ongoing support.
+            </p>
+            <p className="text-muted">
+              From coast to coast, our goal is to make professional solar
+              service easier to access, easier to manage, and more
+              dependable — regardless of who originally installed the
+              system.
             </p>
           </div>
 
@@ -86,9 +109,24 @@ export default function About() {
             <span className="eyebrow">Our vision</span>
             <h2>1 million systems protected by 2030</h2>
             <p className="text-muted">
-              We're building Save Our Solar Club to become the trusted name in
-              solar protection nationwide — with a goal of covering 1 million
-              solar systems by 2030.
+              Our vision is to build the nation's leading technology and
+              service platform for long-term solar protection.
+            </p>
+            <p className="text-muted">
+              By combining technology, centralized service coordination,
+              proactive monitoring, and a nationwide network of experienced
+              solar professionals, our goal is to protect 1 million
+              residential solar systems by 2030.
+            </p>
+            <p className="text-muted">
+              We are building an infrastructure that gives homeowners
+              something the solar industry has historically lacked:
+              reliable support throughout the entire lifespan of their
+              system.
+            </p>
+            <p className="about-tagline">
+              One platform. A nationwide network. Long-term protection for
+              solar homeowners.
             </p>
           </div>
         </div>
@@ -126,20 +164,20 @@ export default function About() {
           font-size: 0.92rem;
           margin-bottom: 14px;
         }
-        .founder-card-draft-note {
-          display: inline-flex;
-          margin-top: 16px;
-          padding: 7px 14px;
-          border: 1.5px dashed var(--border-strong);
-          border-radius: 999px;
-          background: var(--surface-alt);
-          color: var(--text-muted);
-          font-size: 0.78rem;
+        .founder-card-body p:last-child {
+          margin-bottom: 0;
+        }
+        .about-tagline {
+          font-family: var(--heading);
+          font-weight: 700;
+          color: var(--ink);
+          font-size: 1.05rem;
+          margin-top: 20px;
         }
         @media (min-width: 620px) {
           .founder-card {
             grid-template-columns: 220px 1fr;
-            align-items: center;
+            align-items: start;
           }
           .founder-card-photo img {
             aspect-ratio: 1 / 1;

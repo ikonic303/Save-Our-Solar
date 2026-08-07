@@ -23,7 +23,7 @@ export default function AboutSection() {
           </Link>
         </div>
         <div className="about-summary-photo">
-          <img src="/Images/donavin-owner.jpg" alt="Donavin Kisner, Founder of Save Our Solar Club" />
+          <img src="/Images/best.jpg" alt="Rooftop solar panel installation overlooking a residential neighborhood" />
         </div>
       </div>
 
@@ -45,7 +45,7 @@ export default function AboutSection() {
           height: 100%;
           aspect-ratio: 4 / 3;
           object-fit: cover;
-          object-position: top;
+          object-position: center;
           display: block;
         }
         @media (min-width: 860px) {

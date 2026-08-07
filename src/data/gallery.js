@@ -2,7 +2,8 @@
 //   - Solar13.png — low-res duplicate of another shot already included
 //   - Solar14.jpeg — third-party vendor marketing graphic (Sitemark drone/thermal
 //     inspection service), not a Save Our Solar Club photo — must not be presented as our own work
-//   - best.jpg / best3.jpg — already used as hero images elsewhere, skipped here to avoid repetition
+//   - best.jpg — already used in the Home "Who we are" section, skipped here to avoid repetition
+//   - best3.jpg — already used as the hero image, skipped here to avoid repetition
 export const GALLERY_IMAGES = [
   { src: "/Images/best2.jpg", alt: "Aerial view of a completed rooftop solar installation" },
   { src: "/Images/Solar12.jpeg", alt: "Technician installing solar panels on a flat roof" },
