@@ -18,6 +18,7 @@ export const TIERS = [
       "Member pricing on repairs",
     ],
     featured: false,
+    paymentLink: "https://links.ikonicmarketing303.com/payment-link/6a7a40b373c7ff66b05e782a",
   },
   {
     id: "plus",
@@ -32,6 +33,7 @@ export const TIERS = [
       "Discounted diagnostic service calls",
     ],
     featured: true,
+    paymentLink: "https://links.ikonicmarketing303.com/payment-link/6a7a40ca73c7ff66b05e782c",
   },
   {
     id: "premier",
@@ -46,5 +48,6 @@ export const TIERS = [
       "Extended workmanship coverage on eligible repairs",
     ],
     featured: false,
+    paymentLink: "https://links.ikonicmarketing303.com/payment-link/6a7a40d873c7ff66b05e782d",
   },
 ];

@@ -1,4 +1,6 @@
-export default function PricingTier({ tier, onSelect, loading }) {
+export default function PricingTier({ tier, onSelect, ctaHref, ctaLabel = "Enroll Now" }) {
+  const btnClass = `btn btn-block ${tier.featured ? "btn-primary" : "btn-outline"}`;
+
   return (
     <div className={`pricing-tier card ${tier.featured ? "is-featured" : ""}`}>
       {tier.featured && <span className="pricing-tier-badge">Most Popular</span>}
@@ -13,14 +15,15 @@ export default function PricingTier({ tier, onSelect, loading }) {
           <li key={item}>{item}</li>
         ))}
       </ul>
-      <button
-        type="button"
-        className={`btn btn-block ${tier.featured ? "btn-primary" : "btn-outline"}`}
-        onClick={() => onSelect(tier)}
-        disabled={loading}
-      >
-        {loading ? "Redirecting…" : "Enroll Now"}
-      </button>
+      {ctaHref ? (
+        <a href={ctaHref} className={btnClass}>
+          {ctaLabel}
+        </a>
+      ) : (
+        <button type="button" className={btnClass} onClick={() => onSelect(tier)}>
+          {ctaLabel}
+        </button>
+      )}
     </div>
   );
 }
