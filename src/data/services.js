@@ -13,6 +13,7 @@ export const SERVICE_CATEGORIES = [
     name: "Monitoring & Technology",
     icon: "Gauge",
     summary: "Stay informed with real-time visibility into system performance.",
+    detailSlugs: [{ slug: "monitoring", label: "Monitoring" }],
     items: [
       "Production monitoring setup",
       "App & portal configuration",
@@ -26,6 +27,10 @@ export const SERVICE_CATEGORIES = [
     name: "Solar Maintenance & Repairs",
     icon: "Wrench",
     summary: "Routine care and expert repair, all under one roof.",
+    detailSlugs: [
+      { slug: "solar-maintenance", label: "Solar Maintenance" },
+      { slug: "repairs", label: "Repairs" },
+    ],
     items: [
       "Annual solar inspections",
       "Professional panel cleaning",
@@ -56,6 +61,7 @@ export const SERVICE_CATEGORIES = [
     name: "Roofing Services",
     icon: "Home",
     summary: "Roof work coordinated around your existing solar array.",
+    detailSlugs: [{ slug: "roofing-coordination", label: "Roofing Coordination" }],
     items: [
       "Roof inspection under panels",
       "Minor roof repairs",
@@ -69,6 +75,7 @@ export const SERVICE_CATEGORIES = [
     name: "Solar Detach & Reset",
     icon: "RefreshCw",
     summary: "Safe removal and reinstallation of panels for roof work or upgrades.",
+    detailSlugs: [{ slug: "detach-and-reset", label: "Detach-and-Reset" }],
     items: [
       "Panel removal",
       "Racking & mounting removal",
@@ -87,6 +94,7 @@ export const SERVICE_CATEGORIES = [
         id: "upgrades",
         name: "Upgrades",
         icon: "TrendingUp",
+        detailSlugs: [{ slug: "upgrades", label: "Upgrades" }],
         items: [
           "Battery storage add-on",
           "Panel additions / array expansion",
@@ -100,6 +108,7 @@ export const SERVICE_CATEGORIES = [
         name: "Insurance Services",
         icon: "ShieldCheck",
         summary: "Documentation and support when storms or damage strike.",
+        detailSlugs: [{ slug: "insurance-services", label: "Insurance Services" }],
         items: [
           "Storm / loss damage inspection",
           "Documentation & photo reports",
@@ -112,6 +121,7 @@ export const SERVICE_CATEGORIES = [
         id: "home-energy",
         name: "Home Energy Services",
         icon: "Flame",
+        detailSlugs: [{ slug: "home-energy-consulting", label: "Home Energy Consulting" }],
         items: [
           "Home energy audits",
           "Attic insulation",
@@ -124,6 +134,7 @@ export const SERVICE_CATEGORIES = [
         id: "products",
         name: "Products",
         icon: "Package",
+        detailSlugs: [{ slug: "products", label: "Products" }],
         items: [
           "Solar panels",
           "Inverters",
@@ -136,6 +147,7 @@ export const SERVICE_CATEGORIES = [
         id: "professional",
         name: "Professional Services",
         icon: "ClipboardList",
+        detailSlugs: [{ slug: "professional-services", label: "Professional Services" }],
         items: [
           "System design consultation",
           "Permitting & inspection coordination",

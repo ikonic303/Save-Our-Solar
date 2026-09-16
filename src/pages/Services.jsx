@@ -1,5 +1,5 @@
 import { useEffect } from "react";
-import { useLocation } from "react-router-dom";
+import { useLocation, Link } from "react-router-dom";
 import Seo from "../components/Seo";
 import Hero from "../components/Hero";
 import Accordion from "../components/Accordion";
@@ -77,16 +77,20 @@ export default function Services() {
                               <li key={item}>{item}</li>
                             ))}
                           </ul>
+                          <DetailLinks detailSlugs={sub.detailSlugs} />
                         </div>
                       );
                     })}
                   </div>
                 ) : (
-                  <ul>
-                    {cat.items.map((item) => (
-                      <li key={item}>{item}</li>
-                    ))}
-                  </ul>
+                  <>
+                    <ul>
+                      {cat.items.map((item) => (
+                        <li key={item}>{item}</li>
+                      ))}
+                    </ul>
+                    <DetailLinks detailSlugs={cat.detailSlugs} />
+                  </>
                 )}
               </>
             )}
@@ -100,6 +104,37 @@ export default function Services() {
         primaryCta={{ to: "/contact", label: "Request Inspection" }}
         secondaryCta={{ to: "/membership", label: "Enroll Now" }}
       />
+
+      <style>{`
+        .service-detail-links {
+          display: flex;
+          flex-wrap: wrap;
+          gap: 16px;
+          margin-top: 12px;
+        }
+        .service-detail-link {
+          font-weight: 700;
+          color: var(--ink);
+          text-decoration: none;
+          border-bottom: 2px solid var(--energy-yellow);
+        }
+        .service-detail-link:hover {
+          color: var(--electric-pink-deep);
+        }
+      `}</style>
     </>
+  );
+}
+
+function DetailLinks({ detailSlugs }) {
+  if (!detailSlugs?.length) return null;
+  return (
+    <div className="service-detail-links">
+      {detailSlugs.map(({ slug, label }) => (
+        <Link key={slug} to={`/services/${slug}`} className="service-detail-link">
+          {label} details &rarr;
+        </Link>
+      ))}
+    </div>
   );
 }

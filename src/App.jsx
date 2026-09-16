@@ -7,6 +7,8 @@ import useScrollReveal from "./lib/useScrollReveal";
 import Home from "./pages/Home";
 import Membership from "./pages/Membership";
 import Services from "./pages/Services";
+import ServiceDetail from "./pages/ServiceDetail";
+import ServiceItemDetail from "./pages/ServiceItemDetail";
 import About from "./pages/About";
 import Insurance from "./pages/Insurance";
 import Contact from "./pages/Contact";
@@ -31,6 +33,8 @@ export default function App() {
           <Route path="/" element={<Home />} />
           <Route path="/membership" element={<Membership />} />
           <Route path="/services" element={<Services />} />
+          <Route path="/services/:slug" element={<ServiceDetail />} />
+          <Route path="/services/:slug/:itemSlug" element={<ServiceItemDetail />} />
           <Route path="/about" element={<About />} />
           <Route path="/insurance" element={<Insurance />} />
           <Route path="/contact" element={<Contact />} />
