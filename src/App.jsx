@@ -9,6 +9,8 @@ import Membership from "./pages/Membership";
 import Services from "./pages/Services";
 import ServiceDetail from "./pages/ServiceDetail";
 import ServiceItemDetail from "./pages/ServiceItemDetail";
+import Insights from "./pages/Insights";
+import InsightPost from "./pages/InsightPost";
 import About from "./pages/About";
 import Insurance from "./pages/Insurance";
 import Contact from "./pages/Contact";
@@ -35,6 +37,8 @@ export default function App() {
           <Route path="/services" element={<Services />} />
           <Route path="/services/:slug" element={<ServiceDetail />} />
           <Route path="/services/:slug/:itemSlug" element={<ServiceItemDetail />} />
+          <Route path="/insights" element={<Insights />} />
+          <Route path="/insights/:slug" element={<InsightPost />} />
           <Route path="/about" element={<About />} />
           <Route path="/insurance" element={<Insurance />} />
           <Route path="/contact" element={<Contact />} />

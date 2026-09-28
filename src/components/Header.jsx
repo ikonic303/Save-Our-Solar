@@ -9,6 +9,7 @@ const NAV_LINKS = [
   { to: "/membership", label: "Membership" },
   { to: "/services", label: "Services" },
   { to: "/insurance", label: "Insurance" },
+  { to: "/insights", label: "Insights" },
   { to: "/about", label: "About" },
   { to: "/contact", label: "Contact" },
 ];
