@@ -1,0 +1,1742 @@
+[
+ {
+  "rank": 1,
+  "name": "New York city, New York",
+  "population": 8584629
+ },
+ {
+  "rank": 2,
+  "name": "Los Angeles city, California",
+  "population": 3869089
+ },
+ {
+  "rank": 3,
+  "name": "Chicago city, Illinois",
+  "population": 2731585
+ },
+ {
+  "rank": 4,
+  "name": "Houston city, Texas",
+  "population": 2397315
+ },
+ {
+  "rank": 5,
+  "name": "Phoenix city, Arizona",
+  "population": 1665481
+ },
+ {
+  "rank": 6,
+  "name": "Philadelphia city, Pennsylvania",
+  "population": 1574281
+ },
+ {
+  "rank": 7,
+  "name": "San Antonio city, Texas",
+  "population": 1548422
+ },
+ {
+  "rank": 8,
+  "name": "San Diego city, California",
+  "population": 1406106
+ },
+ {
+  "rank": 9,
+  "name": "Dallas city, Texas",
+  "population": 1329491
+ },
+ {
+  "rank": 10,
+  "name": "Fort Worth city, Texas",
+  "population": 1028117
+ },
+ {
+  "rank": 11,
+  "name": "Jacksonville city, Florida",
+  "population": 1017689
+ },
+ {
+  "rank": 12,
+  "name": "Austin city, Texas",
+  "population": 1002632
+ },
+ {
+  "rank": 13,
+  "name": "San Jose city, California",
+  "population": 989814
+ },
+ {
+  "rank": 14,
+  "name": "Charlotte city, North Carolina",
+  "population": 964784
+ },
+ {
+  "rank": 15,
+  "name": "Columbus city, Ohio",
+  "population": 938396
+ },
+ {
+  "rank": 16,
+  "name": "Indianapolis city (balance), Indiana",
+  "population": 901116
+ },
+ {
+  "rank": 17,
+  "name": "San Francisco city, California",
+  "population": 826079
+ },
+ {
+  "rank": 18,
+  "name": "Seattle city, Washington",
+  "population": 784777
+ },
+ {
+  "rank": 19,
+  "name": "Denver city, Colorado",
+  "population": 740613
+ },
+ {
+  "rank": 20,
+  "name": "Nashville-Davidson metropolitan government (balance), Tennessee",
+  "population": 721074
+ },
+ {
+  "rank": 21,
+  "name": "Oklahoma City city, Oklahoma",
+  "population": 719849
+ },
+ {
+  "rank": 22,
+  "name": "Washington city, District of Columbia",
+  "population": 693645
+ },
+ {
+  "rank": 23,
+  "name": "El Paso city, Texas",
+  "population": 683012
+ },
+ {
+  "rank": 24,
+  "name": "Las Vegas city, Nevada",
+  "population": 679817
+ },
+ {
+  "rank": 25,
+  "name": "Boston city, Massachusetts",
+  "population": 672973
+ },
+ {
+  "rank": 26,
+  "name": "Detroit city, Michigan",
+  "population": 649095
+ },
+ {
+  "rank": 27,
+  "name": "Louisville/Jefferson County metro government (balance), Kentucky",
+  "population": 641962
+ },
+ {
+  "rank": 28,
+  "name": "Portland city, Oregon",
+  "population": 635109
+ },
+ {
+  "rank": 29,
+  "name": "Memphis city, Tennessee",
+  "population": 609647
+ },
+ {
+  "rank": 30,
+  "name": "Baltimore city, Maryland",
+  "population": 569997
+ },
+ {
+  "rank": 31,
+  "name": "Milwaukee city, Wisconsin",
+  "population": 562407
+ },
+ {
+  "rank": 32,
+  "name": "Albuquerque city, New Mexico",
+  "population": 556588
+ },
+ {
+  "rank": 33,
+  "name": "Fresno city, California",
+  "population": 555549
+ },
+ {
+  "rank": 34,
+  "name": "Tucson city, Arizona",
+  "population": 548371
+ },
+ {
+  "rank": 35,
+  "name": "Sacramento city, California",
+  "population": 536449
+ },
+ {
+  "rank": 36,
+  "name": "Atlanta city, Georgia",
+  "population": 529110
+ },
+ {
+  "rank": 37,
+  "name": "Kansas City city, Missouri",
+  "population": 521220
+ },
+ {
+  "rank": 38,
+  "name": "Mesa city, Arizona",
+  "population": 513656
+ },
+ {
+  "rank": 39,
+  "name": "Raleigh city, North Carolina",
+  "population": 506306
+ },
+ {
+  "rank": 40,
+  "name": "Colorado Springs city, Colorado",
+  "population": 494743
+ },
+ {
+  "rank": 41,
+  "name": "Miami city, Florida",
+  "population": 489812
+ },
+ {
+  "rank": 42,
+  "name": "Omaha city, Nebraska",
+  "population": 488797
+ },
+ {
+  "rank": 43,
+  "name": "Virginia Beach city, Virginia",
+  "population": 453737
+ },
+ {
+  "rank": 44,
+  "name": "Long Beach city, California",
+  "population": 450469
+ },
+ {
+  "rank": 45,
+  "name": "Oakland city, California",
+  "population": 440838
+ },
+ {
+  "rank": 46,
+  "name": "Minneapolis city, Minnesota",
+  "population": 430324
+ },
+ {
+  "rank": 47,
+  "name": "Bakersfield city, California",
+  "population": 422165
+ },
+ {
+  "rank": 48,
+  "name": "Tulsa city, Oklahoma",
+  "population": 416209
+ },
+ {
+  "rank": 49,
+  "name": "Tampa city, Florida",
+  "population": 413554
+ },
+ {
+  "rank": 50,
+  "name": "Aurora city, Colorado",
+  "population": 410053
+ },
+ {
+  "rank": 51,
+  "name": "Arlington city, Texas",
+  "population": 402134
+ },
+ {
+  "rank": 52,
+  "name": "Wichita city, Kansas",
+  "population": 400987
+ },
+ {
+  "rank": 53,
+  "name": "Cleveland city, Ohio",
+  "population": 363608
+ },
+ {
+  "rank": 54,
+  "name": "New Orleans city, Louisiana",
+  "population": 362154
+ },
+ {
+  "rank": 55,
+  "name": "Henderson city, Nevada",
+  "population": 353289
+ },
+ {
+  "rank": 56,
+  "name": "Urban Honolulu CDP, Hawaii",
+  "population": 341868
+ },
+ {
+  "rank": 57,
+  "name": "Anaheim city, California",
+  "population": 341008
+ },
+ {
+  "rank": 58,
+  "name": "Orlando city, Florida",
+  "population": 333888
+ },
+ {
+  "rank": 59,
+  "name": "Lexington-Fayette urban county, Kentucky",
+  "population": 329751
+ },
+ {
+  "rank": 60,
+  "name": "Stockton city, California",
+  "population": 324597
+ },
+ {
+  "rank": 61,
+  "name": "Newark city, New Jersey",
+  "population": 323808
+ },
+ {
+  "rank": 62,
+  "name": "Riverside city, California",
+  "population": 323057
+ },
+ {
+  "rank": 63,
+  "name": "Irvine city, California",
+  "population": 318764
+ },
+ {
+  "rank": 64,
+  "name": "Corpus Christi city, Texas",
+  "population": 317247
+ },
+ {
+  "rank": 65,
+  "name": "Santa Ana city, California",
+  "population": 315586
+ },
+ {
+  "rank": 66,
+  "name": "Cincinnati city, Ohio",
+  "population": 314367
+ },
+ {
+  "rank": 67,
+  "name": "Greensboro city, North Carolina",
+  "population": 308667
+ },
+ {
+  "rank": 68,
+  "name": "Pittsburgh city, Pennsylvania",
+  "population": 307632
+ },
+ {
+  "rank": 69,
+  "name": "St. Paul city, Minnesota",
+  "population": 306684
+ },
+ {
+  "rank": 70,
+  "name": "Durham city, North Carolina",
+  "population": 305561
+ },
+ {
+  "rank": 71,
+  "name": "Jersey City city, New Jersey",
+  "population": 302013
+ },
+ {
+  "rank": 72,
+  "name": "Lincoln city, Nebraska",
+  "population": 301522
+ },
+ {
+  "rank": 73,
+  "name": "North Las Vegas city, Nevada",
+  "population": 296653
+ },
+ {
+  "rank": 74,
+  "name": "Plano city, Texas",
+  "population": 293028
+ },
+ {
+  "rank": 75,
+  "name": "Gilbert town, Arizona",
+  "population": 287285
+ },
+ {
+  "rank": 76,
+  "name": "Anchorage municipality, Alaska",
+  "population": 287155
+ },
+ {
+  "rank": 77,
+  "name": "Madison city, Wisconsin",
+  "population": 286233
+ },
+ {
+  "rank": 78,
+  "name": "Reno city, Nevada",
+  "population": 283621
+ },
+ {
+  "rank": 79,
+  "name": "Chandler city, Arizona",
+  "population": 278748
+ },
+ {
+  "rank": 80,
+  "name": "St. Louis city, Missouri",
+  "population": 278144
+ },
+ {
+  "rank": 81,
+  "name": "Chula Vista city, California",
+  "population": 275533
+ },
+ {
+  "rank": 82,
+  "name": "Fort Wayne city, Indiana",
+  "population": 275203
+ },
+ {
+  "rank": 83,
+  "name": "Buffalo city, New York",
+  "population": 274613
+ },
+ {
+  "rank": 84,
+  "name": "Lubbock city, Texas",
+  "population": 273071
+ },
+ {
+  "rank": 85,
+  "name": "Laredo city, Texas",
+  "population": 269515
+ },
+ {
+  "rank": 86,
+  "name": "Port St. Lucie city, Florida",
+  "population": 268062
+ },
+ {
+  "rank": 87,
+  "name": "St. Petersburg city, Florida",
+  "population": 264033
+ },
+ {
+  "rank": 88,
+  "name": "Toledo city, Ohio",
+  "population": 263423
+ },
+ {
+  "rank": 89,
+  "name": "Glendale city, Arizona",
+  "population": 260572
+ },
+ {
+  "rank": 90,
+  "name": "Winston-Salem city, North Carolina",
+  "population": 257271
+ },
+ {
+  "rank": 91,
+  "name": "Irving city, Texas",
+  "population": 257076
+ },
+ {
+  "rank": 92,
+  "name": "Chesapeake city, Virginia",
+  "population": 255332
+ },
+ {
+  "rank": 93,
+  "name": "Garland city, Texas",
+  "population": 249625
+ },
+ {
+  "rank": 94,
+  "name": "Scottsdale city, Arizona",
+  "population": 243006
+ },
+ {
+  "rank": 95,
+  "name": "Boise City city, Idaho",
+  "population": 238429
+ },
+ {
+  "rank": 96,
+  "name": "Richmond city, Virginia",
+  "population": 237257
+ },
+ {
+  "rank": 97,
+  "name": "Frisco city, Texas",
+  "population": 236955
+ },
+ {
+  "rank": 98,
+  "name": "Cape Coral city, Florida",
+  "population": 236264
+ },
+ {
+  "rank": 99,
+  "name": "McKinney city, Texas",
+  "population": 236001
+ },
+ {
+  "rank": 100,
+  "name": "Huntsville city, Alabama",
+  "population": 233627
+ },
+ {
+  "rank": 101,
+  "name": "Norfolk city, Virginia",
+  "population": 231013
+ },
+ {
+  "rank": 102,
+  "name": "Hialeah city, Florida",
+  "population": 230968
+ },
+ {
+  "rank": 103,
+  "name": "Spokane city, Washington",
+  "population": 230783
+ },
+ {
+  "rank": 104,
+  "name": "Tacoma city, Washington",
+  "population": 229816
+ },
+ {
+  "rank": 105,
+  "name": "Santa Clarita city, California",
+  "population": 228430
+ },
+ {
+  "rank": 106,
+  "name": "Fremont city, California",
+  "population": 226442
+ },
+ {
+  "rank": 107,
+  "name": "Baton Rouge city, Louisiana",
+  "population": 222795
+ },
+ {
+  "rank": 108,
+  "name": "San Bernardino city, California",
+  "population": 222044
+ },
+ {
+  "rank": 109,
+  "name": "Fontana city, California",
+  "population": 221223
+ },
+ {
+  "rank": 110,
+  "name": "Modesto city, California",
+  "population": 219652
+ },
+ {
+  "rank": 111,
+  "name": "Salt Lake City city, Utah",
+  "population": 218428
+ },
+ {
+  "rank": 112,
+  "name": "Moreno Valley city, California",
+  "population": 214263
+ },
+ {
+  "rank": 113,
+  "name": "Worcester city, Massachusetts",
+  "population": 213862
+ },
+ {
+  "rank": 114,
+  "name": "Sioux Falls city, South Dakota",
+  "population": 213748
+ },
+ {
+  "rank": 115,
+  "name": "Yonkers city, New York",
+  "population": 212603
+ },
+ {
+  "rank": 116,
+  "name": "Des Moines city, Iowa",
+  "population": 212086
+ },
+ {
+  "rank": 117,
+  "name": "Grand Prairie city, Texas",
+  "population": 209434
+ },
+ {
+  "rank": 118,
+  "name": "Fayetteville city, North Carolina",
+  "population": 209120
+ },
+ {
+  "rank": 119,
+  "name": "Little Rock city, Arkansas",
+  "population": 206427
+ },
+ {
+  "rank": 120,
+  "name": "Rochester city, New York",
+  "population": 206108
+ },
+ {
+  "rank": 121,
+  "name": "Amarillo city, Texas",
+  "population": 205130
+ },
+ {
+  "rank": 122,
+  "name": "Tallahassee city, Florida",
+  "population": 204902
+ },
+ {
+  "rank": 123,
+  "name": "Overland Park city, Kansas",
+  "population": 203677
+ },
+ {
+  "rank": 124,
+  "name": "Columbus city, Georgia",
+  "population": 202171
+ },
+ {
+  "rank": 125,
+  "name": "Knoxville city, Tennessee",
+  "population": 202021
+ },
+ {
+  "rank": 126,
+  "name": "Augusta-Richmond County consolidated government (balance), Georgia",
+  "population": 201999
+ },
+ {
+  "rank": 127,
+  "name": "Grand Rapids city, Michigan",
+  "population": 201183
+ },
+ {
+  "rank": 128,
+  "name": "Peoria city, Arizona",
+  "population": 200881
+ },
+ {
+  "rank": 129,
+  "name": "Mobile city, Alabama",
+  "population": 200824
+ },
+ {
+  "rank": 130,
+  "name": "Vancouver city, Washington",
+  "population": 199698
+ },
+ {
+  "rank": 131,
+  "name": "Oxnard city, California",
+  "population": 199651
+ },
+ {
+  "rank": 132,
+  "name": "Birmingham city, Alabama",
+  "population": 195893
+ },
+ {
+  "rank": 133,
+  "name": "Providence city, Rhode Island",
+  "population": 195310
+ },
+ {
+  "rank": 134,
+  "name": "Montgomery city, Alabama",
+  "population": 195300
+ },
+ {
+  "rank": 135,
+  "name": "Chattanooga city, Tennessee",
+  "population": 194144
+ },
+ {
+  "rank": 136,
+  "name": "Brownsville city, Texas",
+  "population": 192957
+ },
+ {
+  "rank": 137,
+  "name": "Huntington Beach city, California",
+  "population": 191451
+ },
+ {
+  "rank": 138,
+  "name": "Tempe city, Arizona",
+  "population": 190571
+ },
+ {
+  "rank": 139,
+  "name": "Akron city, Ohio",
+  "population": 189691
+ },
+ {
+  "rank": 140,
+  "name": "Clarksville city, Tennessee",
+  "population": 188829
+ },
+ {
+  "rank": 141,
+  "name": "Fort Lauderdale city, Florida",
+  "population": 188677
+ },
+ {
+  "rank": 142,
+  "name": "Glendale city, California",
+  "population": 187160
+ },
+ {
+  "rank": 143,
+  "name": "Ontario city, California",
+  "population": 187013
+ },
+ {
+  "rank": 144,
+  "name": "Elk Grove city, California",
+  "population": 185007
+ },
+ {
+  "rank": 145,
+  "name": "Cary town, North Carolina",
+  "population": 183582
+ },
+ {
+  "rank": 146,
+  "name": "Newport News city, Virginia",
+  "population": 183230
+ },
+ {
+  "rank": 147,
+  "name": "Salem city, Oregon",
+  "population": 181779
+ },
+ {
+  "rank": 148,
+  "name": "Aurora city, Illinois",
+  "population": 181505
+ },
+ {
+  "rank": 149,
+  "name": "Santa Rosa city, California",
+  "population": 179437
+ },
+ {
+  "rank": 150,
+  "name": "Eugene city, Oregon",
+  "population": 178618
+ },
+ {
+  "rank": 151,
+  "name": "Rancho Cucamonga city, California",
+  "population": 177856
+ },
+ {
+  "rank": 152,
+  "name": "Pembroke Pines city, Florida",
+  "population": 176714
+ },
+ {
+  "rank": 153,
+  "name": "Shreveport city, Louisiana",
+  "population": 175902
+ },
+ {
+  "rank": 154,
+  "name": "Surprise city, Arizona",
+  "population": 175304
+ },
+ {
+  "rank": 155,
+  "name": "Fort Collins city, Colorado",
+  "population": 171500
+ },
+ {
+  "rank": 156,
+  "name": "Murfreesboro city, Tennessee",
+  "population": 171178
+ },
+ {
+  "rank": 157,
+  "name": "Oceanside city, California",
+  "population": 170483
+ },
+ {
+  "rank": 158,
+  "name": "Garden Grove city, California",
+  "population": 170455
+ },
+ {
+  "rank": 159,
+  "name": "Lancaster city, California",
+  "population": 170084
+ },
+ {
+  "rank": 160,
+  "name": "Springfield city, Missouri",
+  "population": 169847
+ },
+ {
+  "rank": 161,
+  "name": "Denton city, Texas",
+  "population": 169431
+ },
+ {
+  "rank": 162,
+  "name": "Roseville city, California",
+  "population": 167302
+ },
+ {
+  "rank": 163,
+  "name": "Killeen city, Texas",
+  "population": 161883
+ },
+ {
+  "rank": 164,
+  "name": "Palmdale city, California",
+  "population": 161845
+ },
+ {
+  "rank": 165,
+  "name": "Paterson city, New Jersey",
+  "population": 161793
+ },
+ {
+  "rank": 166,
+  "name": "Corona city, California",
+  "population": 161734
+ },
+ {
+  "rank": 167,
+  "name": "Alexandria city, Virginia",
+  "population": 160662
+ },
+ {
+  "rank": 168,
+  "name": "Charleston city, South Carolina",
+  "population": 159423
+ },
+ {
+  "rank": 169,
+  "name": "Salinas city, California",
+  "population": 159134
+ },
+ {
+  "rank": 170,
+  "name": "Kansas City city, Kansas",
+  "population": 157805
+ },
+ {
+  "rank": 171,
+  "name": "Macon-Bibb County, Georgia",
+  "population": 157556
+ },
+ {
+  "rank": 172,
+  "name": "Hayward city, California",
+  "population": 157113
+ },
+ {
+  "rank": 173,
+  "name": "Hollywood city, Florida",
+  "population": 157019
+ },
+ {
+  "rank": 174,
+  "name": "Lakewood city, Colorado",
+  "population": 156927
+ },
+ {
+  "rank": 175,
+  "name": "Sunnyvale city, California",
+  "population": 156577
+ },
+ {
+  "rank": 176,
+  "name": "Springfield city, Massachusetts",
+  "population": 154702
+ },
+ {
+  "rank": 177,
+  "name": "Bellevue city, Washington",
+  "population": 154193
+ },
+ {
+  "rank": 178,
+  "name": "Naperville city, Illinois",
+  "population": 153114
+ },
+ {
+  "rank": 179,
+  "name": "Bridgeport city, Connecticut",
+  "population": 152273
+ },
+ {
+  "rank": 180,
+  "name": "Joliet city, Illinois",
+  "population": 152241
+ },
+ {
+  "rank": 181,
+  "name": "Mesquite city, Texas",
+  "population": 150693
+ },
+ {
+  "rank": 182,
+  "name": "McAllen city, Texas",
+  "population": 150640
+ },
+ {
+  "rank": 183,
+  "name": "Olathe city, Kansas",
+  "population": 150025
+ },
+ {
+  "rank": 184,
+  "name": "Savannah city, Georgia",
+  "population": 149440
+ },
+ {
+  "rank": 185,
+  "name": "Gainesville city, Florida",
+  "population": 148671
+ },
+ {
+  "rank": 186,
+  "name": "Pasadena city, Texas",
+  "population": 148539
+ },
+ {
+  "rank": 187,
+  "name": "Palm Bay city, Florida",
+  "population": 148092
+ },
+ {
+  "rank": 188,
+  "name": "Pomona city, California",
+  "population": 147807
+ },
+ {
+  "rank": 189,
+  "name": "Waco city, Texas",
+  "population": 147788
+ },
+ {
+  "rank": 190,
+  "name": "Thornton city, Colorado",
+  "population": 147766
+ },
+ {
+  "rank": 191,
+  "name": "Midland city, Texas",
+  "population": 147615
+ },
+ {
+  "rank": 192,
+  "name": "Rockford city, Illinois",
+  "population": 147384
+ },
+ {
+  "rank": 193,
+  "name": "Columbia city, South Carolina",
+  "population": 147035
+ },
+ {
+  "rank": 194,
+  "name": "Visalia city, California",
+  "population": 146541
+ },
+ {
+  "rank": 195,
+  "name": "Escondido city, California",
+  "population": 146030
+ },
+ {
+  "rank": 196,
+  "name": "Syracuse city, New York",
+  "population": 144896
+ },
+ {
+  "rank": 197,
+  "name": "Meridian city, Idaho",
+  "population": 142988
+ },
+ {
+  "rank": 198,
+  "name": "Miramar city, Florida",
+  "population": 142570
+ },
+ {
+  "rank": 199,
+  "name": "Elizabeth city, New Jersey",
+  "population": 141675
+ },
+ {
+  "rank": 200,
+  "name": "Victorville city, California",
+  "population": 141395
+ },
+ {
+  "rank": 201,
+  "name": "Round Rock city, Texas",
+  "population": 141282
+ },
+ {
+  "rank": 202,
+  "name": "Jackson city, Mississippi",
+  "population": 141196
+ },
+ {
+  "rank": 203,
+  "name": "Stamford city, Connecticut",
+  "population": 139535
+ },
+ {
+  "rank": 204,
+  "name": "Lewisville city, Texas",
+  "population": 139006
+ },
+ {
+  "rank": 205,
+  "name": "Coral Springs city, Florida",
+  "population": 138783
+ },
+ {
+  "rank": 206,
+  "name": "New Haven city, Connecticut",
+  "population": 138774
+ },
+ {
+  "rank": 207,
+  "name": "Fullerton city, California",
+  "population": 138675
+ },
+ {
+  "rank": 208,
+  "name": "Torrance city, California",
+  "population": 138391
+ },
+ {
+  "rank": 209,
+  "name": "Orange city, California",
+  "population": 138365
+ },
+ {
+  "rank": 210,
+  "name": "Cedar Rapids city, Iowa",
+  "population": 137935
+ },
+ {
+  "rank": 211,
+  "name": "West Valley City city, Utah",
+  "population": 137491
+ },
+ {
+  "rank": 212,
+  "name": "Hampton city, Virginia",
+  "population": 137315
+ },
+ {
+  "rank": 213,
+  "name": "Warren city, Michigan",
+  "population": 137138
+ },
+ {
+  "rank": 214,
+  "name": "Dayton city, Ohio",
+  "population": 136688
+ },
+ {
+  "rank": 215,
+  "name": "Fargo city, North Dakota",
+  "population": 136275
+ },
+ {
+  "rank": 216,
+  "name": "Pasadena city, California",
+  "population": 135804
+ },
+ {
+  "rank": 217,
+  "name": "Kent city, Washington",
+  "population": 134871
+ },
+ {
+  "rank": 218,
+  "name": "Carrollton city, Texas",
+  "population": 134562
+ },
+ {
+  "rank": 219,
+  "name": "Sterling Heights city, Michigan",
+  "population": 133931
+ },
+ {
+  "rank": 220,
+  "name": "Santa Clara city, California",
+  "population": 133446
+ },
+ {
+  "rank": 221,
+  "name": "Abilene city, Texas",
+  "population": 131588
+ },
+ {
+  "rank": 222,
+  "name": "Norman city, Oklahoma",
+  "population": 130943
+ },
+ {
+  "rank": 223,
+  "name": "Columbia city, Missouri",
+  "population": 130851
+ },
+ {
+  "rank": 224,
+  "name": "Pearland city, Texas",
+  "population": 129930
+ },
+ {
+  "rank": 225,
+  "name": "Clovis city, California",
+  "population": 129347
+ },
+ {
+  "rank": 226,
+  "name": "North Charleston city, South Carolina",
+  "population": 129245
+ },
+ {
+  "rank": 227,
+  "name": "Athens-Clarke County unified government (balance), Georgia",
+  "population": 128612
+ },
+ {
+  "rank": 228,
+  "name": "College Station city, Texas",
+  "population": 127472
+ },
+ {
+  "rank": 229,
+  "name": "West Palm Beach city, Florida",
+  "population": 127189
+ },
+ {
+  "rank": 230,
+  "name": "Wilmington city, North Carolina",
+  "population": 126809
+ },
+ {
+  "rank": 231,
+  "name": "Allentown city, Pennsylvania",
+  "population": 126044
+ },
+ {
+  "rank": 232,
+  "name": "Topeka city, Kansas",
+  "population": 125795
+ },
+ {
+  "rank": 233,
+  "name": "Lakeland city, Florida",
+  "population": 125520
+ },
+ {
+  "rank": 234,
+  "name": "Buckeye city, Arizona",
+  "population": 125445
+ },
+ {
+  "rank": 235,
+  "name": "Goodyear city, Arizona",
+  "population": 125359
+ },
+ {
+  "rank": 236,
+  "name": "Broken Arrow city, Oklahoma",
+  "population": 124991
+ },
+ {
+  "rank": 237,
+  "name": "Simi Valley city, California",
+  "population": 124861
+ },
+ {
+  "rank": 238,
+  "name": "Rochester city, Minnesota",
+  "population": 124292
+ },
+ {
+  "rank": 239,
+  "name": "Lafayette city, Louisiana",
+  "population": 123311
+ },
+ {
+  "rank": 240,
+  "name": "Vallejo city, California",
+  "population": 123287
+ },
+ {
+  "rank": 241,
+  "name": "Concord city, California",
+  "population": 123261
+ },
+ {
+  "rank": 242,
+  "name": "Arvada city, Colorado",
+  "population": 122901
+ },
+ {
+  "rank": 243,
+  "name": "Odessa city, Texas",
+  "population": 122707
+ },
+ {
+  "rank": 244,
+  "name": "Cambridge city, Massachusetts",
+  "population": 122588
+ },
+ {
+  "rank": 245,
+  "name": "New Braunfels city, Texas",
+  "population": 122492
+ },
+ {
+  "rank": 246,
+  "name": "Fairfield city, California",
+  "population": 122489
+ },
+ {
+  "rank": 247,
+  "name": "Ann Arbor city, Michigan",
+  "population": 122233
+ },
+ {
+  "rank": 248,
+  "name": "Thousand Oaks city, California",
+  "population": 122230
+ },
+ {
+  "rank": 249,
+  "name": "Hartford city, Connecticut",
+  "population": 121981
+ },
+ {
+  "rank": 250,
+  "name": "Berkeley city, California",
+  "population": 121911
+ },
+ {
+  "rank": 251,
+  "name": "Independence city, Missouri",
+  "population": 121675
+ },
+ {
+  "rank": 252,
+  "name": "Billings city, Montana",
+  "population": 121239
+ },
+ {
+  "rank": 253,
+  "name": "High Point city, North Carolina",
+  "population": 120571
+ },
+ {
+  "rank": 254,
+  "name": "Nampa city, Idaho",
+  "population": 120384
+ },
+ {
+  "rank": 255,
+  "name": "Lowell city, Massachusetts",
+  "population": 119971
+ },
+ {
+  "rank": 256,
+  "name": "League City city, Texas",
+  "population": 119905
+ },
+ {
+  "rank": 257,
+  "name": "Conroe city, Texas",
+  "population": 119564
+ },
+ {
+  "rank": 258,
+  "name": "Antioch city, California",
+  "population": 118958
+ },
+ {
+  "rank": 259,
+  "name": "Menifee city, California",
+  "population": 118592
+ },
+ {
+  "rank": 260,
+  "name": "Richardson city, Texas",
+  "population": 118542
+ },
+ {
+  "rank": 261,
+  "name": "Pompano Beach city, Florida",
+  "population": 117211
+ },
+ {
+  "rank": 262,
+  "name": "Las Cruces city, New Mexico",
+  "population": 116978
+ },
+ {
+  "rank": 263,
+  "name": "Manchester city, New Hampshire",
+  "population": 116818
+ },
+ {
+  "rank": 264,
+  "name": "West Jordan city, Utah",
+  "population": 116812
+ },
+ {
+  "rank": 265,
+  "name": "Westminster city, Colorado",
+  "population": 116182
+ },
+ {
+  "rank": 266,
+  "name": "Evansville city, Indiana",
+  "population": 116176
+ },
+ {
+  "rank": 267,
+  "name": "Waterbury city, Connecticut",
+  "population": 115771
+ },
+ {
+  "rank": 268,
+  "name": "Elgin city, Illinois",
+  "population": 115476
+ },
+ {
+  "rank": 269,
+  "name": "Greeley city, Colorado",
+  "population": 115073
+ },
+ {
+  "rank": 270,
+  "name": "Temecula city, California",
+  "population": 114865
+ },
+ {
+  "rank": 271,
+  "name": "Richmond city, California",
+  "population": 114861
+ },
+ {
+  "rank": 272,
+  "name": "Concord city, North Carolina",
+  "population": 114598
+ },
+ {
+  "rank": 273,
+  "name": "Provo city, Utah",
+  "population": 114527
+ },
+ {
+  "rank": 274,
+  "name": "Rio Rancho city, New Mexico",
+  "population": 114419
+ },
+ {
+  "rank": 275,
+  "name": "Clearwater city, Florida",
+  "population": 114364
+ },
+ {
+  "rank": 276,
+  "name": "Tuscaloosa city, Alabama",
+  "population": 114316
+ },
+ {
+  "rank": 277,
+  "name": "Murrieta city, California",
+  "population": 114124
+ },
+ {
+  "rank": 278,
+  "name": "Lansing city, Michigan",
+  "population": 113884
+ },
+ {
+  "rank": 279,
+  "name": "Tyler city, Texas",
+  "population": 113723
+ },
+ {
+  "rank": 280,
+  "name": "Miami Gardens city, Florida",
+  "population": 113579
+ },
+ {
+  "rank": 281,
+  "name": "Everett city, Washington",
+  "population": 113567
+ },
+ {
+  "rank": 282,
+  "name": "Allen city, Texas",
+  "population": 113447
+ },
+ {
+  "rank": 283,
+  "name": "Springfield city, Illinois",
+  "population": 112989
+ },
+ {
+  "rank": 284,
+  "name": "Beaumont city, Texas",
+  "population": 112967
+ },
+ {
+  "rank": 285,
+  "name": "South Fulton city, Georgia",
+  "population": 112820
+ },
+ {
+  "rank": 286,
+  "name": "Carlsbad city, California",
+  "population": 112260
+ },
+ {
+  "rank": 287,
+  "name": "Sparks city, Nevada",
+  "population": 111902
+ },
+ {
+  "rank": 288,
+  "name": "Gresham city, Oregon",
+  "population": 111513
+ },
+ {
+  "rank": 289,
+  "name": "Santa Maria city, California",
+  "population": 111390
+ },
+ {
+  "rank": 290,
+  "name": "Hillsboro city, Oregon",
+  "population": 111126
+ },
+ {
+  "rank": 291,
+  "name": "Peoria city, Illinois",
+  "population": 110920
+ },
+ {
+  "rank": 292,
+  "name": "Davie town, Florida",
+  "population": 110851
+ },
+ {
+  "rank": 293,
+  "name": "Edinburg city, Texas",
+  "population": 110700
+ },
+ {
+  "rank": 294,
+  "name": "Pueblo city, Colorado",
+  "population": 110404
+ },
+ {
+  "rank": 295,
+  "name": "San Buenaventura (Ventura) city, California",
+  "population": 109914
+ },
+ {
+  "rank": 296,
+  "name": "Palm Coast city, Florida",
+  "population": 109886
+ },
+ {
+  "rank": 297,
+  "name": "Costa Mesa city, California",
+  "population": 108881
+ },
+ {
+  "rank": 298,
+  "name": "St. George city, Utah",
+  "population": 108713
+ },
+ {
+  "rank": 299,
+  "name": "Centennial city, Colorado",
+  "population": 108658
+ },
+ {
+  "rank": 300,
+  "name": "Downey city, California",
+  "population": 108468
+ },
+ {
+  "rank": 301,
+  "name": "Spokane Valley city, Washington",
+  "population": 108405
+ },
+ {
+  "rank": 302,
+  "name": "Sugar Land city, Texas",
+  "population": 107726
+ },
+ {
+  "rank": 303,
+  "name": "Lee's Summit city, Missouri",
+  "population": 107514
+ },
+ {
+  "rank": 304,
+  "name": "Bend city, Oregon",
+  "population": 107342
+ },
+ {
+  "rank": 305,
+  "name": "Jurupa Valley city, California",
+  "population": 107311
+ },
+ {
+  "rank": 306,
+  "name": "Georgetown city, Texas",
+  "population": 106907
+ },
+ {
+  "rank": 307,
+  "name": "Green Bay city, Wisconsin",
+  "population": 106675
+ },
+ {
+  "rank": 308,
+  "name": "Fayetteville city, Arkansas",
+  "population": 106623
+ },
+ {
+  "rank": 309,
+  "name": "Rialto city, California",
+  "population": 106554
+ },
+ {
+  "rank": 310,
+  "name": "Brockton city, Massachusetts",
+  "population": 106134
+ },
+ {
+  "rank": 311,
+  "name": "Boulder city, Colorado",
+  "population": 105689
+ },
+ {
+  "rank": 312,
+  "name": "Carmel city, Indiana",
+  "population": 105634
+ },
+ {
+  "rank": 313,
+  "name": "Dearborn city, Michigan",
+  "population": 105611
+ },
+ {
+  "rank": 314,
+  "name": "West Covina city, California",
+  "population": 105301
+ },
+ {
+  "rank": 315,
+  "name": "Yuma city, Arizona",
+  "population": 105227
+ },
+ {
+  "rank": 316,
+  "name": "Chico city, California",
+  "population": 105081
+ },
+ {
+  "rank": 317,
+  "name": "El Monte city, California",
+  "population": 105075
+ },
+ {
+  "rank": 318,
+  "name": "Sandy Springs city, Georgia",
+  "population": 105013
+ },
+ {
+  "rank": 319,
+  "name": "Renton city, Washington",
+  "population": 104975
+ },
+ {
+  "rank": 320,
+  "name": "Fishers city, Indiana",
+  "population": 104812
+ },
+ {
+  "rank": 321,
+  "name": "Suffolk city, Virginia",
+  "population": 104699
+ },
+ {
+  "rank": 322,
+  "name": "Lynn city, Massachusetts",
+  "population": 104236
+ },
+ {
+  "rank": 323,
+  "name": "Vacaville city, California",
+  "population": 103850
+ },
+ {
+  "rank": 324,
+  "name": "San Mateo city, California",
+  "population": 103337
+ },
+ {
+  "rank": 325,
+  "name": "South Bend city, Indiana",
+  "population": 103201
+ },
+ {
+  "rank": 326,
+  "name": "Quincy city, Massachusetts",
+  "population": 103173
+ },
+ {
+  "rank": 327,
+  "name": "Burbank city, California",
+  "population": 102988
+ },
+ {
+  "rank": 328,
+  "name": "Hesperia city, California",
+  "population": 102605
+ },
+ {
+  "rank": 329,
+  "name": "Wichita Falls city, Texas",
+  "population": 101951
+ },
+ {
+  "rank": 330,
+  "name": "Tracy city, California",
+  "population": 101901
+ },
+ {
+  "rank": 331,
+  "name": "New Bedford city, Massachusetts",
+  "population": 101834
+ },
+ {
+  "rank": 332,
+  "name": "El Cajon city, California",
+  "population": 101755
+ },
+ {
+  "rank": 333,
+  "name": "Albany city, New York",
+  "population": 101698
+ },
+ {
+  "rank": 334,
+  "name": "Inglewood city, California",
+  "population": 101662
+ },
+ {
+  "rank": 335,
+  "name": "Boca Raton city, Florida",
+  "population": 101582
+ },
+ {
+  "rank": 336,
+  "name": "Fort Myers city, Florida",
+  "population": 101581
+ },
+ {
+  "rank": 337,
+  "name": "Daly City city, California",
+  "population": 101261
+ },
+ {
+  "rank": 338,
+  "name": "Avondale city, Arizona",
+  "population": 100983
+ },
+ {
+  "rank": 339,
+  "name": "San Angelo city, Texas",
+  "population": 100640
+ },
+ {
+  "rank": 340,
+  "name": "Edmond city, Oklahoma",
+  "population": 100479
+ },
+ {
+  "rank": 341,
+  "name": "Davenport city, Iowa",
+  "population": 100358
+ },
+ {
+  "rank": 342,
+  "name": "Deltona city, Florida",
+  "population": 100267
+ },
+ {
+  "rank": 343,
+  "name": "Longmont city, Colorado",
+  "population": 100109
+ },
+ {
+  "rank": 529,
+  "name": "Wilmington city, Delaware",
+  "population": 73512
+ },
+ {
+  "rank": 557,
+  "name": "Portland city, Maine",
+  "population": 69911
+ },
+ {
+  "rank": 595,
+  "name": "Cheyenne city, Wyoming",
+  "population": 66507
+ },
+ {
+  "rank": 892,
+  "name": "Charleston city, West Virginia",
+  "population": 46117
+ },
+ {
+  "rank": 946,
+  "name": "Burlington city, Vermont",
+  "population": 44019
+ }
+]

@@ -1,0 +1,1091 @@
+{
+  "0644000": {
+    "geoid": "0644000",
+    "url": "https://lacity.gov/",
+    "status": "verified",
+    "title": "Home | City of Los Angeles",
+    "organization": "City of Los Angeles",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  "1714000": {
+    "geoid": "1714000",
+    "url": "https://www.chicago.gov/city/en.html",
+    "status": "verified",
+    "title": "City of Chicago",
+    "organization": "City of Chicago",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  "4835000": {
+    "geoid": "4835000",
+    "url": "https://houstontx.gov/",
+    "status": "verified",
+    "title": "City of Houston eGovernment Center",
+    "organization": "City of Houston",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  "0455000": {
+    "geoid": "0455000",
+    "url": "https://www.phoenix.gov/",
+    "status": "verified",
+    "title": "Home | City of Phoenix",
+    "organization": "City Of Phoenix",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  "4865000": {
+    "geoid": "4865000",
+    "url": "https://www.sa.gov/Home",
+    "status": "verified",
+    "title": "Home  - City of San Antonio",
+    "organization": "City of San Antonio",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  "0666000": {
+    "geoid": "0666000",
+    "url": "https://www.sandiego.gov/",
+    "status": "verified",
+    "title": "City of San Diego Official Website",
+    "organization": "The City of San Diego",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  "4827000": {
+    "geoid": "4827000",
+    "url": "https://www.fortworthtexas.gov/Home",
+    "status": "verified",
+    "title": "Home – Welcome to the City of Fort Worth",
+    "organization": "City of Fortworth",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  "3712000": {
+    "geoid": "3712000",
+    "url": "https://www.charlottenc.gov/Home",
+    "status": "verified",
+    "title": "Home - City of Charlotte",
+    "organization": "City of Charlotte",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  "3918000": {
+    "geoid": "3918000",
+    "url": "https://www.columbus.gov/Home",
+    "status": "verified",
+    "title": "Home - City of Columbus, Ohio",
+    "organization": "City of Columbus",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  "1836003": {
+    "geoid": "1836003",
+    "url": "https://www.indy.gov/",
+    "status": "verified",
+    "title": "indy.gov",
+    "organization": "Information Services Agency, City of Indianapolis/ Marion County",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  "0667000": {
+    "geoid": "0667000",
+    "url": "https://www.sf.gov/",
+    "status": "verified",
+    "title": "SF.gov",
+    "organization": "City and County of San Francisco",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  "5363000": {
+    "geoid": "5363000",
+    "url": "https://seattle.gov/",
+    "status": "verified",
+    "title": "Seattle.gov Home",
+    "organization": "City of Seattle",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  "4055000": {
+    "geoid": "4055000",
+    "url": "https://www.okc.gov/Home",
+    "status": "verified",
+    "title": "Home | City of OKC",
+    "organization": "City Of Oklahoma City",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  "2507000": {
+    "geoid": "2507000",
+    "url": "https://www.boston.gov/",
+    "status": "verified",
+    "title": "Homepage | Boston.gov",
+    "organization": "City of Boston",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  "4159000": {
+    "geoid": "4159000",
+    "url": "https://www.portland.gov/",
+    "status": "verified",
+    "title": "City of Portland, Oregon | Portland.gov",
+    "organization": "City of Portland",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  "2404000": {
+    "geoid": "2404000",
+    "url": "https://www.baltimorecity.gov/",
+    "status": "verified",
+    "title": "Home | Baltimore City",
+    "organization": "Baltimore City Office of Information and Technology",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  "3502000": {
+    "geoid": "3502000",
+    "url": "https://www.cabq.gov/",
+    "status": "verified",
+    "title": "Homepage — City of Albuquerque",
+    "organization": "City of Albuquerque ",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  "0477000": {
+    "geoid": "0477000",
+    "url": "https://www.tucsonaz.gov/Home",
+    "status": "verified",
+    "title": "Home City of Tucson",
+    "organization": "City of Tucson",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  "0664000": {
+    "geoid": "0664000",
+    "url": "https://www.cityofsacramento.gov/",
+    "status": "verified",
+    "title": "Home | City of Sacramento",
+    "organization": "City of Sacramento",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  "0446000": {
+    "geoid": "0446000",
+    "url": "https://www.mesaaz.gov/Home",
+    "status": "verified",
+    "title": "Home - City of Mesa",
+    "organization": "City Of Mesa",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  "0816000": {
+    "geoid": "0816000",
+    "url": "https://coloradosprings.gov/",
+    "status": "verified",
+    "title": "Home Page | City of Colorado Springs",
+    "organization": "City of Colorado Springs",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  "1245000": {
+    "geoid": "1245000",
+    "url": "https://www.miami.gov/Home",
+    "status": "verified",
+    "title": "Home  - Miami",
+    "organization": "City of Miami",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  "5182000": {
+    "geoid": "5182000",
+    "url": "https://virginiabeach.gov/",
+    "status": "verified",
+    "title": "Home | City of Virginia Beach",
+    "organization": "City of Virginia Beach",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  "0643000": {
+    "geoid": "0643000",
+    "url": "https://longbeach.gov/",
+    "status": "verified",
+    "title": "City of Long Beach",
+    "organization": "City of Long Beach California",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  "0653000": {
+    "geoid": "0653000",
+    "url": "https://www.oaklandca.gov/Home",
+    "status": "verified",
+    "title": "Home | City of Oakland, CA",
+    "organization": "City of Oakland",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  "2743000": {
+    "geoid": "2743000",
+    "url": "https://www.minneapolismn.gov/",
+    "status": "verified",
+    "title": "City of Minneapolis",
+    "organization": "City of Minneapolis",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  "4075000": {
+    "geoid": "4075000",
+    "url": "https://www.cityoftulsa.org/",
+    "status": "verified",
+    "title": "City of Tulsa",
+    "organization": "City of Tulsa",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  "4804000": {
+    "geoid": "4804000",
+    "url": "https://www.arlingtontx.gov/Home",
+    "status": "verified",
+    "title": "Home | City of Arlington, TX",
+    "organization": "City of Arlington, Texas",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  "3916000": {
+    "geoid": "3916000",
+    "url": "https://www.clevelandohio.gov/",
+    "status": "verified",
+    "title": "Home | City of Cleveland Ohio",
+    "organization": "City of Cleveland",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  "1253000": {
+    "geoid": "1253000",
+    "url": "https://www.orlando.gov/Home",
+    "status": "verified",
+    "title": "Home  - City of Orlando",
+    "organization": "City of Orlando",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  "2146027": {
+    "geoid": "2146027",
+    "url": "https://www.lexingtonky.gov/",
+    "status": "verified",
+    "title": "Homepage | City of Lexington, Kentucky",
+    "organization": "Lexington-Fayette Urban County Government",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  "0636770": {
+    "geoid": "0636770",
+    "url": "https://cityofirvine.gov/",
+    "status": "verified",
+    "title": "City of Irvine | Official City Government Website",
+    "organization": "City of Irvine",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  "4817000": {
+    "geoid": "4817000",
+    "url": "https://www.corpuschristitx.gov/",
+    "status": "verified",
+    "title": "Home | City of Corpus Christi",
+    "organization": "City of Corpus Christi",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  "0669000": {
+    "geoid": "0669000",
+    "url": "https://santa-ana.gov/",
+    "status": "verified",
+    "title": "Welcome - City of Santa Ana",
+    "organization": "City of Santa Ana",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  "4261000": {
+    "geoid": "4261000",
+    "url": "https://www.pittsburghpa.gov/Home",
+    "status": "verified",
+    "title": "Home - Pittsburgh, PA",
+    "organization": "City of Pittsburgh",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  "2758000": {
+    "geoid": "2758000",
+    "url": "https://www.stpaul.gov/",
+    "status": "verified",
+    "title": "Home | Saint Paul Minnesota",
+    "organization": "City of St Paul",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  "0412000": {
+    "geoid": "0412000",
+    "url": "https://www.chandleraz.gov/",
+    "status": "verified",
+    "title": "Welcome to the City of Chandler, AZ",
+    "organization": "City of Chandler",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  "0427820": {
+    "geoid": "0427820",
+    "url": "https://www.glendaleaz.gov/Home",
+    "status": "verified",
+    "title": "Home | City of Glendale, AZ",
+    "organization": "City of Glendale, Arizona",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  "1608830": {
+    "geoid": "1608830",
+    "url": "https://www.cityofboise.org/",
+    "status": "verified",
+    "title": "City of Boise",
+    "organization": "City of Boise",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  "5157000": {
+    "geoid": "5157000",
+    "url": "https://www.norfolk.gov/",
+    "status": "verified",
+    "title": "City of Norfolk, Virginia - Official Website | Official Website",
+    "organization": "City of Norfolk, VA",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  "5370000": {
+    "geoid": "5370000",
+    "url": "https://tacoma.gov/",
+    "status": "verified",
+    "title": "City of Tacoma, Washington - Official Government Website",
+    "organization": "City of Tacoma",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  "0665000": {
+    "geoid": "0665000",
+    "url": "https://sanbernardino.gov/",
+    "status": "verified",
+    "title": "San Bernardino, CA | Official Website",
+    "organization": "City of San Bernardino",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  "0624680": {
+    "geoid": "0624680",
+    "url": "https://fontanaca.gov/",
+    "status": "verified",
+    "title": "Fontana, CA - Official Website | Official Website",
+    "organization": "City of Fontana",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  "0649270": {
+    "geoid": "0649270",
+    "url": "https://moval.gov/",
+    "status": "verified",
+    "title": "City of Moreno Valley, California",
+    "organization": "City of Moreno Valley",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  "2582000": {
+    "geoid": "2582000",
+    "url": "https://www.worcesterma.gov/",
+    "status": "verified",
+    "title": "Home | City of Worcester",
+    "organization": "City of Worcester",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  "4659020": {
+    "geoid": "4659020",
+    "url": "https://www.siouxfalls.gov/home",
+    "status": "verified",
+    "title": "Home - City of Sioux Falls",
+    "organization": "City of Sioux Falls",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  "3722920": {
+    "geoid": "3722920",
+    "url": "https://www.fayettevillenc.gov/Home",
+    "status": "verified",
+    "title": "Home | City of Fayetteville, N.C.",
+    "organization": "City of Fayetteville, North Carolina",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  "0541000": {
+    "geoid": "0541000",
+    "url": "https://littlerock.gov/",
+    "status": "verified",
+    "title": "Home - City of Little Rock",
+    "organization": "City",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  "1319000": {
+    "geoid": "1319000",
+    "url": "https://columbusga.gov/",
+    "status": "verified",
+    "title": "Columbus Consolidated Government",
+    "organization": "Columbus Consolidated Government",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  "2634000": {
+    "geoid": "2634000",
+    "url": "https://www.grandrapidsmi.gov/",
+    "status": "verified",
+    "title": "Home | City of Grand Rapids, MI",
+    "organization": "City of Grand Rapids",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  "0150000": {
+    "geoid": "0150000",
+    "url": "https://www.cityofmobile.gov/",
+    "status": "verified",
+    "title": "City of Mobile, Alabama",
+    "organization": "City of Mobile",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  "0107000": {
+    "geoid": "0107000",
+    "url": "https://www.birminghamal.gov/",
+    "status": "verified",
+    "title": "Homepage | City of Birmingham, Alabama",
+    "organization": "City of Birmingham",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  "4459000": {
+    "geoid": "4459000",
+    "url": "https://www.providenceri.gov/",
+    "status": "verified",
+    "title": "City of Providence Home - City of Providence",
+    "organization": "City of Providence",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  "4714000": {
+    "geoid": "4714000",
+    "url": "https://chattanooga.gov/",
+    "status": "verified",
+    "title": "Welcome to Chattanooga.gov",
+    "organization": "City of Chattanooga",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  "1224000": {
+    "geoid": "1224000",
+    "url": "https://www.fortlauderdale.gov/Home",
+    "status": "verified",
+    "title": "Home | City of Fort Lauderdale, FL",
+    "organization": "City of Ft. Lauderdale",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  "0653896": {
+    "geoid": "0653896",
+    "url": "https://www.ontarioca.gov/",
+    "status": "verified",
+    "title": "Homepage | City of Ontario, California",
+    "organization": "City of Ontario",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  "2270000": {
+    "geoid": "2270000",
+    "url": "https://shreveportla.gov/",
+    "status": "verified",
+    "title": "Shreveport, LA - Official Website | Official Website",
+    "organization": "City of Shreveport",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  "0471510": {
+    "geoid": "0471510",
+    "url": "https://surpriseaz.gov/",
+    "status": "verified",
+    "title": "Surprise, AZ - Official Website | Official Website",
+    "organization": "City of Surprise",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  "0827425": {
+    "geoid": "0827425",
+    "url": "https://www.fortcollins.gov/Home",
+    "status": "verified",
+    "title": "Home City of Fort Collins",
+    "organization": "City of Fort Collins",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  "0655156": {
+    "geoid": "0655156",
+    "url": "https://cityofpalmdaleca.gov/",
+    "status": "verified",
+    "title": "Palmdale, CA | Official Website",
+    "organization": "City of Palmdale",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  "0616350": {
+    "geoid": "0616350",
+    "url": "https://www.coronaca.gov/",
+    "status": "verified",
+    "title": "City of Corona | Home",
+    "organization": "City of Corona",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  "5101000": {
+    "geoid": "5101000",
+    "url": "https://alexandriava.gov/",
+    "status": "verified",
+    "title": "Welcome to the City of Alexandria Homepage! | City of Alexandria, VA",
+    "organization": "City of Alexandria",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  "4513330": {
+    "geoid": "4513330",
+    "url": "https://charleston-sc.gov/",
+    "status": "verified",
+    "title": "Charleston, SC - Official Website | Official Website",
+    "organization": "City of Charleston",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  "0664224": {
+    "geoid": "0664224",
+    "url": "https://www.salinas.gov/Home",
+    "status": "verified",
+    "title": "Home - City of Salinas",
+    "organization": "City of Salinas",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  "0633000": {
+    "geoid": "0633000",
+    "url": "https://hayward-ca.gov/",
+    "status": "verified",
+    "title": "Home | City of Hayward - Official website",
+    "organization": "CITY OF HAYWARD",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  "0843000": {
+    "geoid": "0843000",
+    "url": "https://www.lakewoodco.gov/Home",
+    "status": "verified",
+    "title": "Home  - City of Lakewood, CO",
+    "organization": "City of Lakewood",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  "5305210": {
+    "geoid": "5305210",
+    "url": "https://bellevuewa.gov/",
+    "status": "verified",
+    "title": "Home | City of Bellevue",
+    "organization": "City of Bellevue",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  "0908000": {
+    "geoid": "0908000",
+    "url": "https://www.bridgeportct.gov/",
+    "status": "verified",
+    "title": "Homepage | City of Bridgeport",
+    "organization": "City of Bridgeport",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  "1225175": {
+    "geoid": "1225175",
+    "url": "https://www.gainesvillefl.gov/Home",
+    "status": "verified",
+    "title": "Home Welcome to the City of Gainesville",
+    "organization": "City of Gainesville",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  "4856000": {
+    "geoid": "4856000",
+    "url": "https://pasadenatx.gov/",
+    "status": "verified",
+    "title": "Pasadena, TX | Official Website",
+    "organization": "City of Pasadena, Texas",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  "4876000": {
+    "geoid": "4876000",
+    "url": "https://www.waco-texas.com/Home",
+    "status": "verified",
+    "title": "Home City of Waco",
+    "organization": "City of Waco",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  "0877290": {
+    "geoid": "0877290",
+    "url": "https://www.thorntonco.gov/",
+    "status": "verified",
+    "title": "City of Thornton",
+    "organization": "City of Thornton",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  "1765000": {
+    "geoid": "1765000",
+    "url": "https://rockfordil.gov/",
+    "status": "verified",
+    "title": "Rockford, IL | Official Website",
+    "organization": "City of Rockford",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  "0622804": {
+    "geoid": "0622804",
+    "url": "https://escondido.gov/",
+    "status": "verified",
+    "title": "Escondido, CA | Official Website",
+    "organization": "City of Escondido",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  "3673000": {
+    "geoid": "3673000",
+    "url": "https://www.syr.gov/Home",
+    "status": "verified",
+    "title": "Home – City of Syracuse",
+    "organization": "City of Syracuse",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  "0682590": {
+    "geoid": "0682590",
+    "url": "https://www.victorvilleca.gov/Home",
+    "status": "verified",
+    "title": "Home | City of Victorville, CA",
+    "organization": "City of Victorville",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  "2836000": {
+    "geoid": "2836000",
+    "url": "https://jacksonms.gov/",
+    "status": "verified",
+    "title": "City of Jackson, Mississippi | City Services, News & Departments - City of Jackson",
+    "organization": "City of Jackson",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  "1214400": {
+    "geoid": "1214400",
+    "url": "https://www.coralsprings.gov/Home",
+    "status": "verified",
+    "title": "Home - City of Coral Springs",
+    "organization": "City of Coral Springs",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  "0680000": {
+    "geoid": "0680000",
+    "url": "https://www.torranceca.gov/Home",
+    "status": "verified",
+    "title": "Home - City of Torrance",
+    "organization": "City Of Torrance",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  "3921000": {
+    "geoid": "3921000",
+    "url": "https://daytonohio.gov/",
+    "status": "verified",
+    "title": "Dayton, OH | Official Website",
+    "organization": "City of Dayton",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  "3825700": {
+    "geoid": "3825700",
+    "url": "https://fargond.gov/",
+    "status": "verified",
+    "title": "The City of Fargo - Home Page",
+    "organization": "City of Fargo",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  "2676460": {
+    "geoid": "2676460",
+    "url": "https://sterlingheights.gov/",
+    "status": "verified",
+    "title": "Sterling Heights, MI - Official Website | Official Website",
+    "organization": "City of Sterling Heights",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  "4052500": {
+    "geoid": "4052500",
+    "url": "https://www.normanok.gov/",
+    "status": "verified",
+    "title": "Welcome to the City of Norman, OK | City of Norman, OK",
+    "organization": "City of Norman",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  "4815976": {
+    "geoid": "4815976",
+    "url": "https://www.cstx.gov/",
+    "status": "verified",
+    "title": "Home | City of College Station",
+    "organization": "City of College Station",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  "3774440": {
+    "geoid": "3774440",
+    "url": "https://www.wilmingtonnc.gov/Home",
+    "status": "verified",
+    "title": "Home - Wilmington, NC",
+    "organization": "City of Wilmington",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  "2754880": {
+    "geoid": "2754880",
+    "url": "https://www.rochestermn.gov/",
+    "status": "verified",
+    "title": "Home | City of Rochester",
+    "organization": "The City of Rochester",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  "2240735": {
+    "geoid": "2240735",
+    "url": "https://www.lafayettela.gov/",
+    "status": "verified",
+    "title": "Home | Lafayette Consolidated Government",
+    "organization": "Lafayette City-Parish Consolidated Government",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  "4853388": {
+    "geoid": "4853388",
+    "url": "https://odessa-tx.gov/",
+    "status": "verified",
+    "title": "Odessa, TX | Official Website",
+    "organization": "City of Odessa",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  "4850820": {
+    "geoid": "4850820",
+    "url": "https://newbraunfels.gov/",
+    "status": "verified",
+    "title": "New Braunfels, TX - Official Website | Official Website",
+    "organization": "City of New Braunfels",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  "0678582": {
+    "geoid": "0678582",
+    "url": "https://toaks.gov/",
+    "status": "verified",
+    "title": "Thousand Oaks, CA",
+    "organization": "City of Thousand Oaks",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  "0606000": {
+    "geoid": "0606000",
+    "url": "https://berkeleyca.gov/",
+    "status": "verified",
+    "title": "The City of Berkeley",
+    "organization": "City of Berkeley",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  "2935000": {
+    "geoid": "2935000",
+    "url": "https://www.independencemo.gov/",
+    "status": "verified",
+    "title": "City of Independence | City of Independence, MO",
+    "organization": "City of Independence Missouri",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  "3006550": {
+    "geoid": "3006550",
+    "url": "https://billingsmt.gov/",
+    "status": "verified",
+    "title": "City of Billings, MT - Official Website | Official Website",
+    "organization": "City of Billings",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  "2537000": {
+    "geoid": "2537000",
+    "url": "https://lowellma.gov/",
+    "status": "verified",
+    "title": "Lowell, MA | Official Website",
+    "organization": "City of Lowell, Massachusetts",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  "4841980": {
+    "geoid": "4841980",
+    "url": "https://leaguecitytx.gov/",
+    "status": "verified",
+    "title": "The League City Official Website! | Official Website",
+    "organization": "City of League City",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  "1258050": {
+    "geoid": "1258050",
+    "url": "https://www.pompanobeachfl.gov/",
+    "status": "verified",
+    "title": "Home | City of Pompano Beach",
+    "organization": "City of Pompano Beach",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  "3345140": {
+    "geoid": "3345140",
+    "url": "https://www.manchesternh.gov/",
+    "status": "verified",
+    "title": "City Of Manchester",
+    "organization": "City of Manchester NH",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  "0883835": {
+    "geoid": "0883835",
+    "url": "https://www.westminsterco.gov/",
+    "status": "verified",
+    "title": "Westminster, CO | Official Website",
+    "organization": "CITY OF WESTMINSTER",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  "1723074": {
+    "geoid": "1723074",
+    "url": "https://elginil.gov/",
+    "status": "verified",
+    "title": "City of Elgin, Illinois - Official Website | Official Website",
+    "organization": "City of Elgin, Illinois",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  "0832155": {
+    "geoid": "0832155",
+    "url": "https://greeleyco.gov/",
+    "status": "verified",
+    "title": "Home | City of Greeley",
+    "organization": "City of Greeley",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  "0660620": {
+    "geoid": "0660620",
+    "url": "https://www.richmondca.gov/",
+    "status": "verified",
+    "title": "Richmond, CA - Official Website | Official Website",
+    "organization": "City of Richmond",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  "0177256": {
+    "geoid": "0177256",
+    "url": "https://www.tuscaloosa.com/",
+    "status": "verified",
+    "title": "City of Tuscaloosa",
+    "organization": "City of Tuscaloosa, AL",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  "1254200": {
+    "geoid": "1254200",
+    "url": "https://www.palmcoast.gov/",
+    "status": "verified",
+    "title": "City of Palm Coast, Florida",
+    "organization": "City of Palm Coast",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  "0812815": {
+    "geoid": "0812815",
+    "url": "https://www.centennialco.gov/Home",
+    "status": "verified",
+    "title": "Home – City of Centennial",
+    "organization": "CIty of Centennial",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  "5367167": {
+    "geoid": "5367167",
+    "url": "https://spokanevalleywa.gov/",
+    "status": "verified",
+    "title": "Spokane Valley, WA | Official Website",
+    "organization": "City of Spokane Valley",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  "4870808": {
+    "geoid": "4870808",
+    "url": "https://sugarlandtx.gov/",
+    "status": "verified",
+    "title": "Sugar Land, TX - Official Website | Official Website",
+    "organization": "City of Sugar Land",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  "0637692": {
+    "geoid": "0637692",
+    "url": "https://jurupavalley.gov/",
+    "status": "verified",
+    "title": "Jurupa Valley, CA | Official Website",
+    "organization": "City of Jurupa Valley",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  "0523290": {
+    "geoid": "0523290",
+    "url": "https://www.fayetteville-ar.gov/",
+    "status": "verified",
+    "title": "Fayetteville, AR - Official Website | Official Website",
+    "organization": "City of Fayetteville",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  "0660466": {
+    "geoid": "0660466",
+    "url": "https://rialtoca.gov/",
+    "status": "verified",
+    "title": "Rialto, CA | Official Website",
+    "organization": "City of Rialto",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  "0807850": {
+    "geoid": "0807850",
+    "url": "https://bouldercolorado.gov/",
+    "status": "verified",
+    "title": "Home | City of Boulder",
+    "organization": "City of Boulder",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  "2621000": {
+    "geoid": "2621000",
+    "url": "https://dearborn.gov/",
+    "status": "verified",
+    "title": "Home Page | City of Dearborn",
+    "organization": "City of Dearborn",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  "0613014": {
+    "geoid": "0613014",
+    "url": "https://chicoca.gov/",
+    "status": "verified",
+    "title": "City of Chico - Home",
+    "organization": "City of Chico",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  "0622230": {
+    "geoid": "0622230",
+    "url": "https://elmonteca.gov/",
+    "status": "verified",
+    "title": "El Monte, CA | Official Website",
+    "organization": "City of El Monte",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  "1368516": {
+    "geoid": "1368516",
+    "url": "https://www.sandyspringsga.gov/",
+    "status": "verified",
+    "title": "City of Sandy Springs",
+    "organization": "City of Sandy Springs",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  "5357745": {
+    "geoid": "5357745",
+    "url": "https://www.rentonwa.gov/Home",
+    "status": "verified",
+    "title": "Home | City of Renton",
+    "organization": "City of Renton",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  "0633434": {
+    "geoid": "0633434",
+    "url": "https://hesperiaca.gov/",
+    "status": "verified",
+    "title": "City of Hesperia - Official Website | Official Website",
+    "organization": "City Of Hesperia",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  "3601000": {
+    "geoid": "3601000",
+    "url": "https://albanyny.gov/",
+    "status": "verified",
+    "title": "Albany, NY | Official Website",
+    "organization": "City of Albany",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  "1224125": {
+    "geoid": "1224125",
+    "url": "https://fortmyers.gov/",
+    "status": "verified",
+    "title": "Fort Myers, FL - City Government | Official Website",
+    "organization": "City Of Fort Myers",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  "1217200": {
+    "geoid": "1217200",
+    "url": "https://deltonafl.gov/",
+    "status": "verified",
+    "title": "Deltona, FL | Official Website",
+    "organization": "City Of Deltona",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  "5414600": {
+    "geoid": "5414600",
+    "url": "https://charlestonwv.gov/",
+    "status": "verified",
+    "title": "Welcome To Charleston, West Virginia",
+    "organization": "City of Charleston",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  "5010675": {
+    "geoid": "5010675",
+    "url": "https://burlingtonvt.gov/",
+    "status": "verified",
+    "title": "Burlington, VT | Official Website",
+    "organization": "City of Burlington",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  }
+}

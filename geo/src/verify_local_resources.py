@@ -3,7 +3,7 @@ from pathlib import Path
 ROOT=Path(__file__).resolve().parents[1]
 research=ROOT/'data/source'
 candidates=json.loads((research/'local-resource-candidates.json').read_text(encoding='utf-8'))
-override={'New York City, NY':'https://www.nyc.gov/','Philadelphia, PA':'https://www.phila.gov/','San Francisco, CA':'https://www.sf.gov/','Washington, DC':'https://dc.gov/','Denver, CO':'https://www.denvergov.org/','Fort Worth, TX':'https://www.fortworthtexas.gov/','Las Vegas, NV':'https://www.lasvegasnevada.gov/','Boise City, ID':'https://www.cityofboise.org/','Indianapolis city (balance), IN':'https://www.indy.gov/','Albuquerque, NM':'https://www.cabq.gov/','Kansas City, MO':'https://www.kcmo.gov/','Tulsa, OK':'https://www.cityoftulsa.org/'}
+override={'New York City, NY':'https://www.nyc.gov/','Philadelphia, PA':'https://www.phila.gov/','San Francisco, CA':'https://www.sf.gov/','Washington, DC':'https://dc.gov/','Denver, CO':'https://www.denvergov.org/','Fort Worth, TX':'https://www.fortworthtexas.gov/','Las Vegas, NV':'https://www.lasvegasnevada.gov/','Boise, ID':'https://www.cityofboise.org/','Indianapolis, IN':'https://www.indy.gov/','Albuquerque, NM':'https://www.cabq.gov/','Kansas City, MO':'https://www.kcmo.gov/','Tulsa, OK':'https://www.cityoftulsa.org/'}
 # Overrides are candidate URLs only. Pages receive them only on successful read.
 def fetch(r):
     key=r['city']+', '+r['state']
@@ -16,7 +16,7 @@ def fetch(r):
             title=html.unescape(re.sub('<[^>]+>','',title.group(1))).strip() if title else ''
             blocked=any(x in title.lower() for x in ['access denied','just a moment','attention required','error','forbidden','custom domain by bitly'])
             if response.status!=200 or blocked or not title:return {'geoid':r['geoid'],'url':url,'status':'not_verified','title':title}
-            return {'geoid':r['geoid'],'url':response.geturl(),'status':'verified','title':title,'organization':r['candidates'][0]['Organization name'] if r['candidates'] else 'City government','source':'https://github.com/cisagov/dotgov-data','checked':'2026-09-30'}
+            return {'geoid':r['geoid'],'url':response.geturl(),'status':'verified','title':title,'organization':r['candidates'][0]['Organization name'] if r['candidates'] else 'City government','source':'https://github.com/cisagov/dotgov-data','checked':'2026-10-01'}
     except Exception as e:return {'geoid':r['geoid'],'url':url,'status':'not_verified','error':str(e)[:120]}
 results=[]
 with concurrent.futures.ThreadPoolExecutor(max_workers=12) as ex:

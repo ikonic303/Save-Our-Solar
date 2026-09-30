@@ -1,0 +1,2345 @@
+[
+  {
+    "geoid": "3651000",
+    "url": "https://www.nyc.gov/",
+    "status": "not_verified",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "geoid": "0644000",
+    "url": "https://lacity.gov/",
+    "status": "verified",
+    "title": "Home | City of Los Angeles",
+    "organization": "City of Los Angeles",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  {
+    "geoid": "1714000",
+    "url": "https://www.chicago.gov/city/en.html",
+    "status": "verified",
+    "title": "City of Chicago",
+    "organization": "City of Chicago",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  {
+    "geoid": "4835000",
+    "url": "https://houstontx.gov/",
+    "status": "verified",
+    "title": "City of Houston eGovernment Center",
+    "organization": "City of Houston",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  {
+    "geoid": "0455000",
+    "url": "https://www.phoenix.gov/",
+    "status": "verified",
+    "title": "Home | City of Phoenix",
+    "organization": "City Of Phoenix",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  {
+    "geoid": "4260000",
+    "url": "https://www.phila.gov/",
+    "status": "not_verified",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "geoid": "4865000",
+    "url": "https://www.sa.gov/Home",
+    "status": "verified",
+    "title": "Home  - City of San Antonio",
+    "organization": "City of San Antonio",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  {
+    "geoid": "0666000",
+    "url": "https://www.sandiego.gov/",
+    "status": "verified",
+    "title": "City of San Diego Official Website",
+    "organization": "The City of San Diego",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  {
+    "geoid": "4819000",
+    "url": "https://dallas.gov/",
+    "status": "not_verified",
+    "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl."
+  },
+  {
+    "geoid": "4827000",
+    "url": "https://www.fortworthtexas.gov/Home",
+    "status": "verified",
+    "title": "Home – Welcome to the City of Fort Worth",
+    "organization": "City of Fortworth",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  {
+    "geoid": "1235000",
+    "url": "https://jacksonville.gov/",
+    "status": "not_verified",
+    "error": "<urlopen error timed out>"
+  },
+  {
+    "geoid": "4805000",
+    "url": "https://austin.gov/",
+    "status": "not_verified",
+    "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1010)>"
+  },
+  {
+    "geoid": "0668000",
+    "url": "https://sanjoseca.gov/",
+    "status": "not_verified",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "geoid": "3712000",
+    "url": "https://www.charlottenc.gov/Home",
+    "status": "verified",
+    "title": "Home - City of Charlotte",
+    "organization": "City of Charlotte",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  {
+    "geoid": "3918000",
+    "url": "https://www.columbus.gov/Home",
+    "status": "verified",
+    "title": "Home - City of Columbus, Ohio",
+    "organization": "City of Columbus",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  {
+    "geoid": "1836003",
+    "url": "https://www.indy.gov/",
+    "status": "verified",
+    "title": "indy.gov",
+    "organization": "Information Services Agency, City of Indianapolis/ Marion County",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  {
+    "geoid": "0667000",
+    "url": "https://www.sf.gov/",
+    "status": "verified",
+    "title": "SF.gov",
+    "organization": "City and County of San Francisco",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  {
+    "geoid": "5363000",
+    "url": "https://seattle.gov/",
+    "status": "verified",
+    "title": "Seattle.gov Home",
+    "organization": "City of Seattle",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  {
+    "geoid": "0820000",
+    "url": "https://www.denvergov.org/",
+    "status": "not_verified",
+    "title": ""
+  },
+  {
+    "geoid": "4752006",
+    "url": "https://nashville.gov/",
+    "status": "not_verified",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "geoid": "4055000",
+    "url": "https://www.okc.gov/Home",
+    "status": "verified",
+    "title": "Home | City of OKC",
+    "organization": "City Of Oklahoma City",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  {
+    "geoid": "1150000",
+    "url": "https://dc.gov/",
+    "status": "not_verified",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "geoid": "4824000",
+    "url": "https://elpasotexas.gov/",
+    "status": "not_verified",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "geoid": "3240000",
+    "url": "https://www.lasvegasnevada.gov/",
+    "status": "not_verified",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "geoid": "2507000",
+    "url": "https://www.boston.gov/",
+    "status": "verified",
+    "title": "Homepage | Boston.gov",
+    "organization": "City of Boston",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  {
+    "geoid": "2622000",
+    "url": "https://detroit.gov/",
+    "status": "not_verified",
+    "error": "<urlopen error [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1010)>"
+  },
+  {
+    "geoid": "2148006",
+    "url": "https://louisville.gov/",
+    "status": "not_verified",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "geoid": "4159000",
+    "url": "https://www.portland.gov/",
+    "status": "verified",
+    "title": "City of Portland, Oregon | Portland.gov",
+    "organization": "City of Portland",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  {
+    "geoid": "4748000",
+    "url": "https://memphistn.gov/",
+    "status": "not_verified",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "geoid": "2404000",
+    "url": "https://www.baltimorecity.gov/",
+    "status": "verified",
+    "title": "Home | Baltimore City",
+    "organization": "Baltimore City Office of Information and Technology",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  {
+    "geoid": "5553000",
+    "url": "https://milwaukee.gov/",
+    "status": "not_verified",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "geoid": "3502000",
+    "url": "https://www.cabq.gov/",
+    "status": "verified",
+    "title": "Homepage — City of Albuquerque",
+    "organization": "City of Albuquerque ",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  {
+    "geoid": "0627000",
+    "url": "https://fresno.gov/",
+    "status": "not_verified",
+    "error": "<urlopen error timed out>"
+  },
+  {
+    "geoid": "0477000",
+    "url": "https://www.tucsonaz.gov/Home",
+    "status": "verified",
+    "title": "Home City of Tucson",
+    "organization": "City of Tucson",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  {
+    "geoid": "0664000",
+    "url": "https://www.cityofsacramento.gov/",
+    "status": "verified",
+    "title": "Home | City of Sacramento",
+    "organization": "City of Sacramento",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  {
+    "geoid": "1304000",
+    "url": "https://atlantaga.gov/",
+    "status": "not_verified",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "geoid": "2938000",
+    "url": "https://www.kcmo.gov/",
+    "status": "not_verified",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "geoid": "0446000",
+    "url": "https://www.mesaaz.gov/Home",
+    "status": "verified",
+    "title": "Home - City of Mesa",
+    "organization": "City Of Mesa",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  {
+    "geoid": "3755000",
+    "url": "https://raleighnc.gov/",
+    "status": "not_verified",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "geoid": "0816000",
+    "url": "https://coloradosprings.gov/",
+    "status": "verified",
+    "title": "Home Page | City of Colorado Springs",
+    "organization": "City of Colorado Springs",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  {
+    "geoid": "1245000",
+    "url": "https://www.miami.gov/Home",
+    "status": "verified",
+    "title": "Home  - Miami",
+    "organization": "City of Miami",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  {
+    "geoid": "3137000",
+    "url": "https://omaha.gov/",
+    "status": "not_verified",
+    "error": "<urlopen error [Errno 11001] getaddrinfo failed>"
+  },
+  {
+    "geoid": "5182000",
+    "url": "https://virginiabeach.gov/",
+    "status": "verified",
+    "title": "Home | City of Virginia Beach",
+    "organization": "City of Virginia Beach",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  {
+    "geoid": "0643000",
+    "url": "https://longbeach.gov/",
+    "status": "verified",
+    "title": "City of Long Beach",
+    "organization": "City of Long Beach California",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  {
+    "geoid": "0653000",
+    "url": "https://www.oaklandca.gov/Home",
+    "status": "verified",
+    "title": "Home | City of Oakland, CA",
+    "organization": "City of Oakland",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  {
+    "geoid": "2743000",
+    "url": "https://www.minneapolismn.gov/",
+    "status": "verified",
+    "title": "City of Minneapolis",
+    "organization": "City of Minneapolis",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  {
+    "geoid": "0603526",
+    "url": "https://bakersfield.gov/",
+    "status": "not_verified",
+    "error": "<urlopen error [Errno 11001] getaddrinfo failed>"
+  },
+  {
+    "geoid": "4075000",
+    "url": "https://www.cityoftulsa.org/",
+    "status": "verified",
+    "title": "City of Tulsa",
+    "organization": "City of Tulsa",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  {
+    "geoid": "1271000",
+    "url": "https://tampa.gov/",
+    "status": "not_verified",
+    "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain "
+  },
+  {
+    "geoid": "0804000",
+    "url": "https://auroraco.gov/",
+    "status": "not_verified",
+    "error": "<urlopen error [Errno 11001] getaddrinfo failed>"
+  },
+  {
+    "geoid": "4804000",
+    "url": "https://www.arlingtontx.gov/Home",
+    "status": "verified",
+    "title": "Home | City of Arlington, TX",
+    "organization": "City of Arlington, Texas",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  {
+    "geoid": "2079000",
+    "url": "https://wichita.gov/",
+    "status": "not_verified",
+    "error": "<urlopen error timed out>"
+  },
+  {
+    "geoid": "3916000",
+    "url": "https://www.clevelandohio.gov/",
+    "status": "verified",
+    "title": "Home | City of Cleveland Ohio",
+    "organization": "City of Cleveland",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  {
+    "geoid": "2255000",
+    "url": "https://neworleansla.gov/",
+    "status": "not_verified",
+    "error": "<urlopen error [Errno 11001] getaddrinfo failed>"
+  },
+  {
+    "geoid": "3231900",
+    "url": "https://hendersonnv.gov/",
+    "status": "not_verified",
+    "error": "<urlopen error [WinError 10054] An existing connection was forcibly closed by the remote host>"
+  },
+  {
+    "geoid": "1571550",
+    "url": "https://honolulu.gov/",
+    "status": "not_verified",
+    "error": "<urlopen error timed out>"
+  },
+  {
+    "geoid": "0602000",
+    "url": "https://anaheim.gov/",
+    "status": "not_verified",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "geoid": "1253000",
+    "url": "https://www.orlando.gov/Home",
+    "status": "verified",
+    "title": "Home  - City of Orlando",
+    "organization": "City of Orlando",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  {
+    "geoid": "2146027",
+    "url": "https://www.lexingtonky.gov/",
+    "status": "verified",
+    "title": "Homepage | City of Lexington, Kentucky",
+    "organization": "Lexington-Fayette Urban County Government",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  {
+    "geoid": "0675000",
+    "url": "https://stocktonca.gov/",
+    "status": "not_verified",
+    "error": "<urlopen error [Errno 11002] getaddrinfo failed>"
+  },
+  {
+    "geoid": "3451000",
+    "url": "https://newarknj.gov/",
+    "status": "not_verified",
+    "error": "<urlopen error [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1010)>"
+  },
+  {
+    "geoid": "0662000",
+    "status": "no_registry_candidate"
+  },
+  {
+    "geoid": "0636770",
+    "url": "https://cityofirvine.gov/",
+    "status": "verified",
+    "title": "City of Irvine | Official City Government Website",
+    "organization": "City of Irvine",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  {
+    "geoid": "4817000",
+    "url": "https://www.corpuschristitx.gov/",
+    "status": "verified",
+    "title": "Home | City of Corpus Christi",
+    "organization": "City of Corpus Christi",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  {
+    "geoid": "0669000",
+    "url": "https://santa-ana.gov/",
+    "status": "verified",
+    "title": "Welcome - City of Santa Ana",
+    "organization": "City of Santa Ana",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  {
+    "geoid": "3915000",
+    "url": "https://cincinnati.gov/",
+    "status": "not_verified",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "geoid": "3728000",
+    "url": "https://greensboro-nc.gov/",
+    "status": "not_verified",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "geoid": "4261000",
+    "url": "https://www.pittsburghpa.gov/Home",
+    "status": "verified",
+    "title": "Home - Pittsburgh, PA",
+    "organization": "City of Pittsburgh",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  {
+    "geoid": "2758000",
+    "url": "https://www.stpaul.gov/",
+    "status": "verified",
+    "title": "Home | Saint Paul Minnesota",
+    "organization": "City of St Paul",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  {
+    "geoid": "3719000",
+    "url": "https://durhamnc.gov/",
+    "status": "not_verified",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "geoid": "3436000",
+    "url": "https://jerseycitynj.gov/",
+    "status": "not_verified",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "geoid": "3128000",
+    "status": "no_registry_candidate"
+  },
+  {
+    "geoid": "3251800",
+    "status": "no_registry_candidate"
+  },
+  {
+    "geoid": "4858016",
+    "url": "https://plano.gov/",
+    "status": "not_verified",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "geoid": "0427400",
+    "url": "https://gilbertaz.gov/",
+    "status": "not_verified",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "geoid": "0203000",
+    "url": "https://anchorageak.gov/",
+    "status": "not_verified",
+    "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid f"
+  },
+  {
+    "geoid": "5548000",
+    "url": "https://madison.gov/",
+    "status": "not_verified",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "geoid": "3260600",
+    "url": "https://reno.gov/",
+    "status": "not_verified",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "geoid": "0412000",
+    "url": "https://www.chandleraz.gov/",
+    "status": "verified",
+    "title": "Welcome to the City of Chandler, AZ",
+    "organization": "City of Chandler",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  {
+    "geoid": "2965000",
+    "url": "https://stlouis-mo.gov/",
+    "status": "not_verified",
+    "error": "<urlopen error timed out>"
+  },
+  {
+    "geoid": "0613392",
+    "url": "https://chulavistaca.gov/",
+    "status": "not_verified",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "geoid": "1825000",
+    "status": "no_registry_candidate"
+  },
+  {
+    "geoid": "3611000",
+    "url": "https://buffalony.gov/",
+    "status": "not_verified",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "geoid": "4845000",
+    "url": "https://lubbocktx.gov/",
+    "status": "not_verified",
+    "error": "<urlopen error timed out>"
+  },
+  {
+    "geoid": "4841464",
+    "url": "https://laredo.gov/",
+    "status": "not_verified",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "geoid": "1258715",
+    "url": "https://cityofpsl.gov/",
+    "status": "not_verified",
+    "title": ""
+  },
+  {
+    "geoid": "1263000",
+    "url": "https://stpetersburg.gov/",
+    "status": "not_verified",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "geoid": "3977000",
+    "url": "https://toledo.gov/",
+    "status": "not_verified",
+    "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid f"
+  },
+  {
+    "geoid": "0427820",
+    "url": "https://www.glendaleaz.gov/Home",
+    "status": "verified",
+    "title": "Home | City of Glendale, AZ",
+    "organization": "City of Glendale, Arizona",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  {
+    "geoid": "3775000",
+    "url": "https://cityofws.gov/",
+    "status": "not_verified",
+    "error": "<urlopen error [Errno 11001] getaddrinfo failed>"
+  },
+  {
+    "geoid": "4837000",
+    "url": "https://irvingtx.gov/",
+    "status": "not_verified",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "geoid": "5116000",
+    "url": "https://chesapeakeva.gov/",
+    "status": "not_verified",
+    "error": "<urlopen error timed out>"
+  },
+  {
+    "geoid": "4829000",
+    "url": "https://garlandtx.gov/",
+    "status": "not_verified",
+    "error": "<urlopen error timed out>"
+  },
+  {
+    "geoid": "0465000",
+    "url": "https://scottsdaleaz.gov/",
+    "status": "not_verified",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "geoid": "1608830",
+    "url": "https://www.cityofboise.org/",
+    "status": "verified",
+    "title": "City of Boise",
+    "organization": "City of Boise",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  {
+    "geoid": "5167000",
+    "url": "https://rva.gov/",
+    "status": "not_verified",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "geoid": "4827684",
+    "url": "https://friscotx.gov/",
+    "status": "not_verified",
+    "error": "<urlopen error [Errno 11002] getaddrinfo failed>"
+  },
+  {
+    "geoid": "1210275",
+    "url": "https://capecoralfl.gov/",
+    "status": "not_verified",
+    "error": "<urlopen error [Errno 11002] getaddrinfo failed>"
+  },
+  {
+    "geoid": "4845744",
+    "status": "no_registry_candidate"
+  },
+  {
+    "geoid": "0137000",
+    "url": "https://huntsvilleal.gov/",
+    "status": "not_verified",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "geoid": "5157000",
+    "url": "https://www.norfolk.gov/",
+    "status": "verified",
+    "title": "City of Norfolk, Virginia - Official Website | Official Website",
+    "organization": "City of Norfolk, VA",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  {
+    "geoid": "1230000",
+    "url": "https://hialeahfl.gov/",
+    "status": "not_verified",
+    "error": "<urlopen error timed out>"
+  },
+  {
+    "geoid": "5367000",
+    "url": "https://spokane.gov/",
+    "status": "not_verified",
+    "error": "<urlopen error timed out>"
+  },
+  {
+    "geoid": "5370000",
+    "url": "https://tacoma.gov/",
+    "status": "verified",
+    "title": "City of Tacoma, Washington - Official Government Website",
+    "organization": "City of Tacoma",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  {
+    "geoid": "0669088",
+    "url": "https://santaclarita.gov/",
+    "status": "not_verified",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "geoid": "0626000",
+    "url": "https://fremont.gov/",
+    "status": "not_verified",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "geoid": "2205000",
+    "url": "https://batonrougela.gov/",
+    "status": "not_verified",
+    "error": "<urlopen error [Errno 11002] getaddrinfo failed>"
+  },
+  {
+    "geoid": "0665000",
+    "url": "https://sanbernardino.gov/",
+    "status": "verified",
+    "title": "San Bernardino, CA | Official Website",
+    "organization": "City of San Bernardino",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  {
+    "geoid": "0624680",
+    "url": "https://fontanaca.gov/",
+    "status": "verified",
+    "title": "Fontana, CA - Official Website | Official Website",
+    "organization": "City of Fontana",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  {
+    "geoid": "0648354",
+    "status": "no_registry_candidate"
+  },
+  {
+    "geoid": "4967000",
+    "status": "no_registry_candidate"
+  },
+  {
+    "geoid": "0649270",
+    "url": "https://moval.gov/",
+    "status": "verified",
+    "title": "City of Moreno Valley, California",
+    "organization": "City of Moreno Valley",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  {
+    "geoid": "2582000",
+    "url": "https://www.worcesterma.gov/",
+    "status": "verified",
+    "title": "Home | City of Worcester",
+    "organization": "City of Worcester",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  {
+    "geoid": "4659020",
+    "url": "https://www.siouxfalls.gov/home",
+    "status": "verified",
+    "title": "Home - City of Sioux Falls",
+    "organization": "City of Sioux Falls",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  {
+    "geoid": "3684000",
+    "url": "https://yonkersny.gov/",
+    "status": "not_verified",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "geoid": "1921000",
+    "status": "no_registry_candidate"
+  },
+  {
+    "geoid": "4830464",
+    "status": "no_registry_candidate"
+  },
+  {
+    "geoid": "3722920",
+    "url": "https://www.fayettevillenc.gov/Home",
+    "status": "verified",
+    "title": "Home | City of Fayetteville, N.C.",
+    "organization": "City of Fayetteville, North Carolina",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  {
+    "geoid": "0541000",
+    "url": "https://littlerock.gov/",
+    "status": "verified",
+    "title": "Home - City of Little Rock",
+    "organization": "City",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  {
+    "geoid": "3663000",
+    "url": "https://cityofrochester.gov/",
+    "status": "not_verified",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "geoid": "4803000",
+    "url": "https://amarillo.gov/",
+    "status": "not_verified",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "geoid": "1270600",
+    "status": "no_registry_candidate"
+  },
+  {
+    "geoid": "2053775",
+    "status": "no_registry_candidate"
+  },
+  {
+    "geoid": "1319000",
+    "url": "https://columbusga.gov/",
+    "status": "verified",
+    "title": "Columbus Consolidated Government",
+    "organization": "Columbus Consolidated Government",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  {
+    "geoid": "4740000",
+    "url": "https://knoxvilletn.gov/",
+    "status": "not_verified",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "geoid": "1304204",
+    "url": "https://augustaga.gov/",
+    "status": "not_verified",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "geoid": "2634000",
+    "url": "https://www.grandrapidsmi.gov/",
+    "status": "verified",
+    "title": "Home | City of Grand Rapids, MI",
+    "organization": "City of Grand Rapids",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  {
+    "geoid": "0454050",
+    "url": "https://peoriaaz.gov/",
+    "status": "not_verified",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "geoid": "0150000",
+    "url": "https://www.cityofmobile.gov/",
+    "status": "verified",
+    "title": "City of Mobile, Alabama",
+    "organization": "City of Mobile",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  {
+    "geoid": "5374060",
+    "url": "https://vancouver.gov/",
+    "status": "not_verified",
+    "error": "<urlopen error [Errno 11001] getaddrinfo failed>"
+  },
+  {
+    "geoid": "0654652",
+    "url": "https://oxnard.gov/",
+    "status": "not_verified",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "geoid": "0107000",
+    "url": "https://www.birminghamal.gov/",
+    "status": "verified",
+    "title": "Homepage | City of Birmingham, Alabama",
+    "organization": "City of Birmingham",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  {
+    "geoid": "4459000",
+    "url": "https://www.providenceri.gov/",
+    "status": "verified",
+    "title": "City of Providence Home - City of Providence",
+    "organization": "City of Providence",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  {
+    "geoid": "0151000",
+    "url": "https://montgomeryal.gov/",
+    "status": "not_verified",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "geoid": "4714000",
+    "url": "https://chattanooga.gov/",
+    "status": "verified",
+    "title": "Welcome to Chattanooga.gov",
+    "organization": "City of Chattanooga",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  {
+    "geoid": "4810768",
+    "url": "https://brownsvilletx.gov/",
+    "status": "not_verified",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "geoid": "0636000",
+    "url": "https://huntingtonbeachca.gov/",
+    "status": "not_verified",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "geoid": "0473000",
+    "url": "https://tempe.gov/",
+    "status": "not_verified",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "geoid": "3901000",
+    "status": "no_registry_candidate"
+  },
+  {
+    "geoid": "4715160",
+    "url": "https://clarksvilletn.gov/",
+    "status": "not_verified",
+    "error": "<urlopen error timed out>"
+  },
+  {
+    "geoid": "1224000",
+    "url": "https://www.fortlauderdale.gov/Home",
+    "status": "verified",
+    "title": "Home | City of Fort Lauderdale, FL",
+    "organization": "City of Ft. Lauderdale",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  {
+    "geoid": "0630000",
+    "url": "https://glendaleca.gov/",
+    "status": "not_verified",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "geoid": "0653896",
+    "url": "https://www.ontarioca.gov/",
+    "status": "verified",
+    "title": "Homepage | City of Ontario, California",
+    "organization": "City of Ontario",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  {
+    "geoid": "0622020",
+    "url": "https://elkgrove.gov/",
+    "status": "not_verified",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "geoid": "3710740",
+    "url": "https://carync.gov/",
+    "status": "not_verified",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "geoid": "5156000",
+    "url": "https://newportnewsva.gov/",
+    "status": "not_verified",
+    "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1010)>"
+  },
+  {
+    "geoid": "4164900",
+    "url": "https://salemor.gov/",
+    "status": "not_verified",
+    "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl."
+  },
+  {
+    "geoid": "1703012",
+    "status": "no_registry_candidate"
+  },
+  {
+    "geoid": "0670098",
+    "url": "https://santarosaca.gov/",
+    "status": "not_verified",
+    "error": "<urlopen error [Errno 11001] getaddrinfo failed>"
+  },
+  {
+    "geoid": "4123850",
+    "url": "https://eugene-or.gov/",
+    "status": "not_verified",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "geoid": "0659451",
+    "url": "https://ranchocucamonga.gov/",
+    "status": "not_verified",
+    "error": "<urlopen error [WinError 10061] No connection could be made because the target machine actively refused it>"
+  },
+  {
+    "geoid": "1255775",
+    "status": "no_registry_candidate"
+  },
+  {
+    "geoid": "2270000",
+    "url": "https://shreveportla.gov/",
+    "status": "verified",
+    "title": "Shreveport, LA - Official Website | Official Website",
+    "organization": "City of Shreveport",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  {
+    "geoid": "0471510",
+    "url": "https://surpriseaz.gov/",
+    "status": "verified",
+    "title": "Surprise, AZ - Official Website | Official Website",
+    "organization": "City of Surprise",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  {
+    "geoid": "0827425",
+    "url": "https://www.fortcollins.gov/Home",
+    "status": "verified",
+    "title": "Home City of Fort Collins",
+    "organization": "City of Fort Collins",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  {
+    "geoid": "4751560",
+    "url": "https://murfreesborotn.gov/",
+    "status": "not_verified",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "geoid": "0653322",
+    "status": "no_registry_candidate"
+  },
+  {
+    "geoid": "0629000",
+    "url": "https://gardengroveca.gov/",
+    "status": "not_verified",
+    "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid f"
+  },
+  {
+    "geoid": "0640130",
+    "url": "https://cityoflancasterca.gov/",
+    "status": "not_verified",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "geoid": "2970000",
+    "url": "https://springfieldmo.gov/",
+    "status": "not_verified",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "geoid": "4819972",
+    "url": "https://cityofdenton.gov/",
+    "status": "not_verified",
+    "error": "<urlopen error [Errno 11001] getaddrinfo failed>"
+  },
+  {
+    "geoid": "0662938",
+    "status": "no_registry_candidate"
+  },
+  {
+    "geoid": "4839148",
+    "status": "no_registry_candidate"
+  },
+  {
+    "geoid": "0655156",
+    "url": "https://cityofpalmdaleca.gov/",
+    "status": "verified",
+    "title": "Palmdale, CA | Official Website",
+    "organization": "City of Palmdale",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  {
+    "geoid": "3457000",
+    "url": "https://patersonnj.gov/",
+    "status": "not_verified",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "geoid": "0616350",
+    "url": "https://www.coronaca.gov/",
+    "status": "verified",
+    "title": "City of Corona | Home",
+    "organization": "City of Corona",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  {
+    "geoid": "5101000",
+    "url": "https://alexandriava.gov/",
+    "status": "verified",
+    "title": "Welcome to the City of Alexandria Homepage! | City of Alexandria, VA",
+    "organization": "City of Alexandria",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  {
+    "geoid": "4513330",
+    "url": "https://charleston-sc.gov/",
+    "status": "verified",
+    "title": "Charleston, SC - Official Website | Official Website",
+    "organization": "City of Charleston",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  {
+    "geoid": "0664224",
+    "url": "https://www.salinas.gov/Home",
+    "status": "verified",
+    "title": "Home - City of Salinas",
+    "organization": "City of Salinas",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  {
+    "geoid": "2036000",
+    "status": "no_registry_candidate"
+  },
+  {
+    "geoid": "1349008",
+    "status": "no_registry_candidate"
+  },
+  {
+    "geoid": "0633000",
+    "url": "https://hayward-ca.gov/",
+    "status": "verified",
+    "title": "Home | City of Hayward - Official website",
+    "organization": "CITY OF HAYWARD",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  {
+    "geoid": "1232000",
+    "status": "no_registry_candidate"
+  },
+  {
+    "geoid": "0843000",
+    "url": "https://www.lakewoodco.gov/Home",
+    "status": "verified",
+    "title": "Home  - City of Lakewood, CO",
+    "organization": "City of Lakewood",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  {
+    "geoid": "0677000",
+    "status": "no_registry_candidate"
+  },
+  {
+    "geoid": "2567000",
+    "url": "https://springfieldma.gov/",
+    "status": "not_verified",
+    "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid f"
+  },
+  {
+    "geoid": "5305210",
+    "url": "https://bellevuewa.gov/",
+    "status": "verified",
+    "title": "Home | City of Bellevue",
+    "organization": "City of Bellevue",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  {
+    "geoid": "1751622",
+    "url": "https://naperville.gov/",
+    "status": "not_verified",
+    "error": "<urlopen error [Errno 11001] getaddrinfo failed>"
+  },
+  {
+    "geoid": "0908000",
+    "url": "https://www.bridgeportct.gov/",
+    "status": "verified",
+    "title": "Homepage | City of Bridgeport",
+    "organization": "City of Bridgeport",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  {
+    "geoid": "1738570",
+    "url": "https://joliet.gov/",
+    "status": "not_verified",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "geoid": "4847892",
+    "url": "https://mesquitetx.gov/",
+    "status": "not_verified",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "geoid": "4845384",
+    "status": "no_registry_candidate"
+  },
+  {
+    "geoid": "2052575",
+    "url": "https://olatheks.gov/",
+    "status": "not_verified",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "geoid": "1369000",
+    "url": "https://savannahga.gov/",
+    "status": "not_verified",
+    "error": "<urlopen error timed out>"
+  },
+  {
+    "geoid": "1225175",
+    "url": "https://www.gainesvillefl.gov/Home",
+    "status": "verified",
+    "title": "Home Welcome to the City of Gainesville",
+    "organization": "City of Gainesville",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  {
+    "geoid": "4856000",
+    "url": "https://pasadenatx.gov/",
+    "status": "verified",
+    "title": "Pasadena, TX | Official Website",
+    "organization": "City of Pasadena, Texas",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  {
+    "geoid": "1254000",
+    "url": "https://palmbayfl.gov/",
+    "status": "not_verified",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "geoid": "0658072",
+    "url": "https://pomonaca.gov/",
+    "status": "not_verified",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "geoid": "4876000",
+    "url": "https://www.waco-texas.com/Home",
+    "status": "verified",
+    "title": "Home City of Waco",
+    "organization": "City of Waco",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  {
+    "geoid": "0877290",
+    "url": "https://www.thorntonco.gov/",
+    "status": "verified",
+    "title": "City of Thornton",
+    "organization": "City of Thornton",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  {
+    "geoid": "4848072",
+    "status": "no_registry_candidate"
+  },
+  {
+    "geoid": "1765000",
+    "url": "https://rockfordil.gov/",
+    "status": "verified",
+    "title": "Rockford, IL | Official Website",
+    "organization": "City of Rockford",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  {
+    "geoid": "4516000",
+    "url": "https://columbiasc.gov/",
+    "status": "not_verified",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "geoid": "0682954",
+    "url": "https://visalia.gov/",
+    "status": "not_verified",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "geoid": "0622804",
+    "url": "https://escondido.gov/",
+    "status": "verified",
+    "title": "Escondido, CA | Official Website",
+    "organization": "City of Escondido",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  {
+    "geoid": "3673000",
+    "url": "https://www.syr.gov/Home",
+    "status": "verified",
+    "title": "Home – City of Syracuse",
+    "organization": "City of Syracuse",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  {
+    "geoid": "1652120",
+    "status": "no_registry_candidate"
+  },
+  {
+    "geoid": "1245975",
+    "url": "https://miramar-fl.gov/",
+    "status": "not_verified",
+    "error": "<urlopen error [Errno 11001] getaddrinfo failed>"
+  },
+  {
+    "geoid": "3421000",
+    "status": "no_registry_candidate"
+  },
+  {
+    "geoid": "0682590",
+    "url": "https://www.victorvilleca.gov/Home",
+    "status": "verified",
+    "title": "Home | City of Victorville, CA",
+    "organization": "City of Victorville",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  {
+    "geoid": "4863500",
+    "status": "no_registry_candidate"
+  },
+  {
+    "geoid": "2836000",
+    "url": "https://jacksonms.gov/",
+    "status": "verified",
+    "title": "City of Jackson, Mississippi | City Services, News & Departments - City of Jackson",
+    "organization": "City of Jackson",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  {
+    "geoid": "0973000",
+    "url": "https://stamfordct.gov/",
+    "status": "not_verified",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "geoid": "4842508",
+    "url": "https://cityoflewisvilletx.gov/",
+    "status": "not_verified",
+    "error": "<urlopen error [Errno 11001] getaddrinfo failed>"
+  },
+  {
+    "geoid": "1214400",
+    "url": "https://www.coralsprings.gov/Home",
+    "status": "verified",
+    "title": "Home - City of Coral Springs",
+    "organization": "City of Coral Springs",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  {
+    "geoid": "0952000",
+    "url": "https://newhavenct.gov/",
+    "status": "not_verified",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "geoid": "0628000",
+    "url": "https://fullertonca.gov/",
+    "status": "not_verified",
+    "error": "<urlopen error [WinError 10054] An existing connection was forcibly closed by the remote host>"
+  },
+  {
+    "geoid": "0680000",
+    "url": "https://www.torranceca.gov/Home",
+    "status": "verified",
+    "title": "Home - City of Torrance",
+    "organization": "City Of Torrance",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  {
+    "geoid": "0653980",
+    "url": "https://orangeca.gov/",
+    "status": "not_verified",
+    "error": "<urlopen error [WinError 10054] An existing connection was forcibly closed by the remote host>"
+  },
+  {
+    "geoid": "1912000",
+    "status": "no_registry_candidate"
+  },
+  {
+    "geoid": "4983470",
+    "status": "no_registry_candidate"
+  },
+  {
+    "geoid": "5135000",
+    "url": "https://hampton.gov/",
+    "status": "not_verified",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "geoid": "2684000",
+    "url": "https://warrenmi.gov/",
+    "status": "not_verified",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "geoid": "3921000",
+    "url": "https://daytonohio.gov/",
+    "status": "verified",
+    "title": "Dayton, OH | Official Website",
+    "organization": "City of Dayton",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  {
+    "geoid": "3825700",
+    "url": "https://fargond.gov/",
+    "status": "verified",
+    "title": "The City of Fargo - Home Page",
+    "organization": "City of Fargo",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  {
+    "geoid": "0656000",
+    "url": "https://pasadena.gov/",
+    "status": "not_verified",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "geoid": "5335415",
+    "url": "https://kentwa.gov/",
+    "status": "not_verified",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "geoid": "4813024",
+    "url": "https://carrolltontx.gov/",
+    "status": "not_verified",
+    "error": "<urlopen error [Errno 11001] getaddrinfo failed>"
+  },
+  {
+    "geoid": "2676460",
+    "url": "https://sterlingheights.gov/",
+    "status": "verified",
+    "title": "Sterling Heights, MI - Official Website | Official Website",
+    "organization": "City of Sterling Heights",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  {
+    "geoid": "0669084",
+    "url": "https://santaclaraca.gov/",
+    "status": "not_verified",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "geoid": "4801000",
+    "url": "https://abilenetx.gov/",
+    "status": "not_verified",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "geoid": "4052500",
+    "url": "https://www.normanok.gov/",
+    "status": "verified",
+    "title": "Welcome to the City of Norman, OK | City of Norman, OK",
+    "organization": "City of Norman",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  {
+    "geoid": "2915670",
+    "status": "no_registry_candidate"
+  },
+  {
+    "geoid": "4856348",
+    "url": "https://pearlandtx.gov/",
+    "status": "not_verified",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "geoid": "0614218",
+    "url": "https://clovisca.gov/",
+    "status": "not_verified",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "geoid": "4550875",
+    "url": "https://northcharlestonsc.gov/",
+    "status": "not_verified",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "geoid": "1303440",
+    "status": "no_registry_candidate"
+  },
+  {
+    "geoid": "4815976",
+    "url": "https://www.cstx.gov/",
+    "status": "verified",
+    "title": "Home | City of College Station",
+    "organization": "City of College Station",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  {
+    "geoid": "1276600",
+    "status": "no_registry_candidate"
+  },
+  {
+    "geoid": "3774440",
+    "url": "https://www.wilmingtonnc.gov/Home",
+    "status": "verified",
+    "title": "Home - Wilmington, NC",
+    "organization": "City of Wilmington",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  {
+    "geoid": "4202000",
+    "url": "https://allentownpa.gov/",
+    "status": "not_verified",
+    "error": "<urlopen error timed out>"
+  },
+  {
+    "geoid": "2071000",
+    "url": "https://topeka.gov/",
+    "status": "not_verified",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "geoid": "1238250",
+    "url": "https://lakelandfl.gov/",
+    "status": "not_verified",
+    "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid f"
+  },
+  {
+    "geoid": "0407940",
+    "url": "https://buckeyeaz.gov/",
+    "status": "not_verified",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "geoid": "0428380",
+    "url": "https://goodyearaz.gov/",
+    "status": "not_verified",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "geoid": "4009050",
+    "url": "https://brokenarrowok.gov/",
+    "status": "not_verified",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "geoid": "0672016",
+    "url": "https://simivalley.gov/",
+    "status": "not_verified",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "geoid": "2754880",
+    "url": "https://www.rochestermn.gov/",
+    "status": "verified",
+    "title": "Home | City of Rochester",
+    "organization": "The City of Rochester",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  {
+    "geoid": "2240735",
+    "url": "https://www.lafayettela.gov/",
+    "status": "verified",
+    "title": "Home | Lafayette Consolidated Government",
+    "organization": "Lafayette City-Parish Consolidated Government",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  {
+    "geoid": "0681666",
+    "url": "https://vallejo.gov/",
+    "status": "not_verified",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "geoid": "0616000",
+    "status": "no_registry_candidate"
+  },
+  {
+    "geoid": "0803455",
+    "url": "https://arvadaco.gov/",
+    "status": "not_verified",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "geoid": "4853388",
+    "url": "https://odessa-tx.gov/",
+    "status": "verified",
+    "title": "Odessa, TX | Official Website",
+    "organization": "City of Odessa",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  {
+    "geoid": "2511000",
+    "url": "https://cambridgema.gov/",
+    "status": "not_verified",
+    "error": "HTTP Error 400: Bad Request"
+  },
+  {
+    "geoid": "4850820",
+    "url": "https://newbraunfels.gov/",
+    "status": "verified",
+    "title": "New Braunfels, TX - Official Website | Official Website",
+    "organization": "City of New Braunfels",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  {
+    "geoid": "0623182",
+    "status": "no_registry_candidate"
+  },
+  {
+    "geoid": "2603000",
+    "status": "no_registry_candidate"
+  },
+  {
+    "geoid": "0678582",
+    "url": "https://toaks.gov/",
+    "status": "verified",
+    "title": "Thousand Oaks, CA",
+    "organization": "City of Thousand Oaks",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  {
+    "geoid": "0937000",
+    "url": "https://hartford.gov/",
+    "status": "not_verified",
+    "error": "<urlopen error [WinError 10054] An existing connection was forcibly closed by the remote host>"
+  },
+  {
+    "geoid": "0606000",
+    "url": "https://berkeleyca.gov/",
+    "status": "verified",
+    "title": "The City of Berkeley",
+    "organization": "City of Berkeley",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  {
+    "geoid": "2935000",
+    "url": "https://www.independencemo.gov/",
+    "status": "verified",
+    "title": "City of Independence | City of Independence, MO",
+    "organization": "City of Independence Missouri",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  {
+    "geoid": "3006550",
+    "url": "https://billingsmt.gov/",
+    "status": "verified",
+    "title": "City of Billings, MT - Official Website | Official Website",
+    "organization": "City of Billings",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  {
+    "geoid": "3731400",
+    "url": "https://highpointnc.gov/",
+    "status": "not_verified",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "geoid": "1656260",
+    "url": "https://nampa.gov/",
+    "status": "not_verified",
+    "error": "<urlopen error [Errno 11001] getaddrinfo failed>"
+  },
+  {
+    "geoid": "2537000",
+    "url": "https://lowellma.gov/",
+    "status": "verified",
+    "title": "Lowell, MA | Official Website",
+    "organization": "City of Lowell, Massachusetts",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  {
+    "geoid": "4841980",
+    "url": "https://leaguecitytx.gov/",
+    "status": "verified",
+    "title": "The League City Official Website! | Official Website",
+    "organization": "City of League City",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  {
+    "geoid": "4816432",
+    "url": "https://cityofconroe.gov/",
+    "status": "not_verified",
+    "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid f"
+  },
+  {
+    "geoid": "0602252",
+    "url": "https://antiochca.gov/",
+    "status": "not_verified",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "geoid": "0646842",
+    "status": "no_registry_candidate"
+  },
+  {
+    "geoid": "4861796",
+    "status": "no_registry_candidate"
+  },
+  {
+    "geoid": "1258050",
+    "url": "https://www.pompanobeachfl.gov/",
+    "status": "verified",
+    "title": "Home | City of Pompano Beach",
+    "organization": "City of Pompano Beach",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  {
+    "geoid": "3539380",
+    "url": "https://lascruces.gov/",
+    "status": "not_verified",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "geoid": "3345140",
+    "url": "https://www.manchesternh.gov/",
+    "status": "verified",
+    "title": "City Of Manchester",
+    "organization": "City of Manchester NH",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  {
+    "geoid": "4982950",
+    "status": "no_registry_candidate"
+  },
+  {
+    "geoid": "0883835",
+    "url": "https://www.westminsterco.gov/",
+    "status": "verified",
+    "title": "Westminster, CO | Official Website",
+    "organization": "CITY OF WESTMINSTER",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  {
+    "geoid": "1822000",
+    "status": "no_registry_candidate"
+  },
+  {
+    "geoid": "0980000",
+    "status": "no_registry_candidate"
+  },
+  {
+    "geoid": "1723074",
+    "url": "https://elginil.gov/",
+    "status": "verified",
+    "title": "City of Elgin, Illinois - Official Website | Official Website",
+    "organization": "City of Elgin, Illinois",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  {
+    "geoid": "0832155",
+    "url": "https://greeleyco.gov/",
+    "status": "verified",
+    "title": "Home | City of Greeley",
+    "organization": "City of Greeley",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  {
+    "geoid": "0678120",
+    "url": "https://temeculaca.gov/",
+    "status": "not_verified",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "geoid": "0660620",
+    "url": "https://www.richmondca.gov/",
+    "status": "verified",
+    "title": "Richmond, CA - Official Website | Official Website",
+    "organization": "City of Richmond",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  {
+    "geoid": "3714100",
+    "url": "https://concordnc.gov/",
+    "status": "not_verified",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "geoid": "4962470",
+    "url": "https://provo.gov/",
+    "status": "not_verified",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "geoid": "3563460",
+    "url": "https://rioranchonm.gov/",
+    "status": "not_verified",
+    "error": "<urlopen error [WinError 10054] An existing connection was forcibly closed by the remote host>"
+  },
+  {
+    "geoid": "1212875",
+    "status": "no_registry_candidate"
+  },
+  {
+    "geoid": "0177256",
+    "url": "https://www.tuscaloosa.com/",
+    "status": "verified",
+    "title": "City of Tuscaloosa",
+    "organization": "City of Tuscaloosa, AL",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  {
+    "geoid": "0650076",
+    "url": "https://murrietaca.gov/",
+    "status": "not_verified",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "geoid": "2646000",
+    "url": "https://lansingmi.gov/",
+    "status": "not_verified",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "geoid": "4874144",
+    "url": "https://tylertexas.gov/",
+    "status": "not_verified",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "geoid": "1245060",
+    "url": "https://miamigardens-fl.gov/",
+    "status": "not_verified",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "geoid": "5322640",
+    "url": "https://everettwa.gov/",
+    "status": "not_verified",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "geoid": "4801924",
+    "url": "https://allentx.gov/",
+    "status": "not_verified",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "geoid": "1772000",
+    "status": "no_registry_candidate"
+  },
+  {
+    "geoid": "4807000",
+    "url": "https://beaumonttexas.gov/",
+    "status": "not_verified",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "geoid": "1372122",
+    "url": "https://cityofsouthfultonga.gov/",
+    "status": "not_verified",
+    "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid f"
+  },
+  {
+    "geoid": "0611194",
+    "url": "https://carlsbadca.gov/",
+    "status": "not_verified",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "geoid": "3268400",
+    "status": "no_registry_candidate"
+  },
+  {
+    "geoid": "4131250",
+    "url": "https://greshamoregon.gov/",
+    "status": "not_verified",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "geoid": "0669196",
+    "status": "no_registry_candidate"
+  },
+  {
+    "geoid": "4134100",
+    "url": "https://hillsboro-oregon.gov/",
+    "status": "not_verified",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "geoid": "1759000",
+    "url": "https://peoriail.gov/",
+    "status": "not_verified",
+    "error": "<urlopen error [Errno 11001] getaddrinfo failed>"
+  },
+  {
+    "geoid": "1216475",
+    "url": "https://davie-fl.gov/",
+    "status": "not_verified",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "geoid": "4822660",
+    "status": "no_registry_candidate"
+  },
+  {
+    "geoid": "0862000",
+    "status": "no_registry_candidate"
+  },
+  {
+    "geoid": "0665042",
+    "status": "no_registry_candidate"
+  },
+  {
+    "geoid": "1254200",
+    "url": "https://www.palmcoast.gov/",
+    "status": "verified",
+    "title": "City of Palm Coast, Florida",
+    "organization": "City of Palm Coast",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  {
+    "geoid": "0616532",
+    "url": "https://costamesaca.gov/",
+    "status": "not_verified",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "geoid": "4965330",
+    "url": "https://sgcityutah.gov/",
+    "status": "not_verified",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "geoid": "0812815",
+    "url": "https://www.centennialco.gov/Home",
+    "status": "verified",
+    "title": "Home – City of Centennial",
+    "organization": "CIty of Centennial",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  {
+    "geoid": "0619766",
+    "status": "no_registry_candidate"
+  },
+  {
+    "geoid": "5367167",
+    "url": "https://spokanevalleywa.gov/",
+    "status": "verified",
+    "title": "Spokane Valley, WA | Official Website",
+    "organization": "City of Spokane Valley",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  {
+    "geoid": "4870808",
+    "url": "https://sugarlandtx.gov/",
+    "status": "verified",
+    "title": "Sugar Land, TX - Official Website | Official Website",
+    "organization": "City of Sugar Land",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  {
+    "geoid": "2941348",
+    "status": "no_registry_candidate"
+  },
+  {
+    "geoid": "4105800",
+    "url": "https://bendoregon.gov/",
+    "status": "not_verified",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "geoid": "0637692",
+    "url": "https://jurupavalley.gov/",
+    "status": "verified",
+    "title": "Jurupa Valley, CA | Official Website",
+    "organization": "City of Jurupa Valley",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  {
+    "geoid": "4829336",
+    "status": "no_registry_candidate"
+  },
+  {
+    "geoid": "5531000",
+    "url": "https://greenbaywi.gov/",
+    "status": "not_verified",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "geoid": "0523290",
+    "url": "https://www.fayetteville-ar.gov/",
+    "status": "verified",
+    "title": "Fayetteville, AR - Official Website | Official Website",
+    "organization": "City of Fayetteville",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  {
+    "geoid": "0660466",
+    "url": "https://rialtoca.gov/",
+    "status": "verified",
+    "title": "Rialto, CA | Official Website",
+    "organization": "City of Rialto",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  {
+    "geoid": "2509000",
+    "url": "https://brockton.gov/",
+    "status": "not_verified",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "geoid": "0807850",
+    "url": "https://bouldercolorado.gov/",
+    "status": "verified",
+    "title": "Home | City of Boulder",
+    "organization": "City of Boulder",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  {
+    "geoid": "1810342",
+    "url": "https://carmelindiana.gov/",
+    "status": "not_verified",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "geoid": "2621000",
+    "url": "https://dearborn.gov/",
+    "status": "verified",
+    "title": "Home Page | City of Dearborn",
+    "organization": "City of Dearborn",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  {
+    "geoid": "0684200",
+    "status": "no_registry_candidate"
+  },
+  {
+    "geoid": "0485540",
+    "url": "https://yumaaz.gov/",
+    "status": "not_verified",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "geoid": "0613014",
+    "url": "https://chicoca.gov/",
+    "status": "verified",
+    "title": "City of Chico - Home",
+    "organization": "City of Chico",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  {
+    "geoid": "0622230",
+    "url": "https://elmonteca.gov/",
+    "status": "verified",
+    "title": "El Monte, CA | Official Website",
+    "organization": "City of El Monte",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  {
+    "geoid": "1368516",
+    "url": "https://www.sandyspringsga.gov/",
+    "status": "verified",
+    "title": "City of Sandy Springs",
+    "organization": "City of Sandy Springs",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  {
+    "geoid": "5357745",
+    "url": "https://www.rentonwa.gov/Home",
+    "status": "verified",
+    "title": "Home | City of Renton",
+    "organization": "City of Renton",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  {
+    "geoid": "1823278",
+    "url": "https://fishersin.gov/",
+    "status": "not_verified",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "geoid": "5176432",
+    "status": "no_registry_candidate"
+  },
+  {
+    "geoid": "2537490",
+    "url": "https://lynnma.gov/",
+    "status": "not_verified",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "geoid": "0681554",
+    "url": "https://cityofvacaville.gov/",
+    "status": "not_verified",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "geoid": "0668252",
+    "url": "https://cityofsanmateoca.gov/",
+    "status": "not_verified",
+    "error": "<urlopen error [Errno 11001] getaddrinfo failed>"
+  },
+  {
+    "geoid": "1871000",
+    "url": "https://southbendin.gov/",
+    "status": "not_verified",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "geoid": "2555745",
+    "url": "https://quincyma.gov/",
+    "status": "not_verified",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "geoid": "0608954",
+    "url": "https://burbankca.gov/",
+    "status": "not_verified",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "geoid": "0633434",
+    "url": "https://hesperiaca.gov/",
+    "status": "verified",
+    "title": "City of Hesperia - Official Website | Official Website",
+    "organization": "City Of Hesperia",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  {
+    "geoid": "4879000",
+    "url": "https://wichitafallstx.gov/",
+    "status": "not_verified",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "geoid": "0680238",
+    "url": "https://cityoftracyca.gov/",
+    "status": "not_verified",
+    "error": "<urlopen error [Errno 11001] getaddrinfo failed>"
+  },
+  {
+    "geoid": "2545000",
+    "url": "https://newbedford-ma.gov/",
+    "status": "not_verified",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "geoid": "0621712",
+    "url": "https://elcajon.gov/",
+    "status": "not_verified",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "geoid": "3601000",
+    "url": "https://albanyny.gov/",
+    "status": "verified",
+    "title": "Albany, NY | Official Website",
+    "organization": "City of Albany",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  {
+    "geoid": "0636546",
+    "url": "https://cityofinglewood.gov/",
+    "status": "not_verified",
+    "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1010)>"
+  },
+  {
+    "geoid": "1207300",
+    "url": "https://bocaraton-fl.gov/",
+    "status": "not_verified",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "geoid": "1224125",
+    "url": "https://fortmyers.gov/",
+    "status": "verified",
+    "title": "Fort Myers, FL - City Government | Official Website",
+    "organization": "City Of Fort Myers",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  {
+    "geoid": "0617918",
+    "url": "https://dalycity.gov/",
+    "status": "not_verified",
+    "error": "<urlopen error [Errno 11001] getaddrinfo failed>"
+  },
+  {
+    "geoid": "0404720",
+    "url": "https://avondaleaz.gov/",
+    "status": "not_verified",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "geoid": "4864472",
+    "url": "https://sanangelo.gov/",
+    "status": "not_verified",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "geoid": "4023200",
+    "url": "https://edmondok.gov/",
+    "status": "not_verified",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "geoid": "1919000",
+    "status": "no_registry_candidate"
+  },
+  {
+    "geoid": "1217200",
+    "url": "https://deltonafl.gov/",
+    "status": "verified",
+    "title": "Deltona, FL | Official Website",
+    "organization": "City Of Deltona",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  {
+    "geoid": "0845970",
+    "url": "https://longmont.gov/",
+    "status": "not_verified",
+    "error": "<urlopen error [Errno 11001] getaddrinfo failed>"
+  },
+  {
+    "geoid": "1077580",
+    "url": "https://wilmingtonde.gov/",
+    "status": "not_verified",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "geoid": "2360545",
+    "status": "no_registry_candidate"
+  },
+  {
+    "geoid": "5613900",
+    "status": "no_registry_candidate"
+  },
+  {
+    "geoid": "5414600",
+    "url": "https://charlestonwv.gov/",
+    "status": "verified",
+    "title": "Welcome To Charleston, West Virginia",
+    "organization": "City of Charleston",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  },
+  {
+    "geoid": "5010675",
+    "url": "https://burlingtonvt.gov/",
+    "status": "verified",
+    "title": "Burlington, VT | Official Website",
+    "organization": "City of Burlington",
+    "source": "https://github.com/cisagov/dotgov-data",
+    "checked": "2026-10-01"
+  }
+]

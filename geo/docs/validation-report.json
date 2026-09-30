@@ -1,0 +1,23 @@
+{
+  "status": "passed",
+  "html_pages": 400,
+  "city_pages": 348,
+  "state_pages": 51,
+  "national_pages": 1,
+  "unique_titles": 400,
+  "unique_descriptions": 400,
+  "canonical_urls_in_sitemap": 400,
+  "markdown_mirrors": 400,
+  "local_government_resources": 121,
+  "checks": [
+    "All internal section and asset links resolve",
+    "One h1 and valid JSON-LD on every HTML page",
+    "Exact canonical and sitemap alignment",
+    "348 distinct city identities across 50 states and DC",
+    "NASA numerical values match retained input",
+    "No fabricated local office addresses",
+    "All city pages have readable static content",
+    "No placeholder copy"
+  ],
+  "errors": []
+}

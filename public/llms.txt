@@ -4,7 +4,7 @@
 
 Save Our Solar Club is operated by SaveOurSolar LTD. Its listed office is 7535 East Hampden Avenue, Suite 400, Denver, CO 80231. Phone: (970) 601-7369. Email: Sos@saveoursolarclub.com.
 
-The company describes a nationwide network. Address coverage, technician availability, compatible equipment, costs, and visit timing are confirmed by the team. A 24/7 dispatch line is not a guarantee of a same-day on-site visit. Membership terms and fees are on the current membership page.
+The company describes a nationwide network. City pages describe service inquiries and homeowner guidance, not local branch offices. Address coverage, technician availability, compatible equipment, costs, and visit timing are confirmed by the team. A 24/7 dispatch line is not a guarantee of a same-day on-site visit. Membership terms and fees are on the current membership page.
 
 ## Core pages
 
@@ -16,9 +16,18 @@ The company describes a nationwide network. Address coverage, technician availab
 - [Contact](https://www.saveoursolarclub.com/contact): Inspection and service inquiries.
 - [About](https://www.saveoursolarclub.com/about): Company and network information.
 
-## Sitemaps
+## Service areas
 
-- [Sitemap](https://www.saveoursolarclub.com/sitemap.xml): Canonical URLs for every service, service detail, and insight page.
+- [National directory](https://www.saveoursolarclub.com/service-areas/): Browse 348 city guides across all 50 states and Washington, D.C.
+- [City page index](https://www.saveoursolarclub.com/service-areas/llms.txt): Links to every city guide.
+- [Plain-text directory](https://www.saveoursolarclub.com/service-areas/index.md): Readable directory content.
+- [Service-area sitemap](https://www.saveoursolarclub.com/sitemaps/service-areas.xml): Canonical national, state, and city URLs.
+
+City pages have matching index.md versions. These mirrors contain the same homeowner guidance and are supplementary to the HTML pages.
+
+## Local solar data
+
+City guides include NASA POWER 2001–2020 regional solar climatology for the 1° grid containing each city’s Census representative point. Values are sunlight on a horizontal surface, in kWh/m²/day. They are not actual electricity production, rooftop measurements, current weather, savings projections, or guarantees. Nearby cities may share a regional grid. Government resource links do not imply endorsement or affiliation.
 
 ## Legal pages
 

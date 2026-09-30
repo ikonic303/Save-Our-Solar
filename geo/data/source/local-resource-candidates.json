@@ -1,0 +1,5539 @@
+[
+  {
+    "city": "New York City",
+    "state": "NY",
+    "geoid": "3651000",
+    "candidates": []
+  },
+  {
+    "city": "Los Angeles",
+    "state": "CA",
+    "geoid": "0644000",
+    "candidates": [
+      {
+        "Domain name": "lacity.gov",
+        "Domain type": "City",
+        "Organization name": "City of Los Angeles",
+        "Suborganization name": "",
+        "City": "Los Angeles",
+        "State": "CA",
+        "Security contact email": "ita.security@lacity.org"
+      }
+    ]
+  },
+  {
+    "city": "Chicago",
+    "state": "IL",
+    "geoid": "1714000",
+    "candidates": [
+      {
+        "Domain name": "chicago.gov",
+        "Domain type": "City",
+        "Organization name": "City of Chicago",
+        "Suborganization name": "",
+        "City": "Chicago",
+        "State": "IL",
+        "Security contact email": "Ext_InfoSec@cityofchicago.org"
+      },
+      {
+        "Domain name": "chi.gov",
+        "Domain type": "City",
+        "Organization name": "City of Chicago",
+        "Suborganization name": "",
+        "City": "Chicago",
+        "State": "IL",
+        "Security contact email": "Ext_InfoSec@cityofchicago.org"
+      }
+    ]
+  },
+  {
+    "city": "Houston",
+    "state": "TX",
+    "geoid": "4835000",
+    "candidates": [
+      {
+        "Domain name": "houstontx.gov",
+        "Domain type": "City",
+        "Organization name": "City of Houston",
+        "Suborganization name": "",
+        "City": "Houston",
+        "State": "TX",
+        "Security contact email": "Security.OperationsCenter@houstontx.gov"
+      },
+      {
+        "Domain name": "cityofhouston.gov",
+        "Domain type": "City",
+        "Organization name": "City of Houston",
+        "Suborganization name": "",
+        "City": "Houston",
+        "State": "TX",
+        "Security contact email": "Security.OperationsCenter@houstontx.gov"
+      },
+      {
+        "Domain name": "greenhoustontx.gov",
+        "Domain type": "City",
+        "Organization name": "City of Houston",
+        "Suborganization name": "",
+        "City": "Houston",
+        "State": "TX",
+        "Security contact email": "(blank)"
+      }
+    ]
+  },
+  {
+    "city": "Phoenix",
+    "state": "AZ",
+    "geoid": "0455000",
+    "candidates": [
+      {
+        "Domain name": "phoenix.gov",
+        "Domain type": "City",
+        "Organization name": "City Of Phoenix",
+        "Suborganization name": "",
+        "City": "Phoenix",
+        "State": "AZ",
+        "Security contact email": "itd.web.services@phoenix.gov"
+      },
+      {
+        "Domain name": "cityofphoenix.gov",
+        "Domain type": "City",
+        "Organization name": "City of Phoenix",
+        "Suborganization name": "",
+        "City": "Phoenix",
+        "State": "AZ",
+        "Security contact email": "(blank)"
+      },
+      {
+        "Domain name": "myphx311.gov",
+        "Domain type": "City",
+        "Organization name": "City of Phoenix",
+        "Suborganization name": "",
+        "City": "Phoenix",
+        "State": "AZ",
+        "Security contact email": "ispo.ctr@phoenix.gov"
+      }
+    ]
+  },
+  {
+    "city": "Philadelphia",
+    "state": "PA",
+    "geoid": "4260000",
+    "candidates": []
+  },
+  {
+    "city": "San Antonio",
+    "state": "TX",
+    "geoid": "4865000",
+    "candidates": [
+      {
+        "Domain name": "sanantonio.gov",
+        "Domain type": "City",
+        "Organization name": "City of San Antonio",
+        "Suborganization name": "",
+        "City": "San Antonio",
+        "State": "TX",
+        "Security contact email": "michael.madewell@sanantonio.gov"
+      },
+      {
+        "Domain name": "sa.gov",
+        "Domain type": "City",
+        "Organization name": "City of San Antonio",
+        "Suborganization name": "",
+        "City": "San Antonio",
+        "State": "TX",
+        "Security contact email": "michael.madewell@sanantonio.gov"
+      },
+      {
+        "Domain name": "readysouthtexas.gov",
+        "Domain type": "City",
+        "Organization name": "City of San Antonio",
+        "Suborganization name": "",
+        "City": "San Antonio",
+        "State": "TX",
+        "Security contact email": "michael.madewell@sanantonio.gov"
+      }
+    ]
+  },
+  {
+    "city": "San Diego",
+    "state": "CA",
+    "geoid": "0666000",
+    "candidates": [
+      {
+        "Domain name": "sandiego.gov",
+        "Domain type": "City",
+        "Organization name": "The City of San Diego",
+        "Suborganization name": "",
+        "City": "San Diego",
+        "State": "CA",
+        "Security contact email": "cybersecurity@sandiego.gov"
+      }
+    ]
+  },
+  {
+    "city": "Dallas",
+    "state": "TX",
+    "geoid": "4819000",
+    "candidates": [
+      {
+        "Domain name": "dallas.gov",
+        "Domain type": "City",
+        "Organization name": "City of Dallas",
+        "Suborganization name": "",
+        "City": "Dallas",
+        "State": "TX",
+        "Security contact email": "ITSSecurity@dallascityhall.com"
+      },
+      {
+        "Domain name": "dallascityhall-tx.gov",
+        "Domain type": "City",
+        "Organization name": "City of Dallas",
+        "Suborganization name": "",
+        "City": "Dallas",
+        "State": "TX",
+        "Security contact email": "ITSSecurity@dallascityhall.com"
+      }
+    ]
+  },
+  {
+    "city": "Fort Worth",
+    "state": "TX",
+    "geoid": "4827000",
+    "candidates": [
+      {
+        "Domain name": "fortworth-tx.gov",
+        "Domain type": "City",
+        "Organization name": "City of Fortworth",
+        "Suborganization name": "",
+        "City": "Fort Worth",
+        "State": "TX",
+        "Security contact email": "(blank)"
+      },
+      {
+        "Domain name": "fortworthtexas.gov",
+        "Domain type": "City",
+        "Organization name": "City of Fortworth ",
+        "Suborganization name": "",
+        "City": "Fort Worth",
+        "State": "TX",
+        "Security contact email": "(blank)"
+      },
+      {
+        "Domain name": "fortworth-texas.gov",
+        "Domain type": "City",
+        "Organization name": "City of Fortworth",
+        "Suborganization name": "",
+        "City": "Fort Worth",
+        "State": "TX",
+        "Security contact email": "(blank)"
+      }
+    ]
+  },
+  {
+    "city": "Jacksonville",
+    "state": "FL",
+    "geoid": "1235000",
+    "candidates": [
+      {
+        "Domain name": "jacksonville.gov",
+        "Domain type": "City",
+        "Organization name": "City of Jacksonville, FL",
+        "Suborganization name": "",
+        "City": "Jacksonville",
+        "State": "FL",
+        "Security contact email": "abuse@coj.net"
+      }
+    ]
+  },
+  {
+    "city": "Austin",
+    "state": "TX",
+    "geoid": "4805000",
+    "candidates": [
+      {
+        "Domain name": "austin.gov",
+        "Domain type": "City",
+        "Organization name": "City of Austin",
+        "Suborganization name": "",
+        "City": "Austin",
+        "State": "TX",
+        "Security contact email": "csirt@austintexas.gov"
+      },
+      {
+        "Domain name": "austintx.gov",
+        "Domain type": "City",
+        "Organization name": "City of Austin",
+        "Suborganization name": "",
+        "City": "Austin",
+        "State": "TX",
+        "Security contact email": "csirt@austintexas.gov"
+      },
+      {
+        "Domain name": "austintexas.gov",
+        "Domain type": "City",
+        "Organization name": "City of Austin",
+        "Suborganization name": "",
+        "City": "Austin",
+        "State": "TX",
+        "Security contact email": "csirt@austintexas.gov"
+      }
+    ]
+  },
+  {
+    "city": "San Jose",
+    "state": "CA",
+    "geoid": "0668000",
+    "candidates": [
+      {
+        "Domain name": "sanjoseca.gov",
+        "Domain type": "City",
+        "Organization name": "City of San Jose",
+        "Suborganization name": "",
+        "City": "San Jose",
+        "State": "CA",
+        "Security contact email": "(blank)"
+      }
+    ]
+  },
+  {
+    "city": "Charlotte",
+    "state": "NC",
+    "geoid": "3712000",
+    "candidates": [
+      {
+        "Domain name": "charlottenc.gov",
+        "Domain type": "City",
+        "Organization name": "City of Charlotte",
+        "Suborganization name": "",
+        "City": "Charlotte",
+        "State": "NC",
+        "Security contact email": "steven.fisher@charlottenc.gov"
+      }
+    ]
+  },
+  {
+    "city": "Columbus",
+    "state": "OH",
+    "geoid": "3918000",
+    "candidates": [
+      {
+        "Domain name": "columbus.gov",
+        "Domain type": "City",
+        "Organization name": "City of Columbus",
+        "Suborganization name": "",
+        "City": "Columbus",
+        "State": "OH",
+        "Security contact email": "abuse@columbus.gov"
+      },
+      {
+        "Domain name": "columbusoh.gov",
+        "Domain type": "City",
+        "Organization name": "City of Columbus OH",
+        "Suborganization name": "",
+        "City": "Columbus",
+        "State": "OH",
+        "Security contact email": "abuse@columbus.gov"
+      }
+    ]
+  },
+  {
+    "city": "Indianapolis",
+    "state": "IN",
+    "geoid": "1836003",
+    "candidates": [
+      {
+        "Domain name": "indianapolis-in.gov",
+        "Domain type": "City",
+        "Organization name": "Information Services Agency, City of Indianapolis/ Marion County",
+        "Suborganization name": "",
+        "City": "Indianapolis",
+        "State": "IN",
+        "Security contact email": "(blank)"
+      }
+    ]
+  },
+  {
+    "city": "San Francisco",
+    "state": "CA",
+    "geoid": "0667000",
+    "candidates": [
+      {
+        "Domain name": "sanfrancisco.gov",
+        "Domain type": "County",
+        "Organization name": "City and County of San Francisco",
+        "Suborganization name": "",
+        "City": "San Francisco",
+        "State": "CA",
+        "Security contact email": "cyberdefense@sfgov.org"
+      },
+      {
+        "Domain name": "sf.gov",
+        "Domain type": "County",
+        "Organization name": "City and County of San Francisco",
+        "Suborganization name": "",
+        "City": "San Francisco",
+        "State": "CA",
+        "Security contact email": "cyberdefense@sfgov.org"
+      }
+    ]
+  },
+  {
+    "city": "Seattle",
+    "state": "WA",
+    "geoid": "5363000",
+    "candidates": [
+      {
+        "Domain name": "seattle.gov",
+        "Domain type": "City",
+        "Organization name": "City of Seattle",
+        "Suborganization name": "",
+        "City": "Seattle",
+        "State": "WA",
+        "Security contact email": "ITD_CISO_OFFICE@seattle.gov"
+      }
+    ]
+  },
+  {
+    "city": "Denver",
+    "state": "CO",
+    "geoid": "0820000",
+    "candidates": [
+      {
+        "Domain name": "denverco.gov",
+        "Domain type": "City",
+        "Organization name": "Technology Services",
+        "Suborganization name": "",
+        "City": "Denver",
+        "State": "CO",
+        "Security contact email": "License.Administrator@denvergov.org"
+      }
+    ]
+  },
+  {
+    "city": "Nashville",
+    "state": "TN",
+    "geoid": "4752006",
+    "candidates": [
+      {
+        "Domain name": "nashville.gov",
+        "Domain type": "City",
+        "Organization name": "Metropolitan Government of Nashville & Davidson County, Tennessee",
+        "Suborganization name": "",
+        "City": "Nashville",
+        "State": "TN",
+        "Security contact email": "dnsadmin1@nashville.gov"
+      }
+    ]
+  },
+  {
+    "city": "Oklahoma City",
+    "state": "OK",
+    "geoid": "4055000",
+    "candidates": [
+      {
+        "Domain name": "okc.gov",
+        "Domain type": "City",
+        "Organization name": "City Of Oklahoma City",
+        "Suborganization name": "",
+        "City": "Oklahoma City",
+        "State": "OK",
+        "Security contact email": "it-netteam@okc.gov"
+      }
+    ]
+  },
+  {
+    "city": "Washington",
+    "state": "DC",
+    "geoid": "1150000",
+    "candidates": []
+  },
+  {
+    "city": "El Paso",
+    "state": "TX",
+    "geoid": "4824000",
+    "candidates": [
+      {
+        "Domain name": "elpasotexas.gov",
+        "Domain type": "City",
+        "Organization name": "CITY OF EL PASO",
+        "Suborganization name": "",
+        "City": "El Paso",
+        "State": "TX",
+        "Security contact email": "IT-SecurityAssurance@elpasotexas.gov"
+      }
+    ]
+  },
+  {
+    "city": "Las Vegas",
+    "state": "NV",
+    "geoid": "3240000",
+    "candidates": []
+  },
+  {
+    "city": "Boston",
+    "state": "MA",
+    "geoid": "2507000",
+    "candidates": [
+      {
+        "Domain name": "boston.gov",
+        "Domain type": "City",
+        "Organization name": "City of Boston",
+        "Suborganization name": "",
+        "City": "Boston",
+        "State": "MA",
+        "Security contact email": "(blank)"
+      },
+      {
+        "Domain name": "cityofboston.gov",
+        "Domain type": "City",
+        "Organization name": "City of Boston",
+        "Suborganization name": "",
+        "City": "Boston",
+        "State": "MA",
+        "Security contact email": "(blank)"
+      }
+    ]
+  },
+  {
+    "city": "Detroit",
+    "state": "MI",
+    "geoid": "2622000",
+    "candidates": [
+      {
+        "Domain name": "detroit.gov",
+        "Domain type": "City",
+        "Organization name": "City of Detroit",
+        "Suborganization name": "",
+        "City": "Detroit",
+        "State": "MI",
+        "Security contact email": "CyberSecurityTeam@detroitmi.gov"
+      },
+      {
+        "Domain name": "detroitmi.gov",
+        "Domain type": "City",
+        "Organization name": "City of Detroit - ITSD",
+        "Suborganization name": "",
+        "City": "Detroit",
+        "State": "MI",
+        "Security contact email": "infosec@detroitmi.gov"
+      }
+    ]
+  },
+  {
+    "city": "Louisville",
+    "state": "KY",
+    "geoid": "2148006",
+    "candidates": [
+      {
+        "Domain name": "louisville.gov",
+        "Domain type": "City",
+        "Organization name": "Louisville Metro Government (City of Louisville)",
+        "Suborganization name": "",
+        "City": "Louisville",
+        "State": "KY",
+        "Security contact email": "cybersecurity@louisvilleky.gov"
+      },
+      {
+        "Domain name": "louisvilleky.gov",
+        "Domain type": "City",
+        "Organization name": "Louisville Jefferson County Metro Government",
+        "Suborganization name": "",
+        "City": "Louisville",
+        "State": "KY",
+        "Security contact email": "cybersecurity@louisvilleky.gov"
+      }
+    ]
+  },
+  {
+    "city": "Portland",
+    "state": "OR",
+    "geoid": "4159000",
+    "candidates": [
+      {
+        "Domain name": "portland.gov",
+        "Domain type": "City",
+        "Organization name": "City of Portland",
+        "Suborganization name": "",
+        "City": "Portland",
+        "State": "OR",
+        "Security contact email": "btsinfosec@portlandoregon.gov"
+      },
+      {
+        "Domain name": "portlandoregon.gov",
+        "Domain type": "City",
+        "Organization name": "City of Portland",
+        "Suborganization name": "",
+        "City": "Portland",
+        "State": "OR",
+        "Security contact email": "btsinfosec@portlandoregon.gov"
+      }
+    ]
+  },
+  {
+    "city": "Memphis",
+    "state": "TN",
+    "geoid": "4748000",
+    "candidates": [
+      {
+        "Domain name": "memphistn.gov",
+        "Domain type": "City",
+        "Organization name": "City of Memphis, TN",
+        "Suborganization name": "",
+        "City": "Memphis",
+        "State": "TN",
+        "Security contact email": "augustine.boateng@memphistn.gov"
+      }
+    ]
+  },
+  {
+    "city": "Baltimore",
+    "state": "MD",
+    "geoid": "2404000",
+    "candidates": [
+      {
+        "Domain name": "baltimorecity.gov",
+        "Domain type": "City",
+        "Organization name": "Baltimore City Office of Information and Technology",
+        "Suborganization name": "",
+        "City": "Baltimore",
+        "State": "MD",
+        "Security contact email": "bob.taylor@baltimorecity.gov"
+      }
+    ]
+  },
+  {
+    "city": "Milwaukee",
+    "state": "WI",
+    "geoid": "5553000",
+    "candidates": [
+      {
+        "Domain name": "milwaukee.gov",
+        "Domain type": "City",
+        "Organization name": "City of Milwaukee",
+        "Suborganization name": "",
+        "City": "Milwaukee",
+        "State": "WI",
+        "Security contact email": "jsiett@milwaukee.gov"
+      }
+    ]
+  },
+  {
+    "city": "Albuquerque",
+    "state": "NM",
+    "geoid": "3502000",
+    "candidates": [
+      {
+        "Domain name": "albuquerque-nm.gov",
+        "Domain type": "City",
+        "Organization name": "City of Albuquerque ",
+        "Suborganization name": "",
+        "City": "Albuquerque",
+        "State": "NM",
+        "Security contact email": "(blank)"
+      }
+    ]
+  },
+  {
+    "city": "Fresno",
+    "state": "CA",
+    "geoid": "0627000",
+    "candidates": [
+      {
+        "Domain name": "fresno.gov",
+        "Domain type": "City",
+        "Organization name": "City of Fresno",
+        "Suborganization name": "",
+        "City": "Fresno",
+        "State": "CA",
+        "Security contact email": "abuse@fresno.gov"
+      }
+    ]
+  },
+  {
+    "city": "Tucson",
+    "state": "AZ",
+    "geoid": "0477000",
+    "candidates": [
+      {
+        "Domain name": "tucsonaz.gov",
+        "Domain type": "City",
+        "Organization name": "City of Tucson",
+        "Suborganization name": "",
+        "City": "Tucson",
+        "State": "AZ",
+        "Security contact email": "Chong.Cornn@tucsonaz.gov"
+      }
+    ]
+  },
+  {
+    "city": "Sacramento",
+    "state": "CA",
+    "geoid": "0664000",
+    "candidates": [
+      {
+        "Domain name": "cityofsacramento.gov",
+        "Domain type": "City",
+        "Organization name": "City of Sacramento",
+        "Suborganization name": "",
+        "City": "Sacramento",
+        "State": "CA",
+        "Security contact email": "iso@cityofsacramento.org"
+      }
+    ]
+  },
+  {
+    "city": "Atlanta",
+    "state": "GA",
+    "geoid": "1304000",
+    "candidates": [
+      {
+        "Domain name": "atlantaga.gov",
+        "Domain type": "City",
+        "Organization name": "City of Atlanta",
+        "Suborganization name": "",
+        "City": "Atlanta",
+        "State": "GA",
+        "Security contact email": "shrugamba@atlantaga.gov"
+      }
+    ]
+  },
+  {
+    "city": "Kansas City",
+    "state": "MO",
+    "geoid": "2938000",
+    "candidates": [
+      {
+        "Domain name": "kansascitymo.gov",
+        "Domain type": "City",
+        "Organization name": "City of Kansas City, Mo.",
+        "Suborganization name": "",
+        "City": "Kansas City",
+        "State": "MO",
+        "Security contact email": "(blank)"
+      }
+    ]
+  },
+  {
+    "city": "Mesa",
+    "state": "AZ",
+    "geoid": "0446000",
+    "candidates": [
+      {
+        "Domain name": "mesaaz.gov",
+        "Domain type": "City",
+        "Organization name": "City Of Mesa",
+        "Suborganization name": "",
+        "City": "Mesa",
+        "State": "AZ",
+        "Security contact email": "mesainfosec@mesaaz.gov"
+      }
+    ]
+  },
+  {
+    "city": "Raleigh",
+    "state": "NC",
+    "geoid": "3755000",
+    "candidates": [
+      {
+        "Domain name": "raleighnc.gov",
+        "Domain type": "City",
+        "Organization name": "City of Raleigh NC",
+        "Suborganization name": "",
+        "City": "Raleigh",
+        "State": "NC",
+        "Security contact email": "network.operationscenter@raleighnc.gov"
+      }
+    ]
+  },
+  {
+    "city": "Colorado Springs",
+    "state": "CO",
+    "geoid": "0816000",
+    "candidates": [
+      {
+        "Domain name": "coloradosprings.gov",
+        "Domain type": "City",
+        "Organization name": "City of Colorado Springs",
+        "Suborganization name": "",
+        "City": "Colorado Springs",
+        "State": "CO",
+        "Security contact email": "ITcyber.security@coloradosprings.gov"
+      },
+      {
+        "Domain name": "cosprings.gov",
+        "Domain type": "City",
+        "Organization name": "City of Colorado Springs",
+        "Suborganization name": "",
+        "City": "Colorado Springs",
+        "State": "CO",
+        "Security contact email": "itcybersecurity@coloradosprings.gov"
+      }
+    ]
+  },
+  {
+    "city": "Miami",
+    "state": "FL",
+    "geoid": "1245000",
+    "candidates": [
+      {
+        "Domain name": "miami.gov",
+        "Domain type": "City",
+        "Organization name": "City of Miami",
+        "Suborganization name": "",
+        "City": "Miami",
+        "State": "FL",
+        "Security contact email": "itdsecurityteam@miamigov.com"
+      }
+    ]
+  },
+  {
+    "city": "Omaha",
+    "state": "NE",
+    "geoid": "3137000",
+    "candidates": [
+      {
+        "Domain name": "omaha.gov",
+        "Domain type": "City",
+        "Organization name": "Douglas Omaha Technology Commission",
+        "Suborganization name": "",
+        "City": "Omaha",
+        "State": "NE",
+        "Security contact email": "itsecurity@dotcomm.org"
+      }
+    ]
+  },
+  {
+    "city": "Virginia Beach",
+    "state": "VA",
+    "geoid": "5182000",
+    "candidates": [
+      {
+        "Domain name": "virginiabeach.gov",
+        "Domain type": "City",
+        "Organization name": "City of Virginia Beach",
+        "Suborganization name": "",
+        "City": "Virginia Beach",
+        "State": "VA",
+        "Security contact email": "infosec@vbgov.com"
+      }
+    ]
+  },
+  {
+    "city": "Long Beach",
+    "state": "CA",
+    "geoid": "0643000",
+    "candidates": [
+      {
+        "Domain name": "longbeach.gov",
+        "Domain type": "City",
+        "Organization name": "City of Long Beach California",
+        "Suborganization name": "",
+        "City": "Long Beach",
+        "State": "CA",
+        "Security contact email": "(blank)"
+      }
+    ]
+  },
+  {
+    "city": "Oakland",
+    "state": "CA",
+    "geoid": "0653000",
+    "candidates": [
+      {
+        "Domain name": "oaklandca.gov",
+        "Domain type": "City",
+        "Organization name": "City of Oakland",
+        "Suborganization name": "",
+        "City": "Oakland",
+        "State": "CA",
+        "Security contact email": "(blank)"
+      }
+    ]
+  },
+  {
+    "city": "Minneapolis",
+    "state": "MN",
+    "geoid": "2743000",
+    "candidates": [
+      {
+        "Domain name": "minneapolismn.gov",
+        "Domain type": "City",
+        "Organization name": "City of Minneapolis",
+        "Suborganization name": "",
+        "City": "Minneapolis",
+        "State": "MN",
+        "Security contact email": "(blank)"
+      }
+    ]
+  },
+  {
+    "city": "Bakersfield",
+    "state": "CA",
+    "geoid": "0603526",
+    "candidates": [
+      {
+        "Domain name": "bakersfield.gov",
+        "Domain type": "City",
+        "Organization name": "City of Bakersfield",
+        "Suborganization name": "",
+        "City": "Bakersfield",
+        "State": "CA",
+        "Security contact email": "(blank)"
+      }
+    ]
+  },
+  {
+    "city": "Tulsa",
+    "state": "OK",
+    "geoid": "4075000",
+    "candidates": [
+      {
+        "Domain name": "cityoftulsa.gov",
+        "Domain type": "City",
+        "Organization name": "City of Tulsa",
+        "Suborganization name": "",
+        "City": "Tulsa",
+        "State": "OK",
+        "Security contact email": "itsecurity@cityoftulsa.org"
+      }
+    ]
+  },
+  {
+    "city": "Tampa",
+    "state": "FL",
+    "geoid": "1271000",
+    "candidates": [
+      {
+        "Domain name": "tampa.gov",
+        "Domain type": "City",
+        "Organization name": "City of Tampa",
+        "Suborganization name": "",
+        "City": "Tampa",
+        "State": "FL",
+        "Security contact email": "ciso@tampagov.net"
+      },
+      {
+        "Domain name": "tampafl.gov",
+        "Domain type": "City",
+        "Organization name": "City of Tampa",
+        "Suborganization name": "",
+        "City": "Tampa",
+        "State": "FL",
+        "Security contact email": "ciso@tampagov.net"
+      }
+    ]
+  },
+  {
+    "city": "Aurora",
+    "state": "CO",
+    "geoid": "0804000",
+    "candidates": [
+      {
+        "Domain name": "auroraco.gov",
+        "Domain type": "City",
+        "Organization name": "City of Aurora",
+        "Suborganization name": "",
+        "City": "Aurora",
+        "State": "CO",
+        "Security contact email": "vendorsecurity@Auroragov.org"
+      }
+    ]
+  },
+  {
+    "city": "Arlington",
+    "state": "TX",
+    "geoid": "4804000",
+    "candidates": [
+      {
+        "Domain name": "arlingtontx.gov",
+        "Domain type": "City",
+        "Organization name": "City of Arlington, Texas",
+        "Suborganization name": "",
+        "City": "Arlington",
+        "State": "TX",
+        "Security contact email": "itregistrar@arlingtontx.gov"
+      },
+      {
+        "Domain name": "arlington-tx.gov",
+        "Domain type": "City",
+        "Organization name": "City of Arlington, Texas",
+        "Suborganization name": "",
+        "City": "Arlington",
+        "State": "TX",
+        "Security contact email": "itregistrar@arlingtontx.gov"
+      }
+    ]
+  },
+  {
+    "city": "Wichita",
+    "state": "KS",
+    "geoid": "2079000",
+    "candidates": [
+      {
+        "Domain name": "wichita.gov",
+        "Domain type": "City",
+        "Organization name": "City of Wichita",
+        "Suborganization name": "",
+        "City": "Wichita",
+        "State": "KS",
+        "Security contact email": "MDAWSON@wichita.gov"
+      }
+    ]
+  },
+  {
+    "city": "Cleveland",
+    "state": "OH",
+    "geoid": "3916000",
+    "candidates": [
+      {
+        "Domain name": "clevelandohio.gov",
+        "Domain type": "City",
+        "Organization name": "City of Cleveland",
+        "Suborganization name": "",
+        "City": "Cleveland",
+        "State": "OH",
+        "Security contact email": "(blank)"
+      }
+    ]
+  },
+  {
+    "city": "New Orleans",
+    "state": "LA",
+    "geoid": "2255000",
+    "candidates": [
+      {
+        "Domain name": "neworleansla.gov",
+        "Domain type": "City",
+        "Organization name": "City of New Orleans",
+        "Suborganization name": "",
+        "City": "New Orleans",
+        "State": "LA",
+        "Security contact email": "security.alerts@nola.gov"
+      },
+      {
+        "Domain name": "nola.gov",
+        "Domain type": "City",
+        "Organization name": "City of New Orleans",
+        "Suborganization name": "",
+        "City": "New Orleans",
+        "State": "LA",
+        "Security contact email": "security.alerts@nola.gov"
+      },
+      {
+        "Domain name": "nolaeoc.gov",
+        "Domain type": "City",
+        "Organization name": "City of New Orleans",
+        "Suborganization name": "",
+        "City": "New Orleans",
+        "State": "LA",
+        "Security contact email": "RTCCADMIN@nola.gov"
+      }
+    ]
+  },
+  {
+    "city": "Henderson",
+    "state": "NV",
+    "geoid": "3231900",
+    "candidates": [
+      {
+        "Domain name": "hendersonnv.gov",
+        "Domain type": "City",
+        "Organization name": "City of Henderson",
+        "Suborganization name": "",
+        "City": "Henderson",
+        "State": "NV",
+        "Security contact email": "Domain.Registrar@cityofhenderson.com"
+      },
+      {
+        "Domain name": "cityofhenderson.gov",
+        "Domain type": "City",
+        "Organization name": "City of Henderson",
+        "Suborganization name": "",
+        "City": "Henderson",
+        "State": "NV",
+        "Security contact email": "(blank)"
+      },
+      {
+        "Domain name": "hendersonnevada.gov",
+        "Domain type": "City",
+        "Organization name": "City of Henderson",
+        "Suborganization name": "",
+        "City": "Henderson",
+        "State": "NV",
+        "Security contact email": "domain.registrar@cityofhenderson.com"
+      }
+    ]
+  },
+  {
+    "city": "Honolulu",
+    "state": "HI",
+    "geoid": "1571550",
+    "candidates": [
+      {
+        "Domain name": "honolulu.gov",
+        "Domain type": "City",
+        "Organization name": "City and County of Honolulu",
+        "Suborganization name": "",
+        "City": "Honolulu",
+        "State": "HI",
+        "Security contact email": "tvelasco@honolulu.gov"
+      }
+    ]
+  },
+  {
+    "city": "Anaheim",
+    "state": "CA",
+    "geoid": "0602000",
+    "candidates": [
+      {
+        "Domain name": "anaheim.gov",
+        "Domain type": "City",
+        "Organization name": "City of Anaheim",
+        "Suborganization name": "",
+        "City": "Anaheim",
+        "State": "CA",
+        "Security contact email": "coainfosec@anaheim.net"
+      }
+    ]
+  },
+  {
+    "city": "Orlando",
+    "state": "FL",
+    "geoid": "1253000",
+    "candidates": [
+      {
+        "Domain name": "orlando.gov",
+        "Domain type": "City",
+        "Organization name": "City of Orlando",
+        "Suborganization name": "",
+        "City": "Orlando",
+        "State": "FL",
+        "Security contact email": "(blank)"
+      },
+      {
+        "Domain name": "orlandofl.gov",
+        "Domain type": "City",
+        "Organization name": "City of Orlando",
+        "Suborganization name": "",
+        "City": "Orlando",
+        "State": "FL",
+        "Security contact email": "(blank)"
+      }
+    ]
+  },
+  {
+    "city": "Lexington",
+    "state": "KY",
+    "geoid": "2146027",
+    "candidates": [
+      {
+        "Domain name": "lexingtonky.gov",
+        "Domain type": "City",
+        "Organization name": "Lexington-Fayette Urban County Government",
+        "Suborganization name": "",
+        "City": "Lexington",
+        "State": "KY",
+        "Security contact email": "abuse@lexingtonky.gov"
+      }
+    ]
+  },
+  {
+    "city": "Stockton",
+    "state": "CA",
+    "geoid": "0675000",
+    "candidates": [
+      {
+        "Domain name": "stocktonca.gov",
+        "Domain type": "City",
+        "Organization name": "City of Stockton",
+        "Suborganization name": "",
+        "City": "Stockton",
+        "State": "CA",
+        "Security contact email": "(blank)"
+      }
+    ]
+  },
+  {
+    "city": "Newark",
+    "state": "NJ",
+    "geoid": "3451000",
+    "candidates": [
+      {
+        "Domain name": "newarknj.gov",
+        "Domain type": "City",
+        "Organization name": "City of Newark",
+        "Suborganization name": "",
+        "City": "newark",
+        "State": "NJ",
+        "Security contact email": "alcantaram@ci.newark.nj.us"
+      }
+    ]
+  },
+  {
+    "city": "Riverside",
+    "state": "CA",
+    "geoid": "0662000",
+    "candidates": []
+  },
+  {
+    "city": "Irvine",
+    "state": "CA",
+    "geoid": "0636770",
+    "candidates": [
+      {
+        "Domain name": "cityofirvine.gov",
+        "Domain type": "City",
+        "Organization name": "City of Irvine",
+        "Suborganization name": "",
+        "City": "Irvine",
+        "State": "CA",
+        "Security contact email": "cybersecurity@cityofirvine.org"
+      },
+      {
+        "Domain name": "irvinepd.gov",
+        "Domain type": "City",
+        "Organization name": "City of Irvine",
+        "Suborganization name": "",
+        "City": "Irvine",
+        "State": "CA",
+        "Security contact email": "CyberSecurity@cityofirvine.org"
+      },
+      {
+        "Domain name": "joinirvinepd.gov",
+        "Domain type": "City",
+        "Organization name": "City of Irvine",
+        "Suborganization name": "",
+        "City": "Irvine",
+        "State": "CA",
+        "Security contact email": "CyberSecurity@cityofirvine.org"
+      }
+    ]
+  },
+  {
+    "city": "Corpus Christi",
+    "state": "TX",
+    "geoid": "4817000",
+    "candidates": [
+      {
+        "Domain name": "corpuschristitx.gov",
+        "Domain type": "City",
+        "Organization name": "City of Corpus Christi",
+        "Suborganization name": "",
+        "City": "Corpus Christi",
+        "State": "TX",
+        "Security contact email": "ITnetwork@cctexas.com"
+      }
+    ]
+  },
+  {
+    "city": "Santa Ana",
+    "state": "CA",
+    "geoid": "0669000",
+    "candidates": [
+      {
+        "Domain name": "santa-ana.gov",
+        "Domain type": "City",
+        "Organization name": "City of Santa Ana",
+        "Suborganization name": "",
+        "City": "Santa Ana",
+        "State": "CA",
+        "Security contact email": "(blank)"
+      }
+    ]
+  },
+  {
+    "city": "Cincinnati",
+    "state": "OH",
+    "geoid": "3915000",
+    "candidates": [
+      {
+        "Domain name": "cincinnati.gov",
+        "Domain type": "City",
+        "Organization name": "City of Cincinnati",
+        "Suborganization name": "",
+        "City": "Cincinnati",
+        "State": "OH",
+        "Security contact email": "CIN.ETSD.SecurityStaff@cincinnati-oh.gov"
+      },
+      {
+        "Domain name": "cincinnati-oh.gov",
+        "Domain type": "City",
+        "Organization name": "City of Cincinnati",
+        "Suborganization name": "",
+        "City": "Cincinnati",
+        "State": "OH",
+        "Security contact email": "TechServMgr@cincinnati-oh.gov"
+      },
+      {
+        "Domain name": "cincy.gov",
+        "Domain type": "City",
+        "Organization name": "City of Cincinnati",
+        "Suborganization name": "",
+        "City": "Cincinnati",
+        "State": "OH",
+        "Security contact email": "CIN.ETSD.SecurityStaff@cincinnati-oh.gov"
+      }
+    ]
+  },
+  {
+    "city": "Greensboro",
+    "state": "NC",
+    "geoid": "3728000",
+    "candidates": [
+      {
+        "Domain name": "greensboro-nc.gov",
+        "Domain type": "City",
+        "Organization name": "City of Greensboro",
+        "Suborganization name": "",
+        "City": "Greensboro",
+        "State": "NC",
+        "Security contact email": "Naser.Yasin@greensboro-nc.gov"
+      }
+    ]
+  },
+  {
+    "city": "Pittsburgh",
+    "state": "PA",
+    "geoid": "4261000",
+    "candidates": [
+      {
+        "Domain name": "pittsburghpa.gov",
+        "Domain type": "City",
+        "Organization name": "City of Pittsburgh",
+        "Suborganization name": "",
+        "City": "Pittsburgh",
+        "State": "PA",
+        "Security contact email": "Sylvia.harris@pittsburghpa.gov"
+      }
+    ]
+  },
+  {
+    "city": "St. Paul",
+    "state": "MN",
+    "geoid": "2758000",
+    "candidates": [
+      {
+        "Domain name": "stpaul.gov",
+        "Domain type": "City",
+        "Organization name": "City of St Paul",
+        "Suborganization name": "",
+        "City": "Saint Paul",
+        "State": "MN",
+        "Security contact email": "OTC-CustomerService@ci.stpaul.mn.us"
+      }
+    ]
+  },
+  {
+    "city": "Durham",
+    "state": "NC",
+    "geoid": "3719000",
+    "candidates": [
+      {
+        "Domain name": "durhamnc.gov",
+        "Domain type": "City",
+        "Organization name": "City of Durham",
+        "Suborganization name": "",
+        "City": "Durham",
+        "State": "NC",
+        "Security contact email": "dewayne.roberson@durhamnc.gov"
+      }
+    ]
+  },
+  {
+    "city": "Jersey City",
+    "state": "NJ",
+    "geoid": "3436000",
+    "candidates": [
+      {
+        "Domain name": "jerseycitynj.gov",
+        "Domain type": "City",
+        "Organization name": "City of Jersey City",
+        "Suborganization name": "",
+        "City": "Jersey City",
+        "State": "NJ",
+        "Security contact email": "JCIT@JCNJ.ORG"
+      }
+    ]
+  },
+  {
+    "city": "Lincoln",
+    "state": "NE",
+    "geoid": "3128000",
+    "candidates": []
+  },
+  {
+    "city": "North Las Vegas",
+    "state": "NV",
+    "geoid": "3251800",
+    "candidates": []
+  },
+  {
+    "city": "Plano",
+    "state": "TX",
+    "geoid": "4858016",
+    "candidates": [
+      {
+        "Domain name": "plano.gov",
+        "Domain type": "City",
+        "Organization name": "City of Plano",
+        "Suborganization name": "",
+        "City": "Plano",
+        "State": "TX",
+        "Security contact email": "security@plano.gov"
+      }
+    ]
+  },
+  {
+    "city": "Gilbert",
+    "state": "AZ",
+    "geoid": "0427400",
+    "candidates": [
+      {
+        "Domain name": "gilbertaz.gov",
+        "Domain type": "City",
+        "Organization name": "Town of Gilbert",
+        "Suborganization name": "",
+        "City": "Gilbert",
+        "State": "AZ",
+        "Security contact email": "infosec@gilbertaz.gov"
+      }
+    ]
+  },
+  {
+    "city": "Anchorage",
+    "state": "AK",
+    "geoid": "0203000",
+    "candidates": [
+      {
+        "Domain name": "anchorageak.gov",
+        "Domain type": "City",
+        "Organization name": "Municipality of Anchorage",
+        "Suborganization name": "",
+        "City": "Anchorage",
+        "State": "AK",
+        "Security contact email": "Jacquelyn.Morrison@anchorageak.gov"
+      }
+    ]
+  },
+  {
+    "city": "Madison",
+    "state": "WI",
+    "geoid": "5548000",
+    "candidates": [
+      {
+        "Domain name": "madison.gov",
+        "Domain type": "City",
+        "Organization name": "City of Madison",
+        "Suborganization name": "",
+        "City": "Madison",
+        "State": "WI",
+        "Security contact email": "cybersecurity@cityofmadison.com"
+      }
+    ]
+  },
+  {
+    "city": "Reno",
+    "state": "NV",
+    "geoid": "3260600",
+    "candidates": [
+      {
+        "Domain name": "reno.gov",
+        "Domain type": "City",
+        "Organization name": "City of Reno",
+        "Suborganization name": "",
+        "City": "Reno",
+        "State": "NV",
+        "Security contact email": "security@reno.gov"
+      },
+      {
+        "Domain name": "renonv.gov",
+        "Domain type": "City",
+        "Organization name": "City of Reno",
+        "Suborganization name": "",
+        "City": "Reno",
+        "State": "NV",
+        "Security contact email": "security@reno.gov"
+      }
+    ]
+  },
+  {
+    "city": "Chandler",
+    "state": "AZ",
+    "geoid": "0412000",
+    "candidates": [
+      {
+        "Domain name": "chandleraz.gov",
+        "Domain type": "City",
+        "Organization name": "City of Chandler",
+        "Suborganization name": "",
+        "City": "Chandler",
+        "State": "AZ",
+        "Security contact email": "IT-SecurityNotifications@chandleraz.gov"
+      }
+    ]
+  },
+  {
+    "city": "St. Louis",
+    "state": "MO",
+    "geoid": "2965000",
+    "candidates": [
+      {
+        "Domain name": "stlouis-mo.gov",
+        "Domain type": "City",
+        "Organization name": "City of St. Louis",
+        "Suborganization name": "",
+        "City": "St. Louis",
+        "State": "MO",
+        "Security contact email": "helpdesk@stlouis-mo.gov"
+      }
+    ]
+  },
+  {
+    "city": "Chula Vista",
+    "state": "CA",
+    "geoid": "0613392",
+    "candidates": [
+      {
+        "Domain name": "chulavistaca.gov",
+        "Domain type": "City",
+        "Organization name": "City of Chula Vista",
+        "Suborganization name": "",
+        "City": "Chula Vista",
+        "State": "CA",
+        "Security contact email": "(blank)"
+      }
+    ]
+  },
+  {
+    "city": "Fort Wayne",
+    "state": "IN",
+    "geoid": "1825000",
+    "candidates": []
+  },
+  {
+    "city": "Buffalo",
+    "state": "NY",
+    "geoid": "3611000",
+    "candidates": [
+      {
+        "Domain name": "buffalony.gov",
+        "Domain type": "City",
+        "Organization name": "City of Buffalo",
+        "Suborganization name": "",
+        "City": "Buffalo",
+        "State": "NY",
+        "Security contact email": "jseguin@buffalony.gov"
+      }
+    ]
+  },
+  {
+    "city": "Lubbock",
+    "state": "TX",
+    "geoid": "4845000",
+    "candidates": [
+      {
+        "Domain name": "lubbocktx.gov",
+        "Domain type": "City",
+        "Organization name": "City of Lubbock, Texas",
+        "Suborganization name": "",
+        "City": "Lubbock",
+        "State": "TX",
+        "Security contact email": "(blank)"
+      }
+    ]
+  },
+  {
+    "city": "Laredo",
+    "state": "TX",
+    "geoid": "4841464",
+    "candidates": [
+      {
+        "Domain name": "laredo.gov",
+        "Domain type": "City",
+        "Organization name": "City of Laredo",
+        "Suborganization name": "",
+        "City": "Laredo",
+        "State": "TX",
+        "Security contact email": "(blank)"
+      },
+      {
+        "Domain name": "laredotexas.gov",
+        "Domain type": "City",
+        "Organization name": "City of Laredo",
+        "Suborganization name": "",
+        "City": "Laredo",
+        "State": "TX",
+        "Security contact email": "jgvasquez1@ci.laredo.tx.us"
+      }
+    ]
+  },
+  {
+    "city": "Port St. Lucie",
+    "state": "FL",
+    "geoid": "1258715",
+    "candidates": [
+      {
+        "Domain name": "cityofpsl.gov",
+        "Domain type": "City",
+        "Organization name": "City of Port Saint Lucie",
+        "Suborganization name": "",
+        "City": "Port St. Lucie",
+        "State": "FL",
+        "Security contact email": "ITSecurity@cityofpsl.com"
+      }
+    ]
+  },
+  {
+    "city": "St. Petersburg",
+    "state": "FL",
+    "geoid": "1263000",
+    "candidates": [
+      {
+        "Domain name": "stpetersburg.gov",
+        "Domain type": "City",
+        "Organization name": "City of Saint Petersburg",
+        "Suborganization name": "",
+        "City": "Saint Petersburg",
+        "State": "FL",
+        "Security contact email": "(blank)"
+      }
+    ]
+  },
+  {
+    "city": "Toledo",
+    "state": "OH",
+    "geoid": "3977000",
+    "candidates": [
+      {
+        "Domain name": "toledo.gov",
+        "Domain type": "City",
+        "Organization name": "City of Toledo",
+        "Suborganization name": "",
+        "City": "Toledo",
+        "State": "OH",
+        "Security contact email": "web@toledo.oh.gov"
+      }
+    ]
+  },
+  {
+    "city": "Glendale",
+    "state": "AZ",
+    "geoid": "0427820",
+    "candidates": [
+      {
+        "Domain name": "glendaleaz.gov",
+        "Domain type": "City",
+        "Organization name": "City of Glendale, Arizona",
+        "Suborganization name": "",
+        "City": "Glendale",
+        "State": "AZ",
+        "Security contact email": "it_security@glendaleaz.com"
+      }
+    ]
+  },
+  {
+    "city": "Winston-Salem",
+    "state": "NC",
+    "geoid": "3775000",
+    "candidates": [
+      {
+        "Domain name": "cityofws.gov",
+        "Domain type": "City",
+        "Organization name": "City of Winston-Salem",
+        "Suborganization name": "",
+        "City": "Winston Salem",
+        "State": "NC",
+        "Security contact email": "(blank)"
+      }
+    ]
+  },
+  {
+    "city": "Irving",
+    "state": "TX",
+    "geoid": "4837000",
+    "candidates": [
+      {
+        "Domain name": "irvingtx.gov",
+        "Domain type": "City",
+        "Organization name": "City of Irving, TX",
+        "Suborganization name": "",
+        "City": "Irving",
+        "State": "TX",
+        "Security contact email": "cybersecurity@cityofirving.org"
+      }
+    ]
+  },
+  {
+    "city": "Chesapeake",
+    "state": "VA",
+    "geoid": "5116000",
+    "candidates": [
+      {
+        "Domain name": "chesapeakeva.gov",
+        "Domain type": "City",
+        "Organization name": "City of Chesapeake",
+        "Suborganization name": "",
+        "City": "Chesapeake",
+        "State": "VA",
+        "Security contact email": "securityalerts@cityofchesapeake.net"
+      }
+    ]
+  },
+  {
+    "city": "Garland",
+    "state": "TX",
+    "geoid": "4829000",
+    "candidates": [
+      {
+        "Domain name": "garlandtx.gov",
+        "Domain type": "City",
+        "Organization name": "City of Garland",
+        "Suborganization name": "",
+        "City": "Garland",
+        "State": "TX",
+        "Security contact email": "hharper@garlandtx.gov"
+      }
+    ]
+  },
+  {
+    "city": "Scottsdale",
+    "state": "AZ",
+    "geoid": "0465000",
+    "candidates": [
+      {
+        "Domain name": "scottsdaleaz.gov",
+        "Domain type": "City",
+        "Organization name": "City of Scottsdale",
+        "Suborganization name": "",
+        "City": "Scottsdale",
+        "State": "AZ",
+        "Security contact email": "webservices@scottsdaleaz.gov"
+      }
+    ]
+  },
+  {
+    "city": "Boise",
+    "state": "ID",
+    "geoid": "1608830",
+    "candidates": [
+      {
+        "Domain name": "boiseidaho.gov",
+        "Domain type": "City",
+        "Organization name": "City of Boise",
+        "Suborganization name": "",
+        "City": "Boise",
+        "State": "ID",
+        "Security contact email": "(blank)"
+      }
+    ]
+  },
+  {
+    "city": "Richmond",
+    "state": "VA",
+    "geoid": "5167000",
+    "candidates": [
+      {
+        "Domain name": "rva.gov",
+        "Domain type": "City",
+        "Organization name": "City of Richmond",
+        "Suborganization name": "",
+        "City": "Richmond",
+        "State": "VA",
+        "Security contact email": "DIT-WintelSystemEngineers@richmondgov.com"
+      }
+    ]
+  },
+  {
+    "city": "Frisco",
+    "state": "TX",
+    "geoid": "4827684",
+    "candidates": [
+      {
+        "Domain name": "friscotx.gov",
+        "Domain type": "City",
+        "Organization name": "City of Frisco",
+        "Suborganization name": "",
+        "City": "Frisco",
+        "State": "TX",
+        "Security contact email": "ggivens@friscotexas.gov"
+      },
+      {
+        "Domain name": "friscotexas.gov",
+        "Domain type": "City",
+        "Organization name": "City of Frisco",
+        "Suborganization name": "",
+        "City": "Frisco",
+        "State": "TX",
+        "Security contact email": "ggivens@friscotexas.gov"
+      }
+    ]
+  },
+  {
+    "city": "Cape Coral",
+    "state": "FL",
+    "geoid": "1210275",
+    "candidates": [
+      {
+        "Domain name": "capecoralfl.gov",
+        "Domain type": "City",
+        "Organization name": "City of Cape Coral",
+        "Suborganization name": "",
+        "City": "Cape Coral",
+        "State": "FL",
+        "Security contact email": "infosec@capecoral.net"
+      },
+      {
+        "Domain name": "capecoral.gov",
+        "Domain type": "City",
+        "Organization name": "City of Cape Coral IT Department",
+        "Suborganization name": "",
+        "City": "Cape Coral",
+        "State": "FL",
+        "Security contact email": "infosec@capecoral.gov"
+      }
+    ]
+  },
+  {
+    "city": "McKinney",
+    "state": "TX",
+    "geoid": "4845744",
+    "candidates": []
+  },
+  {
+    "city": "Huntsville",
+    "state": "AL",
+    "geoid": "0137000",
+    "candidates": [
+      {
+        "Domain name": "huntsvilleal.gov",
+        "Domain type": "City",
+        "Organization name": "City of Huntsville",
+        "Suborganization name": "",
+        "City": "Huntsville",
+        "State": "AL",
+        "Security contact email": "gene.uhl@huntsvilleal.gov"
+      }
+    ]
+  },
+  {
+    "city": "Norfolk",
+    "state": "VA",
+    "geoid": "5157000",
+    "candidates": [
+      {
+        "Domain name": "norfolk.gov",
+        "Domain type": "City",
+        "Organization name": "City of Norfolk, VA",
+        "Suborganization name": "",
+        "City": "Norfolk",
+        "State": "VA",
+        "Security contact email": "soc@norfolk.gov"
+      },
+      {
+        "Domain name": "norfolkva.gov",
+        "Domain type": "City",
+        "Organization name": "City of Norfolk, VA",
+        "Suborganization name": "",
+        "City": "Norfolk",
+        "State": "VA",
+        "Security contact email": "soc@norfolk.gov"
+      }
+    ]
+  },
+  {
+    "city": "Hialeah",
+    "state": "FL",
+    "geoid": "1230000",
+    "candidates": [
+      {
+        "Domain name": "hialeahfl.gov",
+        "Domain type": "City",
+        "Organization name": "City of Hialeah",
+        "Suborganization name": "",
+        "City": "Hialeah",
+        "State": "FL",
+        "Security contact email": "rsuarez@hialeahfl.gov"
+      }
+    ]
+  },
+  {
+    "city": "Spokane",
+    "state": "WA",
+    "geoid": "5367000",
+    "candidates": [
+      {
+        "Domain name": "spokane.gov",
+        "Domain type": "City",
+        "Organization name": "City of Spokane",
+        "Suborganization name": "",
+        "City": "Spokane",
+        "State": "WA",
+        "Security contact email": "itsecurity@spokanecity.org"
+      }
+    ]
+  },
+  {
+    "city": "Tacoma",
+    "state": "WA",
+    "geoid": "5370000",
+    "candidates": [
+      {
+        "Domain name": "tacoma.gov",
+        "Domain type": "City",
+        "Organization name": "City of Tacoma",
+        "Suborganization name": "",
+        "City": "Tacoma",
+        "State": "WA",
+        "Security contact email": "(blank)"
+      }
+    ]
+  },
+  {
+    "city": "Santa Clarita",
+    "state": "CA",
+    "geoid": "0669088",
+    "candidates": [
+      {
+        "Domain name": "santaclarita.gov",
+        "Domain type": "City",
+        "Organization name": "City of Santa Clarita",
+        "Suborganization name": "",
+        "City": "Santa Clarita",
+        "State": "CA",
+        "Security contact email": "webadmin@santaclarita.gov"
+      }
+    ]
+  },
+  {
+    "city": "Fremont",
+    "state": "CA",
+    "geoid": "0626000",
+    "candidates": [
+      {
+        "Domain name": "fremont.gov",
+        "Domain type": "City",
+        "Organization name": "City of Fremont",
+        "Suborganization name": "",
+        "City": "Fremont",
+        "State": "CA",
+        "Security contact email": "helpdesk@fremont.gov"
+      },
+      {
+        "Domain name": "myclimatereadyfremont.gov",
+        "Domain type": "City",
+        "Organization name": "City of Fremont",
+        "Suborganization name": "",
+        "City": "Fremont",
+        "State": "CA",
+        "Security contact email": "(blank)"
+      }
+    ]
+  },
+  {
+    "city": "Baton Rouge",
+    "state": "LA",
+    "geoid": "2205000",
+    "candidates": [
+      {
+        "Domain name": "batonrougela.gov",
+        "Domain type": "City",
+        "Organization name": "City of Baton Rouge / Parish of East Baton Rouge",
+        "Suborganization name": "",
+        "City": "Baton Rouge",
+        "State": "LA",
+        "Security contact email": "(blank)"
+      }
+    ]
+  },
+  {
+    "city": "San Bernardino",
+    "state": "CA",
+    "geoid": "0665000",
+    "candidates": [
+      {
+        "Domain name": "sanbernardino.gov",
+        "Domain type": "City",
+        "Organization name": "City of San Bernardino",
+        "Suborganization name": "",
+        "City": "San Bernardino",
+        "State": "CA",
+        "Security contact email": "netadmin@sbcity.org"
+      }
+    ]
+  },
+  {
+    "city": "Fontana",
+    "state": "CA",
+    "geoid": "0624680",
+    "candidates": [
+      {
+        "Domain name": "fontanaca.gov",
+        "Domain type": "City",
+        "Organization name": "City of Fontana",
+        "Suborganization name": "",
+        "City": "Fontana",
+        "State": "CA",
+        "Security contact email": "cbeck@fontanaca.gov"
+      }
+    ]
+  },
+  {
+    "city": "Modesto",
+    "state": "CA",
+    "geoid": "0648354",
+    "candidates": []
+  },
+  {
+    "city": "Salt Lake City",
+    "state": "UT",
+    "geoid": "4967000",
+    "candidates": []
+  },
+  {
+    "city": "Moreno Valley",
+    "state": "CA",
+    "geoid": "0649270",
+    "candidates": [
+      {
+        "Domain name": "moval.gov",
+        "Domain type": "City",
+        "Organization name": "City of Moreno Valley",
+        "Suborganization name": "",
+        "City": "Moreno Valley",
+        "State": "CA",
+        "Security contact email": "abuse@moval.org"
+      }
+    ]
+  },
+  {
+    "city": "Worcester",
+    "state": "MA",
+    "geoid": "2582000",
+    "candidates": [
+      {
+        "Domain name": "worcesterma.gov",
+        "Domain type": "City",
+        "Organization name": "City of Worcester",
+        "Suborganization name": "",
+        "City": "Worcester",
+        "State": "MA",
+        "Security contact email": "(blank)"
+      }
+    ]
+  },
+  {
+    "city": "Sioux Falls",
+    "state": "SD",
+    "geoid": "4659020",
+    "candidates": [
+      {
+        "Domain name": "siouxfalls.gov",
+        "Domain type": "City",
+        "Organization name": "City of Sioux Falls",
+        "Suborganization name": "",
+        "City": "Sioux Falls",
+        "State": "SD",
+        "Security contact email": "jessica.warren@siouxfalls.gov"
+      }
+    ]
+  },
+  {
+    "city": "Yonkers",
+    "state": "NY",
+    "geoid": "3684000",
+    "candidates": [
+      {
+        "Domain name": "yonkersny.gov",
+        "Domain type": "City",
+        "Organization name": "City of Yonkers",
+        "Suborganization name": "",
+        "City": "Yonkers",
+        "State": "NY",
+        "Security contact email": "cybersecurity@YonkersNY.gov"
+      },
+      {
+        "Domain name": "yonkerspd.gov",
+        "Domain type": "City",
+        "Organization name": "City of Yonkers",
+        "Suborganization name": "",
+        "City": "Yonkers",
+        "State": "NY",
+        "Security contact email": "cybersecurity@yonkersny.gov"
+      }
+    ]
+  },
+  {
+    "city": "Des Moines",
+    "state": "IA",
+    "geoid": "1921000",
+    "candidates": []
+  },
+  {
+    "city": "Grand Prairie",
+    "state": "TX",
+    "geoid": "4830464",
+    "candidates": []
+  },
+  {
+    "city": "Fayetteville",
+    "state": "NC",
+    "geoid": "3722920",
+    "candidates": [
+      {
+        "Domain name": "fayettevillenc.gov",
+        "Domain type": "City",
+        "Organization name": "City of Fayetteville, North Carolina",
+        "Suborganization name": "",
+        "City": "Fayetteville",
+        "State": "NC",
+        "Security contact email": "(blank)"
+      }
+    ]
+  },
+  {
+    "city": "Little Rock",
+    "state": "AR",
+    "geoid": "0541000",
+    "candidates": [
+      {
+        "Domain name": "littlerock.gov",
+        "Domain type": "City",
+        "Organization name": "City",
+        "Suborganization name": "",
+        "City": "Little Rock",
+        "State": "AR",
+        "Security contact email": "oharrison@littlerock.gov"
+      },
+      {
+        "Domain name": "littlerockar.gov",
+        "Domain type": "City",
+        "Organization name": "City",
+        "Suborganization name": "",
+        "City": "Little Rock",
+        "State": "AR",
+        "Security contact email": "oharrison@littlerock.gov"
+      }
+    ]
+  },
+  {
+    "city": "Rochester",
+    "state": "NY",
+    "geoid": "3663000",
+    "candidates": [
+      {
+        "Domain name": "cityofrochester.gov",
+        "Domain type": "City",
+        "Organization name": "City Of Rochester",
+        "Suborganization name": "",
+        "City": "Rochester",
+        "State": "NY",
+        "Security contact email": "itsec-incidents@cityofrochester.gov"
+      }
+    ]
+  },
+  {
+    "city": "Amarillo",
+    "state": "TX",
+    "geoid": "4803000",
+    "candidates": [
+      {
+        "Domain name": "amarillo.gov",
+        "Domain type": "City",
+        "Organization name": "City of Amarillo ",
+        "Suborganization name": "",
+        "City": "Amarillo",
+        "State": "TX",
+        "Security contact email": "jose.villarreal@amarillo.gov"
+      }
+    ]
+  },
+  {
+    "city": "Tallahassee",
+    "state": "FL",
+    "geoid": "1270600",
+    "candidates": []
+  },
+  {
+    "city": "Overland Park",
+    "state": "KS",
+    "geoid": "2053775",
+    "candidates": []
+  },
+  {
+    "city": "Columbus",
+    "state": "GA",
+    "geoid": "1319000",
+    "candidates": [
+      {
+        "Domain name": "columbusga.gov",
+        "Domain type": "City",
+        "Organization name": "Columbus Consolidated Government",
+        "Suborganization name": "",
+        "City": "Columbus",
+        "State": "GA",
+        "Security contact email": "aker.kevin.w@columbusga.gov"
+      }
+    ]
+  },
+  {
+    "city": "Knoxville",
+    "state": "TN",
+    "geoid": "4740000",
+    "candidates": [
+      {
+        "Domain name": "knoxvilletn.gov",
+        "Domain type": "City",
+        "Organization name": "City of Knoxville",
+        "Suborganization name": "",
+        "City": "Knoxville",
+        "State": "TN",
+        "Security contact email": "knoxvilleit@knoxvilletn.gov"
+      }
+    ]
+  },
+  {
+    "city": "Augusta",
+    "state": "GA",
+    "geoid": "1304204",
+    "candidates": [
+      {
+        "Domain name": "augustaga.gov",
+        "Domain type": "City",
+        "Organization name": "City of Augusta",
+        "Suborganization name": "",
+        "City": "Augusta",
+        "State": "GA",
+        "Security contact email": "ITSecurityTeam@augustaga.gov"
+      }
+    ]
+  },
+  {
+    "city": "Grand Rapids",
+    "state": "MI",
+    "geoid": "2634000",
+    "candidates": [
+      {
+        "Domain name": "grandrapidsmi.gov",
+        "Domain type": "City",
+        "Organization name": "City of Grand Rapids",
+        "Suborganization name": "",
+        "City": "Grand Rapids",
+        "State": "MI",
+        "Security contact email": "webmaster@grcity.us"
+      }
+    ]
+  },
+  {
+    "city": "Peoria",
+    "state": "AZ",
+    "geoid": "0454050",
+    "candidates": [
+      {
+        "Domain name": "peoriaaz.gov",
+        "Domain type": "City",
+        "Organization name": "City of Peoria, Arizona",
+        "Suborganization name": "",
+        "City": "Peoria",
+        "State": "AZ",
+        "Security contact email": "netsupport@peoriaaz.gov"
+      }
+    ]
+  },
+  {
+    "city": "Mobile",
+    "state": "AL",
+    "geoid": "0150000",
+    "candidates": [
+      {
+        "Domain name": "cityofmobile.gov",
+        "Domain type": "City",
+        "Organization name": "City of Mobile",
+        "Suborganization name": "",
+        "City": "Mobile",
+        "State": "AL",
+        "Security contact email": "emailreview@cityofmobile.gov"
+      }
+    ]
+  },
+  {
+    "city": "Vancouver",
+    "state": "WA",
+    "geoid": "5374060",
+    "candidates": [
+      {
+        "Domain name": "vancouver.gov",
+        "Domain type": "City",
+        "Organization name": "City of Vancouver",
+        "Suborganization name": "",
+        "City": "Vancouver",
+        "State": "WA",
+        "Security contact email": "help.desk@cityofvancouver.us"
+      }
+    ]
+  },
+  {
+    "city": "Oxnard",
+    "state": "CA",
+    "geoid": "0654652",
+    "candidates": [
+      {
+        "Domain name": "oxnard.gov",
+        "Domain type": "City",
+        "Organization name": "City Manager's Office",
+        "Suborganization name": "",
+        "City": "Oxnard",
+        "State": "CA",
+        "Security contact email": "social@oxnard.org"
+      }
+    ]
+  },
+  {
+    "city": "Birmingham",
+    "state": "AL",
+    "geoid": "0107000",
+    "candidates": [
+      {
+        "Domain name": "birminghamal.gov",
+        "Domain type": "City",
+        "Organization name": "City of Birmingham",
+        "Suborganization name": "",
+        "City": "Birmingham",
+        "State": "AL",
+        "Security contact email": "adminnotify@birminghamal.gov"
+      }
+    ]
+  },
+  {
+    "city": "Providence",
+    "state": "RI",
+    "geoid": "4459000",
+    "candidates": [
+      {
+        "Domain name": "providenceri.gov",
+        "Domain type": "City",
+        "Organization name": "City of Providence",
+        "Suborganization name": "",
+        "City": "Providence",
+        "State": "RI",
+        "Security contact email": "webmaster@providenceri.gov"
+      }
+    ]
+  },
+  {
+    "city": "Montgomery",
+    "state": "AL",
+    "geoid": "0151000",
+    "candidates": [
+      {
+        "Domain name": "montgomeryal.gov",
+        "Domain type": "City",
+        "Organization name": "City of Montgomery",
+        "Suborganization name": "",
+        "City": "Montgomery",
+        "State": "AL",
+        "Security contact email": "tporterfield@montgomeryal.gov"
+      }
+    ]
+  },
+  {
+    "city": "Chattanooga",
+    "state": "TN",
+    "geoid": "4714000",
+    "candidates": [
+      {
+        "Domain name": "chattanooga.gov",
+        "Domain type": "City",
+        "Organization name": "City of Chattanooga",
+        "Suborganization name": "",
+        "City": "Chattanooga",
+        "State": "TN",
+        "Security contact email": "itsecurity@chattanooga.gov"
+      }
+    ]
+  },
+  {
+    "city": "Brownsville",
+    "state": "TX",
+    "geoid": "4810768",
+    "candidates": [
+      {
+        "Domain name": "brownsvilletx.gov",
+        "Domain type": "City",
+        "Organization name": "City of Brownsville",
+        "Suborganization name": "",
+        "City": "Brownsville",
+        "State": "TX",
+        "Security contact email": "noc@brownsvilletx.gov"
+      }
+    ]
+  },
+  {
+    "city": "Huntington Beach",
+    "state": "CA",
+    "geoid": "0636000",
+    "candidates": [
+      {
+        "Domain name": "huntingtonbeachca.gov",
+        "Domain type": "City",
+        "Organization name": "City of Huntington Beach",
+        "Suborganization name": "",
+        "City": "Huntington Beach",
+        "State": "CA",
+        "Security contact email": "netops@surfcity-hb.org"
+      }
+    ]
+  },
+  {
+    "city": "Tempe",
+    "state": "AZ",
+    "geoid": "0473000",
+    "candidates": [
+      {
+        "Domain name": "tempe.gov",
+        "Domain type": "City",
+        "Organization name": "City of Tempe",
+        "Suborganization name": "",
+        "City": "Tempe",
+        "State": "AZ",
+        "Security contact email": "scott_campbell@tempe.gov"
+      }
+    ]
+  },
+  {
+    "city": "Akron",
+    "state": "OH",
+    "geoid": "3901000",
+    "candidates": []
+  },
+  {
+    "city": "Clarksville",
+    "state": "TN",
+    "geoid": "4715160",
+    "candidates": [
+      {
+        "Domain name": "clarksvilletn.gov",
+        "Domain type": "City",
+        "Organization name": "City of Clarksville",
+        "Suborganization name": "",
+        "City": "Clarksville",
+        "State": "TN",
+        "Security contact email": "licensing@cityofclarksville.com"
+      }
+    ]
+  },
+  {
+    "city": "Fort Lauderdale",
+    "state": "FL",
+    "geoid": "1224000",
+    "candidates": [
+      {
+        "Domain name": "fortlauderdale.gov",
+        "Domain type": "City",
+        "Organization name": "City of Ft. Lauderdale",
+        "Suborganization name": "",
+        "City": "Fort Lauderdale",
+        "State": "FL",
+        "Security contact email": "abuse@fortlauderdale.gov"
+      },
+      {
+        "Domain name": "flpd.gov",
+        "Domain type": "City",
+        "Organization name": "City of Fort Lauderdale",
+        "Suborganization name": "",
+        "City": "Fort Lauderdale",
+        "State": "FL",
+        "Security contact email": "jdamiano@fortlauderdale.gov"
+      }
+    ]
+  },
+  {
+    "city": "Glendale",
+    "state": "CA",
+    "geoid": "0630000",
+    "candidates": [
+      {
+        "Domain name": "glendaleca.gov",
+        "Domain type": "City",
+        "Organization name": "City of Glendale",
+        "Suborganization name": "",
+        "City": "Glendale",
+        "State": "CA",
+        "Security contact email": "CLemus@Glendaleca.gov"
+      }
+    ]
+  },
+  {
+    "city": "Ontario",
+    "state": "CA",
+    "geoid": "0653896",
+    "candidates": [
+      {
+        "Domain name": "ontarioca.gov",
+        "Domain type": "City",
+        "Organization name": "City of Ontario",
+        "Suborganization name": "",
+        "City": "Ontario",
+        "State": "CA",
+        "Security contact email": "(blank)"
+      }
+    ]
+  },
+  {
+    "city": "Elk Grove",
+    "state": "CA",
+    "geoid": "0622020",
+    "candidates": [
+      {
+        "Domain name": "elkgrove.gov",
+        "Domain type": "City",
+        "Organization name": "City of Elk Grove, CA",
+        "Suborganization name": "",
+        "City": "Elk Grove",
+        "State": "CA",
+        "Security contact email": "rpucci@elkgrovecity.org"
+      }
+    ]
+  },
+  {
+    "city": "Cary",
+    "state": "NC",
+    "geoid": "3710740",
+    "candidates": [
+      {
+        "Domain name": "carync.gov",
+        "Domain type": "City",
+        "Organization name": "Town of Cary",
+        "Suborganization name": "",
+        "City": "Cary",
+        "State": "NC",
+        "Security contact email": "(blank)"
+      },
+      {
+        "Domain name": "townofcarync.gov",
+        "Domain type": "City",
+        "Organization name": "Town of Cary",
+        "Suborganization name": "",
+        "City": "Cary",
+        "State": "NC",
+        "Security contact email": "(blank)"
+      }
+    ]
+  },
+  {
+    "city": "Newport News",
+    "state": "VA",
+    "geoid": "5156000",
+    "candidates": [
+      {
+        "Domain name": "newportnewsva.gov",
+        "Domain type": "City",
+        "Organization name": "City of Newport News",
+        "Suborganization name": "",
+        "City": "Newport News",
+        "State": "VA",
+        "Security contact email": "it-security@nnva.gov"
+      },
+      {
+        "Domain name": "nnva.gov",
+        "Domain type": "City",
+        "Organization name": "City of Newport News",
+        "Suborganization name": "",
+        "City": "Newport News",
+        "State": "VA",
+        "Security contact email": "it-security@nnva.gov"
+      }
+    ]
+  },
+  {
+    "city": "Salem",
+    "state": "OR",
+    "geoid": "4164900",
+    "candidates": [
+      {
+        "Domain name": "salemor.gov",
+        "Domain type": "City",
+        "Organization name": "City of Salem",
+        "Suborganization name": "",
+        "City": "Salem",
+        "State": "OR",
+        "Security contact email": "media@cityofsalem.net"
+      }
+    ]
+  },
+  {
+    "city": "Aurora",
+    "state": "IL",
+    "geoid": "1703012",
+    "candidates": []
+  },
+  {
+    "city": "Santa Rosa",
+    "state": "CA",
+    "geoid": "0670098",
+    "candidates": [
+      {
+        "Domain name": "santarosaca.gov",
+        "Domain type": "City",
+        "Organization name": "City of Santa Rosa",
+        "Suborganization name": "",
+        "City": "Santa Rosa",
+        "State": "CA",
+        "Security contact email": "helpdesk@srcity.org"
+      }
+    ]
+  },
+  {
+    "city": "Eugene",
+    "state": "OR",
+    "geoid": "4123850",
+    "candidates": [
+      {
+        "Domain name": "eugene-or.gov",
+        "Domain type": "City",
+        "Organization name": "City of Eugene ISD",
+        "Suborganization name": "",
+        "City": "Eugene",
+        "State": "OR",
+        "Security contact email": "CEISDSECURITY@ci.eugene.or.us"
+      }
+    ]
+  },
+  {
+    "city": "Rancho Cucamonga",
+    "state": "CA",
+    "geoid": "0659451",
+    "candidates": [
+      {
+        "Domain name": "ranchocucamonga.gov",
+        "Domain type": "City",
+        "Organization name": "City of Rancho Cucamonga",
+        "Suborganization name": "",
+        "City": "Rancho Cucamonga",
+        "State": "CA",
+        "Security contact email": "doitsecurityteam@cityofrc.us"
+      }
+    ]
+  },
+  {
+    "city": "Pembroke Pines",
+    "state": "FL",
+    "geoid": "1255775",
+    "candidates": []
+  },
+  {
+    "city": "Shreveport",
+    "state": "LA",
+    "geoid": "2270000",
+    "candidates": [
+      {
+        "Domain name": "shreveportla.gov",
+        "Domain type": "City",
+        "Organization name": "City of Shreveport",
+        "Suborganization name": "",
+        "City": "Shreveport",
+        "State": "LA",
+        "Security contact email": "dj.smith@shreveportla.gov"
+      }
+    ]
+  },
+  {
+    "city": "Surprise",
+    "state": "AZ",
+    "geoid": "0471510",
+    "candidates": [
+      {
+        "Domain name": "surpriseaz.gov",
+        "Domain type": "City",
+        "Organization name": "City of Surprise",
+        "Suborganization name": "",
+        "City": "Surprise",
+        "State": "AZ",
+        "Security contact email": "(blank)"
+      }
+    ]
+  },
+  {
+    "city": "Fort Collins",
+    "state": "CO",
+    "geoid": "0827425",
+    "candidates": [
+      {
+        "Domain name": "fortcollins.gov",
+        "Domain type": "City",
+        "Organization name": "City of Fort Collins",
+        "Suborganization name": "",
+        "City": "Fort Collins",
+        "State": "CO",
+        "Security contact email": "(blank)"
+      },
+      {
+        "Domain name": "fortcollins-co.gov",
+        "Domain type": "City",
+        "Organization name": "City of Fort Collins",
+        "Suborganization name": "",
+        "City": "Fort Collins",
+        "State": "CO",
+        "Security contact email": "SysAdmins@fcgov.com"
+      }
+    ]
+  },
+  {
+    "city": "Murfreesboro",
+    "state": "TN",
+    "geoid": "4751560",
+    "candidates": [
+      {
+        "Domain name": "murfreesborotn.gov",
+        "Domain type": "City",
+        "Organization name": "City of Murfreesboro",
+        "Suborganization name": "",
+        "City": "Murfreesboro",
+        "State": "TN",
+        "Security contact email": "security@murfreesborotn.gov"
+      }
+    ]
+  },
+  {
+    "city": "Oceanside",
+    "state": "CA",
+    "geoid": "0653322",
+    "candidates": []
+  },
+  {
+    "city": "Garden Grove",
+    "state": "CA",
+    "geoid": "0629000",
+    "candidates": [
+      {
+        "Domain name": "gardengroveca.gov",
+        "Domain type": "City",
+        "Organization name": "City of Garden Grove",
+        "Suborganization name": "",
+        "City": "GARDEN GROVE",
+        "State": "CA",
+        "Security contact email": "noelp@ggcity.org"
+      }
+    ]
+  },
+  {
+    "city": "Lancaster",
+    "state": "CA",
+    "geoid": "0640130",
+    "candidates": [
+      {
+        "Domain name": "cityoflancasterca.gov",
+        "Domain type": "City",
+        "Organization name": "City of Lancaster",
+        "Suborganization name": "",
+        "City": "Lancaster",
+        "State": "CA",
+        "Security contact email": "itstaff@cityoflancasterca.org"
+      }
+    ]
+  },
+  {
+    "city": "Springfield",
+    "state": "MO",
+    "geoid": "2970000",
+    "candidates": [
+      {
+        "Domain name": "springfieldmo.gov",
+        "Domain type": "City",
+        "Organization name": "City of Springfield, State of Missouri",
+        "Suborganization name": "",
+        "City": "Springfield",
+        "State": "MO",
+        "Security contact email": "support@springfieldmo.gov"
+      }
+    ]
+  },
+  {
+    "city": "Denton",
+    "state": "TX",
+    "geoid": "4819972",
+    "candidates": [
+      {
+        "Domain name": "cityofdenton.gov",
+        "Domain type": "City",
+        "Organization name": "City of Denton",
+        "Suborganization name": "",
+        "City": "Denton",
+        "State": "TX",
+        "Security contact email": "(blank)"
+      }
+    ]
+  },
+  {
+    "city": "Roseville",
+    "state": "CA",
+    "geoid": "0662938",
+    "candidates": []
+  },
+  {
+    "city": "Killeen",
+    "state": "TX",
+    "geoid": "4839148",
+    "candidates": []
+  },
+  {
+    "city": "Palmdale",
+    "state": "CA",
+    "geoid": "0655156",
+    "candidates": [
+      {
+        "Domain name": "cityofpalmdaleca.gov",
+        "Domain type": "City",
+        "Organization name": "City of Palmdale",
+        "Suborganization name": "",
+        "City": "Palmdale",
+        "State": "CA",
+        "Security contact email": "itsecurity@cityofpalmdale.org"
+      }
+    ]
+  },
+  {
+    "city": "Paterson",
+    "state": "NJ",
+    "geoid": "3457000",
+    "candidates": [
+      {
+        "Domain name": "patersonnj.gov",
+        "Domain type": "City",
+        "Organization name": "City of Paterson",
+        "Suborganization name": "",
+        "City": "Paterson",
+        "State": "NJ",
+        "Security contact email": "techsupport@patersonnj.gov"
+      },
+      {
+        "Domain name": "patersonnjhealth.gov",
+        "Domain type": "City",
+        "Organization name": "CITY OF PATERSON",
+        "Suborganization name": "",
+        "City": "PATERSON",
+        "State": "NJ",
+        "Security contact email": "techsupport@patersonnj.gov"
+      }
+    ]
+  },
+  {
+    "city": "Corona",
+    "state": "CA",
+    "geoid": "0616350",
+    "candidates": [
+      {
+        "Domain name": "coronaca.gov",
+        "Domain type": "City",
+        "Organization name": "City of Corona",
+        "Suborganization name": "",
+        "City": "Corona",
+        "State": "CA",
+        "Security contact email": "jim.aukerman@coronaca.gov"
+      }
+    ]
+  },
+  {
+    "city": "Alexandria",
+    "state": "VA",
+    "geoid": "5101000",
+    "candidates": [
+      {
+        "Domain name": "alexandriava.gov",
+        "Domain type": "City",
+        "Organization name": "City of Alexandria",
+        "Suborganization name": "",
+        "City": "Alexandria",
+        "State": "VA",
+        "Security contact email": "security@alexandriava.gov"
+      }
+    ]
+  },
+  {
+    "city": "Charleston",
+    "state": "SC",
+    "geoid": "4513330",
+    "candidates": [
+      {
+        "Domain name": "charleston-sc.gov",
+        "Domain type": "City",
+        "Organization name": "City of Charleston",
+        "Suborganization name": "",
+        "City": "Charleston",
+        "State": "SC",
+        "Security contact email": "torresi@charleston-sc.gov"
+      }
+    ]
+  },
+  {
+    "city": "Salinas",
+    "state": "CA",
+    "geoid": "0664224",
+    "candidates": [
+      {
+        "Domain name": "salinas.gov",
+        "Domain type": "City",
+        "Organization name": "City of Salinas",
+        "Suborganization name": "",
+        "City": "Salinas",
+        "State": "CA",
+        "Security contact email": "netadmin@ci.salinas.ca.us"
+      }
+    ]
+  },
+  {
+    "city": "Kansas City",
+    "state": "KS",
+    "geoid": "2036000",
+    "candidates": []
+  },
+  {
+    "city": "Macon",
+    "state": "GA",
+    "geoid": "1349008",
+    "candidates": []
+  },
+  {
+    "city": "Hayward",
+    "state": "CA",
+    "geoid": "0633000",
+    "candidates": [
+      {
+        "Domain name": "hayward-ca.gov",
+        "Domain type": "City",
+        "Organization name": "CITY OF HAYWARD",
+        "Suborganization name": "",
+        "City": "Hayward",
+        "State": "CA",
+        "Security contact email": "marc.andres@hayward-ca.gov"
+      }
+    ]
+  },
+  {
+    "city": "Hollywood",
+    "state": "FL",
+    "geoid": "1232000",
+    "candidates": []
+  },
+  {
+    "city": "Lakewood",
+    "state": "CO",
+    "geoid": "0843000",
+    "candidates": [
+      {
+        "Domain name": "lakewoodco.gov",
+        "Domain type": "City",
+        "Organization name": "City of Lakewood",
+        "Suborganization name": "",
+        "City": "Lakewood",
+        "State": "CO",
+        "Security contact email": "(blank)"
+      }
+    ]
+  },
+  {
+    "city": "Sunnyvale",
+    "state": "CA",
+    "geoid": "0677000",
+    "candidates": []
+  },
+  {
+    "city": "Springfield",
+    "state": "MA",
+    "geoid": "2567000",
+    "candidates": [
+      {
+        "Domain name": "springfieldma.gov",
+        "Domain type": "City",
+        "Organization name": "City of Springfield",
+        "Suborganization name": "",
+        "City": "Springfield",
+        "State": "MA",
+        "Security contact email": "helpdesk@springfieldcityhall.com"
+      },
+      {
+        "Domain name": "springfield-ma.gov",
+        "Domain type": "City",
+        "Organization name": "City of Springfield Massachusetts",
+        "Suborganization name": "",
+        "City": "Springfield",
+        "State": "MA",
+        "Security contact email": "helpdesk@springfieldcityhall.com"
+      }
+    ]
+  },
+  {
+    "city": "Bellevue",
+    "state": "WA",
+    "geoid": "5305210",
+    "candidates": [
+      {
+        "Domain name": "bellevuewa.gov",
+        "Domain type": "City",
+        "Organization name": "City of Bellevue",
+        "Suborganization name": "",
+        "City": "Bellevue",
+        "State": "WA",
+        "Security contact email": "kban@bellevuewa.gov"
+      }
+    ]
+  },
+  {
+    "city": "Naperville",
+    "state": "IL",
+    "geoid": "1751622",
+    "candidates": [
+      {
+        "Domain name": "naperville.gov",
+        "Domain type": "City",
+        "Organization name": "City of Naperville",
+        "Suborganization name": "",
+        "City": "Naperville",
+        "State": "IL",
+        "Security contact email": "nvnetadmin@naperville.il.us"
+      }
+    ]
+  },
+  {
+    "city": "Bridgeport",
+    "state": "CT",
+    "geoid": "0908000",
+    "candidates": [
+      {
+        "Domain name": "bridgeportct.gov",
+        "Domain type": "City",
+        "Organization name": "City of Bridgeport",
+        "Suborganization name": "",
+        "City": "Bridgeport",
+        "State": "CT",
+        "Security contact email": "itstechsupport@bridgeportct.gov"
+      }
+    ]
+  },
+  {
+    "city": "Joliet",
+    "state": "IL",
+    "geoid": "1738570",
+    "candidates": [
+      {
+        "Domain name": "joliet.gov",
+        "Domain type": "City",
+        "Organization name": "City of Joliet",
+        "Suborganization name": "",
+        "City": "Joliet",
+        "State": "IL",
+        "Security contact email": "it-alerts@joliet.gov"
+      }
+    ]
+  },
+  {
+    "city": "Mesquite",
+    "state": "TX",
+    "geoid": "4847892",
+    "candidates": [
+      {
+        "Domain name": "mesquitetx.gov",
+        "Domain type": "City",
+        "Organization name": "City of Mesquite Texas",
+        "Suborganization name": "",
+        "City": "Mesquite",
+        "State": "TX",
+        "Security contact email": "noc@cityofmesquite.com"
+      }
+    ]
+  },
+  {
+    "city": "McAllen",
+    "state": "TX",
+    "geoid": "4845384",
+    "candidates": []
+  },
+  {
+    "city": "Olathe",
+    "state": "KS",
+    "geoid": "2052575",
+    "candidates": [
+      {
+        "Domain name": "olatheks.gov",
+        "Domain type": "City",
+        "Organization name": "City of Olathe",
+        "Suborganization name": "",
+        "City": "Olathe",
+        "State": "KS",
+        "Security contact email": "security@olatheks.gov"
+      }
+    ]
+  },
+  {
+    "city": "Savannah",
+    "state": "GA",
+    "geoid": "1369000",
+    "candidates": [
+      {
+        "Domain name": "savannahga.gov",
+        "Domain type": "City",
+        "Organization name": "City of Savannah, GA",
+        "Suborganization name": "",
+        "City": "Savannah",
+        "State": "GA",
+        "Security contact email": "ITSSecurity@savannahga.gov"
+      }
+    ]
+  },
+  {
+    "city": "Gainesville",
+    "state": "FL",
+    "geoid": "1225175",
+    "candidates": [
+      {
+        "Domain name": "gainesvillefl.gov",
+        "Domain type": "City",
+        "Organization name": "City of Gainesville",
+        "Suborganization name": "",
+        "City": "Gainesville",
+        "State": "FL",
+        "Security contact email": "dudadp@cityofgainesville.org"
+      }
+    ]
+  },
+  {
+    "city": "Pasadena",
+    "state": "TX",
+    "geoid": "4856000",
+    "candidates": [
+      {
+        "Domain name": "pasadenatx.gov",
+        "Domain type": "City",
+        "Organization name": "City of Pasadena, Texas",
+        "Suborganization name": "",
+        "City": "Pasadena",
+        "State": "TX",
+        "Security contact email": "(blank)"
+      }
+    ]
+  },
+  {
+    "city": "Palm Bay",
+    "state": "FL",
+    "geoid": "1254000",
+    "candidates": [
+      {
+        "Domain name": "palmbayfl.gov",
+        "Domain type": "City",
+        "Organization name": "City of Palm Bay",
+        "Suborganization name": "",
+        "City": "Palm Bay",
+        "State": "FL",
+        "Security contact email": "NetworkOperations@palmbayflorida.org"
+      }
+    ]
+  },
+  {
+    "city": "Pomona",
+    "state": "CA",
+    "geoid": "0658072",
+    "candidates": [
+      {
+        "Domain name": "pomonaca.gov",
+        "Domain type": "City",
+        "Organization name": "City of Pomona",
+        "Suborganization name": "",
+        "City": "Pomona",
+        "State": "CA",
+        "Security contact email": "PomonaIT@pomonaca.gov"
+      }
+    ]
+  },
+  {
+    "city": "Waco",
+    "state": "TX",
+    "geoid": "4876000",
+    "candidates": [
+      {
+        "Domain name": "wacotx.gov",
+        "Domain type": "City",
+        "Organization name": "City of Waco",
+        "Suborganization name": "",
+        "City": "Waco",
+        "State": "TX",
+        "Security contact email": "cybersecurity@wacotx.gov"
+      }
+    ]
+  },
+  {
+    "city": "Thornton",
+    "state": "CO",
+    "geoid": "0877290",
+    "candidates": [
+      {
+        "Domain name": "thorntonco.gov",
+        "Domain type": "City",
+        "Organization name": "City of Thornton",
+        "Suborganization name": "",
+        "City": "Thornton",
+        "State": "CO",
+        "Security contact email": "kevin.mourey@thorntonco.gov"
+      }
+    ]
+  },
+  {
+    "city": "Midland",
+    "state": "TX",
+    "geoid": "4848072",
+    "candidates": []
+  },
+  {
+    "city": "Rockford",
+    "state": "IL",
+    "geoid": "1765000",
+    "candidates": [
+      {
+        "Domain name": "rockfordil.gov",
+        "Domain type": "City",
+        "Organization name": "City of Rockford",
+        "Suborganization name": "",
+        "City": "Rockford",
+        "State": "IL",
+        "Security contact email": "helpdesk@rockfordil.gov"
+      }
+    ]
+  },
+  {
+    "city": "Columbia",
+    "state": "SC",
+    "geoid": "4516000",
+    "candidates": [
+      {
+        "Domain name": "columbiasc.gov",
+        "Domain type": "City",
+        "Organization name": "City of Columbia, SC",
+        "Suborganization name": "",
+        "City": "Columbia",
+        "State": "SC",
+        "Security contact email": "Administrator@columbiasc.gov"
+      }
+    ]
+  },
+  {
+    "city": "Visalia",
+    "state": "CA",
+    "geoid": "0682954",
+    "candidates": [
+      {
+        "Domain name": "visalia.gov",
+        "Domain type": "City",
+        "Organization name": "City of Visalia",
+        "Suborganization name": "",
+        "City": "Visalia",
+        "State": "CA",
+        "Security contact email": "abuse@visalia.city"
+      }
+    ]
+  },
+  {
+    "city": "Escondido",
+    "state": "CA",
+    "geoid": "0622804",
+    "candidates": [
+      {
+        "Domain name": "escondido.gov",
+        "Domain type": "City",
+        "Organization name": "City of Escondido",
+        "Suborganization name": "",
+        "City": "Escondido",
+        "State": "CA",
+        "Security contact email": "dotgovtech@escondido.org"
+      }
+    ]
+  },
+  {
+    "city": "Syracuse",
+    "state": "NY",
+    "geoid": "3673000",
+    "candidates": [
+      {
+        "Domain name": "syr.gov",
+        "Domain type": "City",
+        "Organization name": "City of Syracuse",
+        "Suborganization name": "",
+        "City": "Syracuse",
+        "State": "NY",
+        "Security contact email": "digital@syrgov.net"
+      }
+    ]
+  },
+  {
+    "city": "Meridian",
+    "state": "ID",
+    "geoid": "1652120",
+    "candidates": []
+  },
+  {
+    "city": "Miramar",
+    "state": "FL",
+    "geoid": "1245975",
+    "candidates": [
+      {
+        "Domain name": "miramar-fl.gov",
+        "Domain type": "City",
+        "Organization name": "City of Miramar",
+        "Suborganization name": "",
+        "City": "Miramar",
+        "State": "FL",
+        "Security contact email": "SecurityTeam@miramarfl.gov"
+      },
+      {
+        "Domain name": "miramarfl.gov",
+        "Domain type": "City",
+        "Organization name": "The City of Miramar",
+        "Suborganization name": "",
+        "City": "Miramar",
+        "State": "FL",
+        "Security contact email": "SecurityTeam@miramarfl.gov"
+      }
+    ]
+  },
+  {
+    "city": "Elizabeth",
+    "state": "NJ",
+    "geoid": "3421000",
+    "candidates": []
+  },
+  {
+    "city": "Victorville",
+    "state": "CA",
+    "geoid": "0682590",
+    "candidates": [
+      {
+        "Domain name": "victorvilleca.gov",
+        "Domain type": "City",
+        "Organization name": "City of Victorville",
+        "Suborganization name": "",
+        "City": "Victorville",
+        "State": "CA",
+        "Security contact email": "tthomas@victorvilleca.gov"
+      }
+    ]
+  },
+  {
+    "city": "Round Rock",
+    "state": "TX",
+    "geoid": "4863500",
+    "candidates": []
+  },
+  {
+    "city": "Jackson",
+    "state": "MS",
+    "geoid": "2836000",
+    "candidates": [
+      {
+        "Domain name": "jacksonms.gov",
+        "Domain type": "City",
+        "Organization name": "City of Jackson",
+        "Suborganization name": "",
+        "City": "Jackson",
+        "State": "MS",
+        "Security contact email": "itmanagers@jacksonms.gov"
+      }
+    ]
+  },
+  {
+    "city": "Stamford",
+    "state": "CT",
+    "geoid": "0973000",
+    "candidates": [
+      {
+        "Domain name": "stamfordct.gov",
+        "Domain type": "City",
+        "Organization name": "City of Stamford",
+        "Suborganization name": "",
+        "City": "Stamford",
+        "State": "CT",
+        "Security contact email": "webmaster@stamfordct.gov"
+      }
+    ]
+  },
+  {
+    "city": "Lewisville",
+    "state": "TX",
+    "geoid": "4842508",
+    "candidates": [
+      {
+        "Domain name": "cityoflewisvilletx.gov",
+        "Domain type": "City",
+        "Organization name": "City of Lewisville",
+        "Suborganization name": "",
+        "City": "Lewisville",
+        "State": "TX",
+        "Security contact email": "(blank)"
+      }
+    ]
+  },
+  {
+    "city": "Coral Springs",
+    "state": "FL",
+    "geoid": "1214400",
+    "candidates": [
+      {
+        "Domain name": "coralsprings.gov",
+        "Domain type": "City",
+        "Organization name": "City of Coral Springs",
+        "Suborganization name": "",
+        "City": "CORAL SPRINGS",
+        "State": "FL",
+        "Security contact email": "gribeiro@coralsprings.gov"
+      }
+    ]
+  },
+  {
+    "city": "New Haven",
+    "state": "CT",
+    "geoid": "0952000",
+    "candidates": [
+      {
+        "Domain name": "newhavenct.gov",
+        "Domain type": "City",
+        "Organization name": "City of New Haven Connecticut",
+        "Suborganization name": "",
+        "City": "New Haven",
+        "State": "CT",
+        "Security contact email": "rvalli@newhavenct.gov"
+      }
+    ]
+  },
+  {
+    "city": "Fullerton",
+    "state": "CA",
+    "geoid": "0628000",
+    "candidates": [
+      {
+        "Domain name": "fullertonca.gov",
+        "Domain type": "City",
+        "Organization name": "City of Fullerton",
+        "Suborganization name": "",
+        "City": "Fullerton",
+        "State": "CA",
+        "Security contact email": "email.security@cityoffullerton.com"
+      }
+    ]
+  },
+  {
+    "city": "Torrance",
+    "state": "CA",
+    "geoid": "0680000",
+    "candidates": [
+      {
+        "Domain name": "torranceca.gov",
+        "Domain type": "City",
+        "Organization name": "City Of Torrance",
+        "Suborganization name": "",
+        "City": "Torrance",
+        "State": "CA",
+        "Security contact email": "(blank)"
+      },
+      {
+        "Domain name": "cityoftorranceca.gov",
+        "Domain type": "City",
+        "Organization name": "City Of Torrance",
+        "Suborganization name": "",
+        "City": "Torrance",
+        "State": "CA",
+        "Security contact email": "(blank)"
+      }
+    ]
+  },
+  {
+    "city": "Orange",
+    "state": "CA",
+    "geoid": "0653980",
+    "candidates": [
+      {
+        "Domain name": "orangeca.gov",
+        "Domain type": "City",
+        "Organization name": "City of Orange",
+        "Suborganization name": "",
+        "City": "Orange",
+        "State": "CA",
+        "Security contact email": "systemadmins@orangeca.gov"
+      }
+    ]
+  },
+  {
+    "city": "Cedar Rapids",
+    "state": "IA",
+    "geoid": "1912000",
+    "candidates": []
+  },
+  {
+    "city": "West Valley City",
+    "state": "UT",
+    "geoid": "4983470",
+    "candidates": []
+  },
+  {
+    "city": "Hampton",
+    "state": "VA",
+    "geoid": "5135000",
+    "candidates": [
+      {
+        "Domain name": "hampton.gov",
+        "Domain type": "City",
+        "Organization name": "City of Hampton",
+        "Suborganization name": "",
+        "City": "Hampton",
+        "State": "VA",
+        "Security contact email": "(blank)"
+      },
+      {
+        "Domain name": "hamptonva.gov",
+        "Domain type": "City",
+        "Organization name": "City of Hampton, VA",
+        "Suborganization name": "",
+        "City": "Hampton",
+        "State": "VA",
+        "Security contact email": "(blank)"
+      }
+    ]
+  },
+  {
+    "city": "Warren",
+    "state": "MI",
+    "geoid": "2684000",
+    "candidates": [
+      {
+        "Domain name": "warrenmi.gov",
+        "Domain type": "City",
+        "Organization name": "City of Warren",
+        "Suborganization name": "",
+        "City": "Warren",
+        "State": "MI",
+        "Security contact email": "shakim@cityofwarren.org"
+      }
+    ]
+  },
+  {
+    "city": "Dayton",
+    "state": "OH",
+    "geoid": "3921000",
+    "candidates": [
+      {
+        "Domain name": "daytonohio.gov",
+        "Domain type": "City",
+        "Organization name": "City of Dayton",
+        "Suborganization name": "",
+        "City": "Dayton",
+        "State": "OH",
+        "Security contact email": "security@daytonohio.gov"
+      }
+    ]
+  },
+  {
+    "city": "Fargo",
+    "state": "ND",
+    "geoid": "3825700",
+    "candidates": [
+      {
+        "Domain name": "fargond.gov",
+        "Domain type": "City",
+        "Organization name": "City of Fargo",
+        "Suborganization name": "",
+        "City": "Fargo",
+        "State": "ND",
+        "Security contact email": "security@fargond.gov"
+      },
+      {
+        "Domain name": "fargo-nd.gov",
+        "Domain type": "City",
+        "Organization name": "City of Fargo",
+        "Suborganization name": "",
+        "City": "Fargo",
+        "State": "ND",
+        "Security contact email": "security@FargoND.GOV"
+      },
+      {
+        "Domain name": "cityoffargo-nd.gov",
+        "Domain type": "City",
+        "Organization name": "City of Fargo",
+        "Suborganization name": "",
+        "City": "Fargo",
+        "State": "ND",
+        "Security contact email": "security@FargoND.GOV"
+      }
+    ]
+  },
+  {
+    "city": "Pasadena",
+    "state": "CA",
+    "geoid": "0656000",
+    "candidates": [
+      {
+        "Domain name": "pasadena.gov",
+        "Domain type": "City",
+        "Organization name": "City of Pasadena",
+        "Suborganization name": "",
+        "City": "Pasadena",
+        "State": "CA",
+        "Security contact email": "security@cityofpasadena.net"
+      }
+    ]
+  },
+  {
+    "city": "Kent",
+    "state": "WA",
+    "geoid": "5335415",
+    "candidates": [
+      {
+        "Domain name": "kentwa.gov",
+        "Domain type": "City",
+        "Organization name": "City of Kent",
+        "Suborganization name": "",
+        "City": "Kent",
+        "State": "WA",
+        "Security contact email": "KentWASecurityPOC@kentwa.gov"
+      }
+    ]
+  },
+  {
+    "city": "Carrollton",
+    "state": "TX",
+    "geoid": "4813024",
+    "candidates": [
+      {
+        "Domain name": "carrolltontx.gov",
+        "Domain type": "City",
+        "Organization name": "City of Carrollton",
+        "Suborganization name": "",
+        "City": "Carrollton",
+        "State": "TX",
+        "Security contact email": "security@cityofcarrollton.com"
+      }
+    ]
+  },
+  {
+    "city": "Sterling Heights",
+    "state": "MI",
+    "geoid": "2676460",
+    "candidates": [
+      {
+        "Domain name": "sterlingheights.gov",
+        "Domain type": "City",
+        "Organization name": "City of Sterling Heights",
+        "Suborganization name": "",
+        "City": "Sterling Heights",
+        "State": "MI",
+        "Security contact email": "it@sterling-heights.net"
+      },
+      {
+        "Domain name": "sterlingheightsmi.gov",
+        "Domain type": "City",
+        "Organization name": "City of Sterling Heights",
+        "Suborganization name": "",
+        "City": "Sterling Heights",
+        "State": "MI",
+        "Security contact email": "it@sterling-heights.net"
+      }
+    ]
+  },
+  {
+    "city": "Santa Clara",
+    "state": "CA",
+    "geoid": "0669084",
+    "candidates": [
+      {
+        "Domain name": "santaclaraca.gov",
+        "Domain type": "City",
+        "Organization name": "City of Santa Clara",
+        "Suborganization name": "",
+        "City": "Santa Clara",
+        "State": "CA",
+        "Security contact email": "security@santaclaraca.gov"
+      }
+    ]
+  },
+  {
+    "city": "Abilene",
+    "state": "TX",
+    "geoid": "4801000",
+    "candidates": [
+      {
+        "Domain name": "abilenetx.gov",
+        "Domain type": "City",
+        "Organization name": "City of Abilene",
+        "Suborganization name": "",
+        "City": "Abilene",
+        "State": "TX",
+        "Security contact email": "phillip.brewer@abilenetx.gov"
+      },
+      {
+        "Domain name": "downtownabilenetx.gov",
+        "Domain type": "City",
+        "Organization name": "City of Abilene",
+        "Suborganization name": "",
+        "City": "ABILENE",
+        "State": "TX",
+        "Security contact email": "phillip.brewer@abilenetx.gov"
+      }
+    ]
+  },
+  {
+    "city": "Norman",
+    "state": "OK",
+    "geoid": "4052500",
+    "candidates": [
+      {
+        "Domain name": "normanok.gov",
+        "Domain type": "City",
+        "Organization name": "City of Norman",
+        "Suborganization name": "",
+        "City": "Norman",
+        "State": "OK",
+        "Security contact email": "webteam@normanok.gov"
+      }
+    ]
+  },
+  {
+    "city": "Columbia",
+    "state": "MO",
+    "geoid": "2915670",
+    "candidates": []
+  },
+  {
+    "city": "Pearland",
+    "state": "TX",
+    "geoid": "4856348",
+    "candidates": [
+      {
+        "Domain name": "pearlandtx.gov",
+        "Domain type": "City",
+        "Organization name": "City of Pearland",
+        "Suborganization name": "",
+        "City": "Pearland",
+        "State": "TX",
+        "Security contact email": "soc@pearlandtx.gov"
+      }
+    ]
+  },
+  {
+    "city": "Clovis",
+    "state": "CA",
+    "geoid": "0614218",
+    "candidates": [
+      {
+        "Domain name": "clovisca.gov",
+        "Domain type": "City",
+        "Organization name": "City of Clovis",
+        "Suborganization name": "",
+        "City": "Clovis",
+        "State": "CA",
+        "Security contact email": "security@clovisca.gov"
+      }
+    ]
+  },
+  {
+    "city": "North Charleston",
+    "state": "SC",
+    "geoid": "4550875",
+    "candidates": [
+      {
+        "Domain name": "northcharlestonsc.gov",
+        "Domain type": "City",
+        "Organization name": "City of North Charleston",
+        "Suborganization name": "",
+        "City": "North Charleston",
+        "State": "SC",
+        "Security contact email": "mis@northcharleston.org"
+      }
+    ]
+  },
+  {
+    "city": "Athens",
+    "state": "GA",
+    "geoid": "1303440",
+    "candidates": []
+  },
+  {
+    "city": "College Station",
+    "state": "TX",
+    "geoid": "4815976",
+    "candidates": [
+      {
+        "Domain name": "cstx.gov",
+        "Domain type": "City",
+        "Organization name": "City of College Station",
+        "Suborganization name": "",
+        "City": "College Station",
+        "State": "TX",
+        "Security contact email": "(blank)"
+      }
+    ]
+  },
+  {
+    "city": "West Palm Beach",
+    "state": "FL",
+    "geoid": "1276600",
+    "candidates": []
+  },
+  {
+    "city": "Wilmington",
+    "state": "NC",
+    "geoid": "3774440",
+    "candidates": [
+      {
+        "Domain name": "wilmingtonnc.gov",
+        "Domain type": "City",
+        "Organization name": "City of Wilmington",
+        "Suborganization name": "",
+        "City": "Wilmington",
+        "State": "NC",
+        "Security contact email": "jonathan.hobbs@wilmingtonnc.gov"
+      },
+      {
+        "Domain name": "wilmington-nc.gov",
+        "Domain type": "City",
+        "Organization name": "City of Wilmington",
+        "Suborganization name": "",
+        "City": "Wilmington",
+        "State": "NC",
+        "Security contact email": "jonathan.hobbs@wilmingtonnc.gov"
+      }
+    ]
+  },
+  {
+    "city": "Allentown",
+    "state": "PA",
+    "geoid": "4202000",
+    "candidates": [
+      {
+        "Domain name": "allentownpa.gov",
+        "Domain type": "City",
+        "Organization name": "City of Allentown",
+        "Suborganization name": "",
+        "City": "Allentown",
+        "State": "PA",
+        "Security contact email": "soc@allentownpa.gov"
+      }
+    ]
+  },
+  {
+    "city": "Topeka",
+    "state": "KS",
+    "geoid": "2071000",
+    "candidates": [
+      {
+        "Domain name": "topeka.gov",
+        "Domain type": "City",
+        "Organization name": "City of Topeka",
+        "Suborganization name": "",
+        "City": "Topeka",
+        "State": "KS",
+        "Security contact email": "itsecurity@topeka.org"
+      }
+    ]
+  },
+  {
+    "city": "Lakeland",
+    "state": "FL",
+    "geoid": "1238250",
+    "candidates": [
+      {
+        "Domain name": "lakelandfl.gov",
+        "Domain type": "City",
+        "Organization name": "City of Lakeland Florida",
+        "Suborganization name": "",
+        "City": "Lakeland",
+        "State": "FL",
+        "Security contact email": "(blank)"
+      }
+    ]
+  },
+  {
+    "city": "Buckeye",
+    "state": "AZ",
+    "geoid": "0407940",
+    "candidates": [
+      {
+        "Domain name": "buckeyeaz.gov",
+        "Domain type": "City",
+        "Organization name": "City of Buckeye",
+        "Suborganization name": "",
+        "City": "Buckeye",
+        "State": "AZ",
+        "Security contact email": "nstraabe@buckeyeaz.gov"
+      }
+    ]
+  },
+  {
+    "city": "Goodyear",
+    "state": "AZ",
+    "geoid": "0428380",
+    "candidates": [
+      {
+        "Domain name": "goodyearaz.gov",
+        "Domain type": "City",
+        "Organization name": "City of Goodyear",
+        "Suborganization name": "",
+        "City": "Goodyear",
+        "State": "AZ",
+        "Security contact email": "DL-IT-Security@goodyearaz.gov"
+      }
+    ]
+  },
+  {
+    "city": "Broken Arrow",
+    "state": "OK",
+    "geoid": "4009050",
+    "candidates": [
+      {
+        "Domain name": "brokenarrowok.gov",
+        "Domain type": "City",
+        "Organization name": "City of Broken Arrow",
+        "Suborganization name": "",
+        "City": "Broken Arrow",
+        "State": "OK",
+        "Security contact email": "cobryant@brokenarrowok.gov"
+      }
+    ]
+  },
+  {
+    "city": "Simi Valley",
+    "state": "CA",
+    "geoid": "0672016",
+    "candidates": [
+      {
+        "Domain name": "simivalley.gov",
+        "Domain type": "City",
+        "Organization name": "City of Simi Valley",
+        "Suborganization name": "",
+        "City": "Simi Valley",
+        "State": "CA",
+        "Security contact email": "abuse@simivalley.org"
+      }
+    ]
+  },
+  {
+    "city": "Rochester",
+    "state": "MN",
+    "geoid": "2754880",
+    "candidates": [
+      {
+        "Domain name": "rochestermn.gov",
+        "Domain type": "City",
+        "Organization name": "The City of Rochester",
+        "Suborganization name": "",
+        "City": "Rochester",
+        "State": "MN",
+        "Security contact email": "(blank)"
+      }
+    ]
+  },
+  {
+    "city": "Lafayette",
+    "state": "LA",
+    "geoid": "2240735",
+    "candidates": [
+      {
+        "Domain name": "lafayettela.gov",
+        "Domain type": "City",
+        "Organization name": "Lafayette City-Parish Consolidated Government",
+        "Suborganization name": "",
+        "City": "Lafayette",
+        "State": "LA",
+        "Security contact email": "(blank)"
+      }
+    ]
+  },
+  {
+    "city": "Vallejo",
+    "state": "CA",
+    "geoid": "0681666",
+    "candidates": [
+      {
+        "Domain name": "vallejo.gov",
+        "Domain type": "City",
+        "Organization name": "City of Vallejo",
+        "Suborganization name": "",
+        "City": "Vallejo",
+        "State": "CA",
+        "Security contact email": "networkadmins@cityofvallejo.net"
+      }
+    ]
+  },
+  {
+    "city": "Concord",
+    "state": "CA",
+    "geoid": "0616000",
+    "candidates": []
+  },
+  {
+    "city": "Arvada",
+    "state": "CO",
+    "geoid": "0803455",
+    "candidates": [
+      {
+        "Domain name": "arvadaco.gov",
+        "Domain type": "City",
+        "Organization name": "City of Arvada",
+        "Suborganization name": "",
+        "City": "Arvada",
+        "State": "CO",
+        "Security contact email": "itsecurity@arvada.org"
+      }
+    ]
+  },
+  {
+    "city": "Odessa",
+    "state": "TX",
+    "geoid": "4853388",
+    "candidates": [
+      {
+        "Domain name": "odessa-tx.gov",
+        "Domain type": "City",
+        "Organization name": "City of Odessa",
+        "Suborganization name": "",
+        "City": "Odessa",
+        "State": "TX",
+        "Security contact email": "odessait@odessa-tx.gov"
+      }
+    ]
+  },
+  {
+    "city": "Cambridge",
+    "state": "MA",
+    "geoid": "2511000",
+    "candidates": [
+      {
+        "Domain name": "cambridgema.gov",
+        "Domain type": "City",
+        "Organization name": "City of Cambridge, Ma",
+        "Suborganization name": "",
+        "City": "Cambridge",
+        "State": "MA",
+        "Security contact email": "smaywalt@cambridgema.gov"
+      }
+    ]
+  },
+  {
+    "city": "New Braunfels",
+    "state": "TX",
+    "geoid": "4850820",
+    "candidates": [
+      {
+        "Domain name": "newbraunfels.gov",
+        "Domain type": "City",
+        "Organization name": "City of New Braunfels",
+        "Suborganization name": "",
+        "City": "New Braunfels",
+        "State": "TX",
+        "Security contact email": "tgonzalez@newbraunfels.gov"
+      }
+    ]
+  },
+  {
+    "city": "Fairfield",
+    "state": "CA",
+    "geoid": "0623182",
+    "candidates": []
+  },
+  {
+    "city": "Ann Arbor",
+    "state": "MI",
+    "geoid": "2603000",
+    "candidates": []
+  },
+  {
+    "city": "Thousand Oaks",
+    "state": "CA",
+    "geoid": "0678582",
+    "candidates": [
+      {
+        "Domain name": "toaks.gov",
+        "Domain type": "City",
+        "Organization name": "City of Thousand Oaks",
+        "Suborganization name": "",
+        "City": "Thousand Oaks",
+        "State": "CA",
+        "Security contact email": "infosec@toaks.org"
+      }
+    ]
+  },
+  {
+    "city": "Hartford",
+    "state": "CT",
+    "geoid": "0937000",
+    "candidates": [
+      {
+        "Domain name": "hartford.gov",
+        "Domain type": "City",
+        "Organization name": "Metro Hartford Information Services",
+        "Suborganization name": "",
+        "City": "Hartford",
+        "State": "CT",
+        "Security contact email": "Charisse.Snipes@hartfordschools.org"
+      },
+      {
+        "Domain name": "hartfordct.gov",
+        "Domain type": "City",
+        "Organization name": "Metro Hartford Innovation Services",
+        "Suborganization name": "",
+        "City": "Hartford",
+        "State": "CT",
+        "Security contact email": "charisse.snipes@hartfordschools.org"
+      }
+    ]
+  },
+  {
+    "city": "Berkeley",
+    "state": "CA",
+    "geoid": "0606000",
+    "candidates": [
+      {
+        "Domain name": "berkeleyca.gov",
+        "Domain type": "City",
+        "Organization name": "City of Berkeley",
+        "Suborganization name": "",
+        "City": "Berkeley",
+        "State": "CA",
+        "Security contact email": "website_security@cityofberkeley.info"
+      }
+    ]
+  },
+  {
+    "city": "Independence",
+    "state": "MO",
+    "geoid": "2935000",
+    "candidates": [
+      {
+        "Domain name": "independencemo.gov",
+        "Domain type": "City",
+        "Organization name": "City of Independence Missouri",
+        "Suborganization name": "",
+        "City": "Independence",
+        "State": "MO",
+        "Security contact email": "jwitte@indepmo.org"
+      }
+    ]
+  },
+  {
+    "city": "Billings",
+    "state": "MT",
+    "geoid": "3006550",
+    "candidates": [
+      {
+        "Domain name": "billingsmt.gov",
+        "Domain type": "City",
+        "Organization name": "City of Billings",
+        "Suborganization name": "",
+        "City": "Billings",
+        "State": "MT",
+        "Security contact email": "security@billingsmt.gov"
+      }
+    ]
+  },
+  {
+    "city": "High Point",
+    "state": "NC",
+    "geoid": "3731400",
+    "candidates": [
+      {
+        "Domain name": "highpointnc.gov",
+        "Domain type": "City",
+        "Organization name": "City of High Point",
+        "Suborganization name": "",
+        "City": "High Point",
+        "State": "NC",
+        "Security contact email": "(blank)"
+      },
+      {
+        "Domain name": "highpoint-nc.gov",
+        "Domain type": "City",
+        "Organization name": "City of High Point",
+        "Suborganization name": "",
+        "City": "High Point",
+        "State": "NC",
+        "Security contact email": "(blank)"
+      }
+    ]
+  },
+  {
+    "city": "Nampa",
+    "state": "ID",
+    "geoid": "1656260",
+    "candidates": [
+      {
+        "Domain name": "nampa.gov",
+        "Domain type": "City",
+        "Organization name": "City of Nampa",
+        "Suborganization name": "",
+        "City": "Nampa",
+        "State": "ID",
+        "Security contact email": "security@cityofnampa.us"
+      },
+      {
+        "Domain name": "nampaidaho.gov",
+        "Domain type": "City",
+        "Organization name": "City of Nampa",
+        "Suborganization name": "",
+        "City": "Nampa",
+        "State": "ID",
+        "Security contact email": "security@nampa.gov"
+      }
+    ]
+  },
+  {
+    "city": "Lowell",
+    "state": "MA",
+    "geoid": "2537000",
+    "candidates": [
+      {
+        "Domain name": "lowellma.gov",
+        "Domain type": "City",
+        "Organization name": "City of Lowell, Massachusetts",
+        "Suborganization name": "",
+        "City": "Lowell",
+        "State": "MA",
+        "Security contact email": "mishelp@lowellma.gov"
+      }
+    ]
+  },
+  {
+    "city": "League City",
+    "state": "TX",
+    "geoid": "4841980",
+    "candidates": [
+      {
+        "Domain name": "leaguecitytx.gov",
+        "Domain type": "City",
+        "Organization name": "City of League City",
+        "Suborganization name": "",
+        "City": "League City",
+        "State": "TX",
+        "Security contact email": "noc@leaguecitytx.gov"
+      },
+      {
+        "Domain name": "leaguecitytexas.gov",
+        "Domain type": "City",
+        "Organization name": "City of League City",
+        "Suborganization name": "",
+        "City": "League City",
+        "State": "TX",
+        "Security contact email": "noc@leaguecitytx.gov"
+      }
+    ]
+  },
+  {
+    "city": "Conroe",
+    "state": "TX",
+    "geoid": "4816432",
+    "candidates": [
+      {
+        "Domain name": "cityofconroe.gov",
+        "Domain type": "City",
+        "Organization name": "City of Conroe",
+        "Suborganization name": "",
+        "City": "Conroe",
+        "State": "TX",
+        "Security contact email": "security@cityofconroe.org"
+      }
+    ]
+  },
+  {
+    "city": "Antioch",
+    "state": "CA",
+    "geoid": "0602252",
+    "candidates": [
+      {
+        "Domain name": "antiochca.gov",
+        "Domain type": "City",
+        "Organization name": "City of Antioch",
+        "Suborganization name": "",
+        "City": "Antioch",
+        "State": "CA",
+        "Security contact email": "InformationSystems@antiochca.gov"
+      },
+      {
+        "Domain name": "antiochcaboard.gov",
+        "Domain type": "City",
+        "Organization name": "City of Antioch",
+        "Suborganization name": "",
+        "City": "Antioch",
+        "State": "CA",
+        "Security contact email": "InformationSystems@antiochca.gov"
+      },
+      {
+        "Domain name": "antiochcacommittee.gov",
+        "Domain type": "City",
+        "Organization name": "City of Antioch",
+        "Suborganization name": "",
+        "City": "Antioch",
+        "State": "CA",
+        "Security contact email": "InformationSystems@antiochca.gov"
+      }
+    ]
+  },
+  {
+    "city": "Menifee",
+    "state": "CA",
+    "geoid": "0646842",
+    "candidates": []
+  },
+  {
+    "city": "Richardson",
+    "state": "TX",
+    "geoid": "4861796",
+    "candidates": []
+  },
+  {
+    "city": "Pompano Beach",
+    "state": "FL",
+    "geoid": "1258050",
+    "candidates": [
+      {
+        "Domain name": "pompanobeachfl.gov",
+        "Domain type": "City",
+        "Organization name": "City of Pompano Beach",
+        "Suborganization name": "",
+        "City": "Pompano Beach",
+        "State": "FL",
+        "Security contact email": "matthew.janes@copbfl.com"
+      }
+    ]
+  },
+  {
+    "city": "Las Cruces",
+    "state": "NM",
+    "geoid": "3539380",
+    "candidates": [
+      {
+        "Domain name": "lascruces.gov",
+        "Domain type": "City",
+        "Organization name": "City of Las Cruces",
+        "Suborganization name": "",
+        "City": "Las Cruces",
+        "State": "NM",
+        "Security contact email": "sysadmin@las-cruces.org"
+      }
+    ]
+  },
+  {
+    "city": "Manchester",
+    "state": "NH",
+    "geoid": "3345140",
+    "candidates": [
+      {
+        "Domain name": "manchesternh.gov",
+        "Domain type": "City",
+        "Organization name": "City of Manchester NH",
+        "Suborganization name": "",
+        "City": "Manchester",
+        "State": "NH",
+        "Security contact email": "(blank)"
+      }
+    ]
+  },
+  {
+    "city": "West Jordan",
+    "state": "UT",
+    "geoid": "4982950",
+    "candidates": []
+  },
+  {
+    "city": "Westminster",
+    "state": "CO",
+    "geoid": "0883835",
+    "candidates": [
+      {
+        "Domain name": "westminsterco.gov",
+        "Domain type": "City",
+        "Organization name": "CITY OF WESTMINSTER",
+        "Suborganization name": "",
+        "City": "Westminster",
+        "State": "CO",
+        "Security contact email": "abuse@westminsterco.gov"
+      }
+    ]
+  },
+  {
+    "city": "Evansville",
+    "state": "IN",
+    "geoid": "1822000",
+    "candidates": []
+  },
+  {
+    "city": "Waterbury",
+    "state": "CT",
+    "geoid": "0980000",
+    "candidates": []
+  },
+  {
+    "city": "Elgin",
+    "state": "IL",
+    "geoid": "1723074",
+    "candidates": [
+      {
+        "Domain name": "elginil.gov",
+        "Domain type": "City",
+        "Organization name": "City of Elgin, Illinois",
+        "Suborganization name": "",
+        "City": "Elgin",
+        "State": "IL",
+        "Security contact email": "(blank)"
+      }
+    ]
+  },
+  {
+    "city": "Greeley",
+    "state": "CO",
+    "geoid": "0832155",
+    "candidates": [
+      {
+        "Domain name": "greeleyco.gov",
+        "Domain type": "City",
+        "Organization name": "City of Greeley",
+        "Suborganization name": "",
+        "City": "Greeley",
+        "State": "CO",
+        "Security contact email": "(blank)"
+      }
+    ]
+  },
+  {
+    "city": "Temecula",
+    "state": "CA",
+    "geoid": "0678120",
+    "candidates": [
+      {
+        "Domain name": "temeculaca.gov",
+        "Domain type": "City",
+        "Organization name": "City of Temecula",
+        "Suborganization name": "",
+        "City": "Temecula",
+        "State": "CA",
+        "Security contact email": "Alerts@temeculaca.gov"
+      }
+    ]
+  },
+  {
+    "city": "Richmond",
+    "state": "CA",
+    "geoid": "0660620",
+    "candidates": [
+      {
+        "Domain name": "richmondca.gov",
+        "Domain type": "City",
+        "Organization name": "City of Richmond",
+        "Suborganization name": "",
+        "City": "Richmond",
+        "State": "CA",
+        "Security contact email": "hlei@ci.richmond.ca.us"
+      }
+    ]
+  },
+  {
+    "city": "Concord",
+    "state": "NC",
+    "geoid": "3714100",
+    "candidates": [
+      {
+        "Domain name": "concordnc.gov",
+        "Domain type": "City",
+        "Organization name": "City of Concord",
+        "Suborganization name": "",
+        "City": "Concord",
+        "State": "NC",
+        "Security contact email": "dssecurity@concordnc.gov"
+      }
+    ]
+  },
+  {
+    "city": "Provo",
+    "state": "UT",
+    "geoid": "4962470",
+    "candidates": [
+      {
+        "Domain name": "provo.gov",
+        "Domain type": "City",
+        "Organization name": "Provo City",
+        "Suborganization name": "",
+        "City": "Provo",
+        "State": "UT",
+        "Security contact email": "security@provo.gov"
+      }
+    ]
+  },
+  {
+    "city": "Rio Rancho",
+    "state": "NM",
+    "geoid": "3563460",
+    "candidates": [
+      {
+        "Domain name": "rioranchonm.gov",
+        "Domain type": "City",
+        "Organization name": "City of Rio Rancho",
+        "Suborganization name": "",
+        "City": "Rio Rancho",
+        "State": "NM",
+        "Security contact email": "(blank)"
+      },
+      {
+        "Domain name": "rrnm.gov",
+        "Domain type": "City",
+        "Organization name": "City of Rio Rancho",
+        "Suborganization name": "",
+        "City": "Rio Rancho",
+        "State": "NM",
+        "Security contact email": "(blank)"
+      }
+    ]
+  },
+  {
+    "city": "Clearwater",
+    "state": "FL",
+    "geoid": "1212875",
+    "candidates": []
+  },
+  {
+    "city": "Tuscaloosa",
+    "state": "AL",
+    "geoid": "0177256",
+    "candidates": [
+      {
+        "Domain name": "tuscaloosa-al.gov",
+        "Domain type": "City",
+        "Organization name": "City of Tuscaloosa, AL",
+        "Suborganization name": "",
+        "City": "Tuscaloosa",
+        "State": "AL",
+        "Security contact email": "kgriffin@tuscaloosa.com"
+      }
+    ]
+  },
+  {
+    "city": "Murrieta",
+    "state": "CA",
+    "geoid": "0650076",
+    "candidates": [
+      {
+        "Domain name": "murrietaca.gov",
+        "Domain type": "City",
+        "Organization name": "City of Murrieta",
+        "Suborganization name": "",
+        "City": "Murrieta",
+        "State": "CA",
+        "Security contact email": "admin-notify-g@murrietaca.gov"
+      }
+    ]
+  },
+  {
+    "city": "Lansing",
+    "state": "MI",
+    "geoid": "2646000",
+    "candidates": [
+      {
+        "Domain name": "lansingmi.gov",
+        "Domain type": "City",
+        "Organization name": "City of Lansing - Information Technology",
+        "Suborganization name": "",
+        "City": "Lansing",
+        "State": "MI",
+        "Security contact email": "itsecurity@lansingmi.gov"
+      }
+    ]
+  },
+  {
+    "city": "Tyler",
+    "state": "TX",
+    "geoid": "4874144",
+    "candidates": [
+      {
+        "Domain name": "tylertexas.gov",
+        "Domain type": "City",
+        "Organization name": "City of Tyler",
+        "Suborganization name": "",
+        "City": "Tyler",
+        "State": "TX",
+        "Security contact email": "itsysadmins@tylertexas.com"
+      }
+    ]
+  },
+  {
+    "city": "Miami Gardens",
+    "state": "FL",
+    "geoid": "1245060",
+    "candidates": [
+      {
+        "Domain name": "miamigardens-fl.gov",
+        "Domain type": "City",
+        "Organization name": "City of Miami Gardens",
+        "Suborganization name": "",
+        "City": "Miami Gardens",
+        "State": "FL",
+        "Security contact email": "itreports@miamigardens-fl.gov"
+      }
+    ]
+  },
+  {
+    "city": "Everett",
+    "state": "WA",
+    "geoid": "5322640",
+    "candidates": [
+      {
+        "Domain name": "everettwa.gov",
+        "Domain type": "City",
+        "Organization name": "City of Everett",
+        "Suborganization name": "",
+        "City": "Everett",
+        "State": "WA",
+        "Security contact email": "itnotices@everettwa.gov"
+      }
+    ]
+  },
+  {
+    "city": "Allen",
+    "state": "TX",
+    "geoid": "4801924",
+    "candidates": [
+      {
+        "Domain name": "allentx.gov",
+        "Domain type": "City",
+        "Organization name": "City of Allen",
+        "Suborganization name": "",
+        "City": "Allen",
+        "State": "TX",
+        "Security contact email": "italerts@cityofallen.org"
+      }
+    ]
+  },
+  {
+    "city": "Springfield",
+    "state": "IL",
+    "geoid": "1772000",
+    "candidates": []
+  },
+  {
+    "city": "Beaumont",
+    "state": "TX",
+    "geoid": "4807000",
+    "candidates": [
+      {
+        "Domain name": "beaumonttexas.gov",
+        "Domain type": "City",
+        "Organization name": "City of Beaumont",
+        "Suborganization name": "",
+        "City": "Beaumont",
+        "State": "TX",
+        "Security contact email": "webmaster@beaumonttexas.gov"
+      }
+    ]
+  },
+  {
+    "city": "South Fulton",
+    "state": "GA",
+    "geoid": "1372122",
+    "candidates": [
+      {
+        "Domain name": "cityofsouthfultonga.gov",
+        "Domain type": "City",
+        "Organization name": "City of South Fulton",
+        "Suborganization name": "",
+        "City": "South Fulton",
+        "State": "GA",
+        "Security contact email": "itsystemsteam@cityofsouthfultonga.gov"
+      }
+    ]
+  },
+  {
+    "city": "Carlsbad",
+    "state": "CA",
+    "geoid": "0611194",
+    "candidates": [
+      {
+        "Domain name": "carlsbadca.gov",
+        "Domain type": "City",
+        "Organization name": "City of Carlsbad",
+        "Suborganization name": "",
+        "City": "Carlsbad",
+        "State": "CA",
+        "Security contact email": "security@carlsbadca.gov"
+      }
+    ]
+  },
+  {
+    "city": "Sparks",
+    "state": "NV",
+    "geoid": "3268400",
+    "candidates": []
+  },
+  {
+    "city": "Gresham",
+    "state": "OR",
+    "geoid": "4131250",
+    "candidates": [
+      {
+        "Domain name": "greshamoregon.gov",
+        "Domain type": "City",
+        "Organization name": "City of Gresham",
+        "Suborganization name": "",
+        "City": "Gresham",
+        "State": "OR",
+        "Security contact email": "webalerts@greshamoregon.gov"
+      }
+    ]
+  },
+  {
+    "city": "Santa Maria",
+    "state": "CA",
+    "geoid": "0669196",
+    "candidates": []
+  },
+  {
+    "city": "Hillsboro",
+    "state": "OR",
+    "geoid": "4134100",
+    "candidates": [
+      {
+        "Domain name": "hillsboro-oregon.gov",
+        "Domain type": "City",
+        "Organization name": "City of Hillsboro",
+        "Suborganization name": "",
+        "City": "Hillsboro",
+        "State": "OR",
+        "Security contact email": "security@hillsboro-oregon.gov"
+      }
+    ]
+  },
+  {
+    "city": "Peoria",
+    "state": "IL",
+    "geoid": "1759000",
+    "candidates": [
+      {
+        "Domain name": "peoriail.gov",
+        "Domain type": "City",
+        "Organization name": "City of Peoria",
+        "Suborganization name": "",
+        "City": "Peoria",
+        "State": "IL",
+        "Security contact email": "helpdesk@peoriagov.org"
+      }
+    ]
+  },
+  {
+    "city": "Davie",
+    "state": "FL",
+    "geoid": "1216475",
+    "candidates": [
+      {
+        "Domain name": "davie-fl.gov",
+        "Domain type": "City",
+        "Organization name": "Town of Davie",
+        "Suborganization name": "",
+        "City": "Davie",
+        "State": "FL",
+        "Security contact email": "securityalerts@davie-fl.gov"
+      }
+    ]
+  },
+  {
+    "city": "Edinburg",
+    "state": "TX",
+    "geoid": "4822660",
+    "candidates": []
+  },
+  {
+    "city": "Pueblo",
+    "state": "CO",
+    "geoid": "0862000",
+    "candidates": []
+  },
+  {
+    "city": "Ventura",
+    "state": "CA",
+    "geoid": "0665042",
+    "candidates": []
+  },
+  {
+    "city": "Palm Coast",
+    "state": "FL",
+    "geoid": "1254200",
+    "candidates": [
+      {
+        "Domain name": "palmcoast.gov",
+        "Domain type": "City",
+        "Organization name": "City of Palm Coast",
+        "Suborganization name": "",
+        "City": "Palm Coast",
+        "State": "FL",
+        "Security contact email": "itapps@palmcoastgov.com"
+      }
+    ]
+  },
+  {
+    "city": "Costa Mesa",
+    "state": "CA",
+    "geoid": "0616532",
+    "candidates": [
+      {
+        "Domain name": "costamesaca.gov",
+        "Domain type": "City",
+        "Organization name": "City of Costa Mesa",
+        "Suborganization name": "",
+        "City": "Costa Mesa",
+        "State": "CA",
+        "Security contact email": "tony.dodero@costamesaca.gov"
+      }
+    ]
+  },
+  {
+    "city": "St. George",
+    "state": "UT",
+    "geoid": "4965330",
+    "candidates": [
+      {
+        "Domain name": "sgcityutah.gov",
+        "Domain type": "City",
+        "Organization name": "City of St. George",
+        "Suborganization name": "",
+        "City": "St. George",
+        "State": "UT",
+        "Security contact email": "(blank)"
+      }
+    ]
+  },
+  {
+    "city": "Centennial",
+    "state": "CO",
+    "geoid": "0812815",
+    "candidates": [
+      {
+        "Domain name": "centennialco.gov",
+        "Domain type": "City",
+        "Organization name": "CIty of Centennial",
+        "Suborganization name": "",
+        "City": "Centennial",
+        "State": "CO",
+        "Security contact email": "hhedden@centennialco.gov"
+      }
+    ]
+  },
+  {
+    "city": "Downey",
+    "state": "CA",
+    "geoid": "0619766",
+    "candidates": []
+  },
+  {
+    "city": "Spokane Valley",
+    "state": "WA",
+    "geoid": "5367167",
+    "candidates": [
+      {
+        "Domain name": "spokanevalleywa.gov",
+        "Domain type": "City",
+        "Organization name": "City of Spokane Valley",
+        "Suborganization name": "",
+        "City": "Spokane Valley",
+        "State": "WA",
+        "Security contact email": "security@spokanevalley.org"
+      }
+    ]
+  },
+  {
+    "city": "Sugar Land",
+    "state": "TX",
+    "geoid": "4870808",
+    "candidates": [
+      {
+        "Domain name": "sugarlandtx.gov",
+        "Domain type": "City",
+        "Organization name": "City of Sugar Land",
+        "Suborganization name": "",
+        "City": "Sugar Land",
+        "State": "TX",
+        "Security contact email": "admin@sugarlandtx.gov"
+      }
+    ]
+  },
+  {
+    "city": "Lee's Summit",
+    "state": "MO",
+    "geoid": "2941348",
+    "candidates": []
+  },
+  {
+    "city": "Bend",
+    "state": "OR",
+    "geoid": "4105800",
+    "candidates": [
+      {
+        "Domain name": "bendoregon.gov",
+        "Domain type": "City",
+        "Organization name": "City of Bend",
+        "Suborganization name": "",
+        "City": "Bend",
+        "State": "OR",
+        "Security contact email": "Cybersecurityteam@bendoregon.gov"
+      }
+    ]
+  },
+  {
+    "city": "Jurupa Valley",
+    "state": "CA",
+    "geoid": "0637692",
+    "candidates": [
+      {
+        "Domain name": "jurupavalley.gov",
+        "Domain type": "City",
+        "Organization name": "City of Jurupa Valley",
+        "Suborganization name": "",
+        "City": "Jurupa Valley",
+        "State": "CA",
+        "Security contact email": "(blank)"
+      }
+    ]
+  },
+  {
+    "city": "Georgetown",
+    "state": "TX",
+    "geoid": "4829336",
+    "candidates": []
+  },
+  {
+    "city": "Green Bay",
+    "state": "WI",
+    "geoid": "5531000",
+    "candidates": [
+      {
+        "Domain name": "greenbaywi.gov",
+        "Domain type": "City",
+        "Organization name": "City of Green Bay",
+        "Suborganization name": "",
+        "City": "Green Bay",
+        "State": "WI",
+        "Security contact email": "helpdesk@greenbaywi.gov"
+      }
+    ]
+  },
+  {
+    "city": "Fayetteville",
+    "state": "AR",
+    "geoid": "0523290",
+    "candidates": [
+      {
+        "Domain name": "fayetteville-ar.gov",
+        "Domain type": "City",
+        "Organization name": "City of Fayetteville",
+        "Suborganization name": "",
+        "City": "Fayetteville",
+        "State": "AR",
+        "Security contact email": "bfulmer@fayetteville-ar.gov"
+      }
+    ]
+  },
+  {
+    "city": "Rialto",
+    "state": "CA",
+    "geoid": "0660466",
+    "candidates": [
+      {
+        "Domain name": "rialtoca.gov",
+        "Domain type": "City",
+        "Organization name": "City of Rialto",
+        "Suborganization name": "",
+        "City": "Rialto",
+        "State": "CA",
+        "Security contact email": "(blank)"
+      }
+    ]
+  },
+  {
+    "city": "Brockton",
+    "state": "MA",
+    "geoid": "2509000",
+    "candidates": [
+      {
+        "Domain name": "brockton.gov",
+        "Domain type": "City",
+        "Organization name": "City of Brockton",
+        "Suborganization name": "",
+        "City": "Brockton",
+        "State": "MA",
+        "Security contact email": "(blank)"
+      },
+      {
+        "Domain name": "brockton-ma.gov",
+        "Domain type": "City",
+        "Organization name": "City of Brockton",
+        "Suborganization name": "",
+        "City": "Brockton",
+        "State": "MA",
+        "Security contact email": "itcenter@cobma.us"
+      }
+    ]
+  },
+  {
+    "city": "Boulder",
+    "state": "CO",
+    "geoid": "0807850",
+    "candidates": [
+      {
+        "Domain name": "bouldercolorado.gov",
+        "Domain type": "City",
+        "Organization name": "City of Boulder",
+        "Suborganization name": "",
+        "City": "Boulder",
+        "State": "CO",
+        "Security contact email": "abuse@bouldercolorado.gov"
+      }
+    ]
+  },
+  {
+    "city": "Carmel",
+    "state": "IN",
+    "geoid": "1810342",
+    "candidates": [
+      {
+        "Domain name": "carmelindiana.gov",
+        "Domain type": "City",
+        "Organization name": "City of Carmel",
+        "Suborganization name": "",
+        "City": "Carmel",
+        "State": "IN",
+        "Security contact email": "securityalerts@carmel.in.gov"
+      }
+    ]
+  },
+  {
+    "city": "Dearborn",
+    "state": "MI",
+    "geoid": "2621000",
+    "candidates": [
+      {
+        "Domain name": "dearborn.gov",
+        "Domain type": "City",
+        "Organization name": "City of Dearborn",
+        "Suborganization name": "",
+        "City": "Dearborn",
+        "State": "MI",
+        "Security contact email": "oberry@ci.dearborn.mi.us"
+      }
+    ]
+  },
+  {
+    "city": "West Covina",
+    "state": "CA",
+    "geoid": "0684200",
+    "candidates": []
+  },
+  {
+    "city": "Yuma",
+    "state": "AZ",
+    "geoid": "0485540",
+    "candidates": [
+      {
+        "Domain name": "yumaaz.gov",
+        "Domain type": "City",
+        "Organization name": "City of Yuma",
+        "Suborganization name": "",
+        "City": "Yuma",
+        "State": "AZ",
+        "Security contact email": "security@yumaaz.gov"
+      }
+    ]
+  },
+  {
+    "city": "Chico",
+    "state": "CA",
+    "geoid": "0613014",
+    "candidates": [
+      {
+        "Domain name": "chicoca.gov",
+        "Domain type": "City",
+        "Organization name": "City of Chico",
+        "Suborganization name": "",
+        "City": "Chico",
+        "State": "CA",
+        "Security contact email": "james.fisher@chicoca.gov"
+      }
+    ]
+  },
+  {
+    "city": "El Monte",
+    "state": "CA",
+    "geoid": "0622230",
+    "candidates": [
+      {
+        "Domain name": "elmonteca.gov",
+        "Domain type": "City",
+        "Organization name": "City of El Monte",
+        "Suborganization name": "",
+        "City": "El Monte",
+        "State": "CA",
+        "Security contact email": "ismanager@elmontepd.org"
+      }
+    ]
+  },
+  {
+    "city": "Sandy Springs",
+    "state": "GA",
+    "geoid": "1368516",
+    "candidates": [
+      {
+        "Domain name": "sandyspringsga.gov",
+        "Domain type": "City",
+        "Organization name": "City of Sandy Springs",
+        "Suborganization name": "",
+        "City": "Sandy Springs",
+        "State": "GA",
+        "Security contact email": "servicedesk@sandyspringsga.gov"
+      }
+    ]
+  },
+  {
+    "city": "Renton",
+    "state": "WA",
+    "geoid": "5357745",
+    "candidates": [
+      {
+        "Domain name": "rentonwa.gov",
+        "Domain type": "City",
+        "Organization name": "City of Renton",
+        "Suborganization name": "",
+        "City": "Renton",
+        "State": "WA",
+        "Security contact email": "btietjen@rentonwa.gov"
+      }
+    ]
+  },
+  {
+    "city": "Fishers",
+    "state": "IN",
+    "geoid": "1823278",
+    "candidates": [
+      {
+        "Domain name": "fishersin.gov",
+        "Domain type": "City",
+        "Organization name": "City of Fishers",
+        "Suborganization name": "",
+        "City": "Fishers",
+        "State": "IN",
+        "Security contact email": "securityalerts@fishersin.gov"
+      }
+    ]
+  },
+  {
+    "city": "Suffolk",
+    "state": "VA",
+    "geoid": "5176432",
+    "candidates": []
+  },
+  {
+    "city": "Lynn",
+    "state": "MA",
+    "geoid": "2537490",
+    "candidates": [
+      {
+        "Domain name": "lynnma.gov",
+        "Domain type": "City",
+        "Organization name": "City of Lynn Ma.",
+        "Suborganization name": "",
+        "City": "Lynn",
+        "State": "MA",
+        "Security contact email": "(blank)"
+      }
+    ]
+  },
+  {
+    "city": "Vacaville",
+    "state": "CA",
+    "geoid": "0681554",
+    "candidates": [
+      {
+        "Domain name": "cityofvacaville.gov",
+        "Domain type": "City",
+        "Organization name": "City of Vacaville",
+        "Suborganization name": "",
+        "City": "Vacaville",
+        "State": "CA",
+        "Security contact email": "communications@cityofvacaville.com"
+      }
+    ]
+  },
+  {
+    "city": "San Mateo",
+    "state": "CA",
+    "geoid": "0668252",
+    "candidates": [
+      {
+        "Domain name": "cityofsanmateoca.gov",
+        "Domain type": "City",
+        "Organization name": "City of San Mateo",
+        "Suborganization name": "",
+        "City": "San Mateo",
+        "State": "CA",
+        "Security contact email": "systemsnetworks@cityofsanmateo.org"
+      }
+    ]
+  },
+  {
+    "city": "South Bend",
+    "state": "IN",
+    "geoid": "1871000",
+    "candidates": [
+      {
+        "Domain name": "southbendin.gov",
+        "Domain type": "City",
+        "Organization name": "City of South Bend",
+        "Suborganization name": "",
+        "City": "South Bend",
+        "State": "IN",
+        "Security contact email": "DL-iTeam@southbendin.gov"
+      }
+    ]
+  },
+  {
+    "city": "Quincy",
+    "state": "MA",
+    "geoid": "2555745",
+    "candidates": [
+      {
+        "Domain name": "quincyma.gov",
+        "Domain type": "City",
+        "Organization name": "City of Quincy",
+        "Suborganization name": "",
+        "City": "Quincy",
+        "State": "MA",
+        "Security contact email": "bglavin@quincyma.gov"
+      }
+    ]
+  },
+  {
+    "city": "Burbank",
+    "state": "CA",
+    "geoid": "0608954",
+    "candidates": [
+      {
+        "Domain name": "burbankca.gov",
+        "Domain type": "City",
+        "Organization name": "City of Burbank",
+        "Suborganization name": "",
+        "City": "Burbank",
+        "State": "CA",
+        "Security contact email": "security@burbankca.gov"
+      }
+    ]
+  },
+  {
+    "city": "Hesperia",
+    "state": "CA",
+    "geoid": "0633434",
+    "candidates": [
+      {
+        "Domain name": "hesperiaca.gov",
+        "Domain type": "City",
+        "Organization name": "City Of Hesperia",
+        "Suborganization name": "",
+        "City": "Hesperia",
+        "State": "CA",
+        "Security contact email": "it@cityofhesperia.us"
+      }
+    ]
+  },
+  {
+    "city": "Wichita Falls",
+    "state": "TX",
+    "geoid": "4879000",
+    "candidates": [
+      {
+        "Domain name": "wichitafallstx.gov",
+        "Domain type": "City",
+        "Organization name": "City of Wichita Falls",
+        "Suborganization name": "",
+        "City": "Wichita Falls",
+        "State": "TX",
+        "Security contact email": "(blank)"
+      }
+    ]
+  },
+  {
+    "city": "Tracy",
+    "state": "CA",
+    "geoid": "0680238",
+    "candidates": [
+      {
+        "Domain name": "cityoftracyca.gov",
+        "Domain type": "City",
+        "Organization name": "City of Tracy",
+        "Suborganization name": "",
+        "City": "Tracy",
+        "State": "CA",
+        "Security contact email": "(blank)"
+      }
+    ]
+  },
+  {
+    "city": "New Bedford",
+    "state": "MA",
+    "geoid": "2545000",
+    "candidates": [
+      {
+        "Domain name": "newbedford-ma.gov",
+        "Domain type": "City",
+        "Organization name": "City of New Bedford",
+        "Suborganization name": "",
+        "City": "New Bedford",
+        "State": "MA",
+        "Security contact email": "Matthew.Lewis@NewBedford-MA.gov"
+      }
+    ]
+  },
+  {
+    "city": "El Cajon",
+    "state": "CA",
+    "geoid": "0621712",
+    "candidates": [
+      {
+        "Domain name": "elcajon.gov",
+        "Domain type": "City",
+        "Organization name": "City of El Cajon",
+        "Suborganization name": "",
+        "City": "El Cajon",
+        "State": "CA",
+        "Security contact email": "webmaster@cityofelcajon.us"
+      }
+    ]
+  },
+  {
+    "city": "Albany",
+    "state": "NY",
+    "geoid": "3601000",
+    "candidates": [
+      {
+        "Domain name": "albanyny.gov",
+        "Domain type": "City",
+        "Organization name": "City of Albany",
+        "Suborganization name": "",
+        "City": "Albany",
+        "State": "NY",
+        "Security contact email": "networkadministrator@albanyny.gov"
+      }
+    ]
+  },
+  {
+    "city": "Inglewood",
+    "state": "CA",
+    "geoid": "0636546",
+    "candidates": [
+      {
+        "Domain name": "cityofinglewood.gov",
+        "Domain type": "City",
+        "Organization name": "City of Inglewood",
+        "Suborganization name": "",
+        "City": "Inglewood",
+        "State": "CA",
+        "Security contact email": "(blank)"
+      }
+    ]
+  },
+  {
+    "city": "Boca Raton",
+    "state": "FL",
+    "geoid": "1207300",
+    "candidates": [
+      {
+        "Domain name": "bocaraton-fl.gov",
+        "Domain type": "City",
+        "Organization name": "City of Boca Raton",
+        "Suborganization name": "",
+        "City": "Boca Raton",
+        "State": "FL",
+        "Security contact email": "javery@bocaraton-fl.gov"
+      }
+    ]
+  },
+  {
+    "city": "Fort Myers",
+    "state": "FL",
+    "geoid": "1224125",
+    "candidates": [
+      {
+        "Domain name": "fortmyers.gov",
+        "Domain type": "City",
+        "Organization name": "City Of Fort Myers",
+        "Suborganization name": "",
+        "City": "Fort Myers",
+        "State": "FL",
+        "Security contact email": "helpdesk@fortmyers.gov"
+      }
+    ]
+  },
+  {
+    "city": "Daly City",
+    "state": "CA",
+    "geoid": "0617918",
+    "candidates": [
+      {
+        "Domain name": "dalycity.gov",
+        "Domain type": "City",
+        "Organization name": "City of Daly City",
+        "Suborganization name": "",
+        "City": "Daly City",
+        "State": "CA",
+        "Security contact email": "netadmins@dalycity.org"
+      }
+    ]
+  },
+  {
+    "city": "Avondale",
+    "state": "AZ",
+    "geoid": "0404720",
+    "candidates": [
+      {
+        "Domain name": "avondaleaz.gov",
+        "Domain type": "City",
+        "Organization name": "City of Avondale",
+        "Suborganization name": "",
+        "City": "Avondale",
+        "State": "AZ",
+        "Security contact email": "(blank)"
+      }
+    ]
+  },
+  {
+    "city": "San Angelo",
+    "state": "TX",
+    "geoid": "4864472",
+    "candidates": [
+      {
+        "Domain name": "sanangelo.gov",
+        "Domain type": "City",
+        "Organization name": "City of San Angelo",
+        "Suborganization name": "",
+        "City": "San Angelo",
+        "State": "TX",
+        "Security contact email": "wireless@cosatx.us"
+      }
+    ]
+  },
+  {
+    "city": "Edmond",
+    "state": "OK",
+    "geoid": "4023200",
+    "candidates": [
+      {
+        "Domain name": "edmondok.gov",
+        "Domain type": "City",
+        "Organization name": "City of Edmond",
+        "Suborganization name": "",
+        "City": "Edmond",
+        "State": "OK",
+        "Security contact email": "nst@edmondok.gov"
+      }
+    ]
+  },
+  {
+    "city": "Davenport",
+    "state": "IA",
+    "geoid": "1919000",
+    "candidates": []
+  },
+  {
+    "city": "Deltona",
+    "state": "FL",
+    "geoid": "1217200",
+    "candidates": [
+      {
+        "Domain name": "deltonafl.gov",
+        "Domain type": "City",
+        "Organization name": "City Of Deltona",
+        "Suborganization name": "",
+        "City": "Deltona",
+        "State": "FL",
+        "Security contact email": "itsd@deltonafl.gov"
+      }
+    ]
+  },
+  {
+    "city": "Longmont",
+    "state": "CO",
+    "geoid": "0845970",
+    "candidates": [
+      {
+        "Domain name": "longmont.gov",
+        "Domain type": "City",
+        "Organization name": "City of Longmont",
+        "Suborganization name": "",
+        "City": "Longmont",
+        "State": "CO",
+        "Security contact email": "security@longmontcolorado.gov"
+      },
+      {
+        "Domain name": "longmontcolorado.gov",
+        "Domain type": "City",
+        "Organization name": "City of Longmont",
+        "Suborganization name": "",
+        "City": "Longmont",
+        "State": "CO",
+        "Security contact email": "security@longmontcolorado.gov"
+      }
+    ]
+  },
+  {
+    "city": "Wilmington",
+    "state": "DE",
+    "geoid": "1077580",
+    "candidates": [
+      {
+        "Domain name": "wilmingtonde.gov",
+        "Domain type": "City",
+        "Organization name": "City of Wilmington",
+        "Suborganization name": "",
+        "City": "Wilmington",
+        "State": "DE",
+        "Security contact email": "admin@wilmingtonde.gov"
+      }
+    ]
+  },
+  {
+    "city": "Portland",
+    "state": "ME",
+    "geoid": "2360545",
+    "candidates": []
+  },
+  {
+    "city": "Cheyenne",
+    "state": "WY",
+    "geoid": "5613900",
+    "candidates": []
+  },
+  {
+    "city": "Charleston",
+    "state": "WV",
+    "geoid": "5414600",
+    "candidates": [
+      {
+        "Domain name": "charlestonwv.gov",
+        "Domain type": "City",
+        "Organization name": "City of Charleston",
+        "Suborganization name": "",
+        "City": "Charleston",
+        "State": "WV",
+        "Security contact email": "isso@cityofcharleston.org"
+      }
+    ]
+  },
+  {
+    "city": "Burlington",
+    "state": "VT",
+    "geoid": "5010675",
+    "candidates": [
+      {
+        "Domain name": "burlingtonvt.gov",
+        "Domain type": "City",
+        "Organization name": "City of Burlington",
+        "Suborganization name": "",
+        "City": "Burlington",
+        "State": "VT",
+        "Security contact email": "aguerrero@burlingtonvt.gov"
+      }
+    ]
+  }
+]
