@@ -22,3 +22,7 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Service-area generator: offline review page and raw research downloads
+geo/SaveOurSolar-City-Pages-Review.html
+geo/data/source/nasa-tiles/

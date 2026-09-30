@@ -1,0 +1,26 @@
+# Save Our Solar Club
+
+> Residential solar maintenance, repair coordination, monitoring, and dispatch support through a nationwide network of solar professionals.
+
+Save Our Solar Club is operated by SaveOurSolar LTD. Its listed office is 7535 East Hampden Avenue, Suite 400, Denver, CO 80231. Phone: (970) 601-7369. Email: Sos@saveoursolarclub.com.
+
+The company describes a nationwide network. Address coverage, technician availability, compatible equipment, costs, and visit timing are confirmed by the team. A 24/7 dispatch line is not a guarantee of a same-day on-site visit. Membership terms and fees are on the current membership page.
+
+## Core pages
+
+- [Home](https://www.saveoursolarclub.com/): Company overview.
+- [Services](https://www.saveoursolarclub.com/services): Current maintenance, repairs, monitoring, roofing, and detach/reset offerings.
+- [Membership](https://www.saveoursolarclub.com/membership): Current plans, pricing, and terms to review with the team.
+- [Insurance](https://www.saveoursolarclub.com/insurance): Storm and loss-damage inspection and claim support.
+- [Insights](https://www.saveoursolarclub.com/insights): Homeowner guides on solar maintenance and repairs.
+- [Contact](https://www.saveoursolarclub.com/contact): Inspection and service inquiries.
+- [About](https://www.saveoursolarclub.com/about): Company and network information.
+
+## Sitemaps
+
+- [Sitemap](https://www.saveoursolarclub.com/sitemap.xml): Canonical URLs for every service, service detail, and insight page.
+
+## Legal pages
+
+- [Privacy](https://www.saveoursolarclub.com/privacy-policy)
+- [Terms](https://www.saveoursolarclub.com/terms-conditions)

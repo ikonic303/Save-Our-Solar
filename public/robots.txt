@@ -1,0 +1,5 @@
+# Search and AI discovery. Keep any required existing private-path rules when merging.
+User-agent: *
+Allow: /
+
+Sitemap: https://www.saveoursolarclub.com/sitemap.xml
