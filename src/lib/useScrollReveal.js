@@ -18,6 +18,11 @@ const REVEAL_SELECTORS = [
 // Parents whose children should reveal with a staggered delay instead of all at once.
 const STAGGER_PARENT_SELECTOR = ".grid, .impact-stats-grid, .gallery-grid";
 
+// The first page load arrives prerendered and is already painted before JS runs, so
+// hiding on-screen elements to fade them back in would flicker. Only below-the-fold
+// elements reveal on that first load; later route changes animate as before.
+let isFirstLoad = true;
+
 export default function useScrollReveal() {
   const { pathname } = useLocation();
 
@@ -44,7 +49,11 @@ export default function useScrollReveal() {
       { threshold: 0.12, rootMargin: "0px 0px -60px 0px" }
     );
 
+    const skipOnScreen = isFirstLoad;
+    isFirstLoad = false;
+
     els.forEach((el) => {
+      if (skipOnScreen && el.getBoundingClientRect().top < window.innerHeight) return;
       el.classList.add("reveal");
       const parent = el.parentElement;
       if (parent && parent.matches(STAGGER_PARENT_SELECTOR)) {

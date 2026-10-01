@@ -26,3 +26,6 @@ dist-ssr
 # Service-area generator: offline review page and raw research downloads
 geo/SaveOurSolar-City-Pages-Review.html
 geo/data/source/nasa-tiles/
+
+# Temporary server bundle used by scripts/prerender.js
+dist-ssr

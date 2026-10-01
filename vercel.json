@@ -1,4 +1,12 @@
 {
+  "cleanUrls": true,
+  "redirects": [
+    {
+      "source": "/((?!service-areas/).+)/",
+      "destination": "/$1",
+      "permanent": true
+    }
+  ],
   "headers": [
     {
       "source": "/service-areas/(.*\\.md)",
@@ -6,12 +14,6 @@
         { "key": "Content-Type", "value": "text/markdown; charset=utf-8" },
         { "key": "X-Robots-Tag", "value": "noindex" }
       ]
-    }
-  ],
-  "rewrites": [
-    {
-      "source": "/((?!service-areas/).*)",
-      "destination": "/index.html"
     }
   ]
 }

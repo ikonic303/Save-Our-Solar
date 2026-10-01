@@ -3,7 +3,9 @@ import { useEffect, useRef, useState } from "react";
 // Counts up from 0 to `value` once, when the element first scrolls into view.
 export default function StatCounter({ value, prefix = "", suffix = "", decimals = 0, duration = 1600 }) {
   const ref = useRef(null);
-  const [display, setDisplay] = useState(0);
+  // Start at the real value so the prerendered HTML (what crawlers read) shows the
+  // actual figure; the effect resets to 0 in the browser just before animating.
+  const [display, setDisplay] = useState(value);
   const hasRun = useRef(false);
 
   useEffect(() => {
@@ -14,6 +16,7 @@ export default function StatCounter({ value, prefix = "", suffix = "", decimals 
       setDisplay(value);
       return;
     }
+    setDisplay(0);
 
     const observer = new IntersectionObserver(
       (entries) => {
