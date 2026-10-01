@@ -15,7 +15,7 @@
     document.querySelectorAll('.state-group').forEach(group => {
       group.hidden = ![...group.querySelectorAll('.city-link')].some(link => !link.hidden);
     });
-    document.getElementById('city-count').textContent = count ? `${count} city ${count === 1 ? 'guide' : 'guides'} shown` : 'No matching city. Call (970) 601-7369 to check your address.';
+    document.getElementById('city-count').textContent = count ? `${count} city ${count === 1 ? 'guide' : 'guides'} shown` : 'No matching city. Call (719) 418-1751 to check your address.';
   };
   search.addEventListener('input', update);
   if (state) state.addEventListener('change', update);

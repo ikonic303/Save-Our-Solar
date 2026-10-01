@@ -1,6 +1,6 @@
 // Central source of truth for contact info used in Header, Footer, Contact page, and schema.org markup.
-export const PHONE_DISPLAY = "+1 (970) 601-7369";
-export const PHONE_TEL = "tel:+19706017369";
+export const PHONE_DISPLAY = "+1 (719) 418-1751";
+export const PHONE_TEL = "tel:+17194181751";
 
 export const EMAIL = "Sos@saveoursolarclub.com";
 

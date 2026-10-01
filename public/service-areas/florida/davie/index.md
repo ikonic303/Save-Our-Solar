@@ -10,7 +10,7 @@ Florida / Residential solar support
 
 A system you already own deserves reliable support. Connect with Save Our Solar Club for repairs, maintenance, monitoring help, and panel removal and reinstallation in Davie, FL.
 
-[Request an inspection](https://www.saveoursolarclub.com/contact?utm_source=service-area&utm_medium=website&utm_campaign=solar-care&utm_content=fl-davie)[Call (970) 601-7369](tel:+19706017369)
+[Request an inspection](https://www.saveoursolarclub.com/contact?utm_source=service-area&utm_medium=website&utm_campaign=solar-care&utm_content=fl-davie)[Call (719) 418-1751](tel:+17194181751)
 
 National network. Address-level availability. Share your equipment and service needs so we can confirm the right next step.
 
@@ -230,7 +230,7 @@ Questions from solar homeowners
 
 ### How do I request solar repair in Davie?
 
-Call (970) 601-7369 or use the inspection request page. Include your Davie service address, panel and inverter brands, the issue you see, and any monitoring screenshots. The team confirms address coverage, equipment compatibility, scope, and scheduling before a visit.
+Call (719) 418-1751 or use the inspection request page. Include your Davie service address, panel and inverter brands, the issue you see, and any monitoring screenshots. The team confirms address coverage, equipment compatibility, scope, and scheduling before a visit.
 
 ### Is a production drop in December normal near Davie?
 
@@ -270,6 +270,6 @@ Tell us about your Davie system. We’ll help you find the next step.
 
 Save Our Solar Club supports residential solar owners through a nationwide network of solar professionals. Address coverage, technician availability, equipment compatibility, costs, and visit timing are confirmed by our team.
 
-Phone: (970) 601-7369
+Phone: (719) 418-1751
 Email: Sos@saveoursolarclub.com
 Denver office: 7535 East Hampden Avenue, Suite 400, Denver, CO 80231
